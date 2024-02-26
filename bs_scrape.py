@@ -17,6 +17,7 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
+from urllib.parse import urljoin    # added to support Laela's addition line 61
 
 urls = []
 # the string 'do not sell' is facored to catch sites subject to California laws
@@ -56,7 +57,9 @@ def explore(url, parent_url, depth):
         for link in links:
             for s in strings:
                 if s in link.text.lower(): # try to eliminate case
-                    return 'True', link.get('href'), depth
+                    #print(link)
+                    absolute_url = urljoin(url, link.get('href'))   # from Laela
+                    return 'True', absolute_url, depth  # searches for the keywords in the actual text of the link, not the url
 
         # iteration
         links = soup.find_all('a')
