@@ -17,3 +17,5 @@ Explanation of COMPOSITE_Text_Scrape_CLEANED.xlsx file:
 6) the idea with the color coding is we may want to only use the pairs where the non-CCPA and CCPA privacy statements are completely separate.
    a) When Column D is filterd for GREEN only the result is 460 non-blank lines indicating there are 230 pairs where the statements are separate
    b) When Column D is filterd for YELLOW the result is 294 non-blank lines indicating there are 147 pairs wher the statements are blended
+UPDATE 03/26/2024:
+7) In order to facilitate looping through text of pairs of privacy statements created .csv files where all of the data for one base URL is on on row. See headers for column descriptions.
