@@ -113,6 +113,33 @@ def scrape_base():
             counter += 1
     print(result_list)  # optional
 
+def get_text():
+    text_list_from_csv = csv_to_list('get_text_test_input.csv')
+    
+    header = ['String URL', 'Result', 'Deep URL', 'Text']
+
+    with open('get_text_test_output.csv', 'w', encoding='utf-8', newline='', errors='ignore') as csvfile:  # added encoding='utf-8'
+        writer = csv.writer(csvfile)
+        writer.writerow(header)
+        counter = 0
+
+        for line in text_list_from_csv:
+            # text_list = []
+            # if len(text_list) == 0:
+            #     writer.writerow([line[2], False])
+            # else:
+                # for result in text_list:
+            counter += 1
+            url = line[2]
+            response = requests.get(url)
+            html = response.content
+            soup = BeautifulSoup(html, 'html.parser')
+            text = soup.get_text()
+            clean_text = ''.join(text.split('\n'))
+            my_list = clean_text.split(",")
+            writer.writerow([line[0], line[1], line[2], my_list])
+            print(counter, line[2], my_list[0:1])
+
 def main():
     scrape_base()
 
