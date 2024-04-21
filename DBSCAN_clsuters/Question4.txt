@@ -1,0 +1,2006 @@
+question4 = "Please describe how long data is retained below"	42 clusters
+------------------------------
+Cluster 0
+GPT:  Personal Information retention period not specified.
+GPT:  Name - Retention period not specified
+GPT:  Name retention period not specified
+GPT:  Payment information retention period not specified
+GPT:  Data retention period not specified.
+GPT:  Contact information how long data is retained not specified
+GPT:  Personal Information how long retained is not specified.
+GPT:  Personal Information how long retained not specified
+GPT:  Name retention period not specified
+GPT:  Contact information retention period not specified
+GPT:  Financial information retention period not specified.
+GPT:  Name retention period not explicitly stated.
+GPT:  Payment information retention period not explicitly stated.
+GPT:  Personal identification information retention duration not specified
+GPT:  Non-personal identification information retention duration not specified
+GPT:  Personal Information retention period not specified
+GPT:  Banking information how long retained not specified
+GPT:  Non-personally identifiable information retention period is not specified
+GPT:  Personally identifiable information retention period is not specified
+GPT:  Internet or other electronic network activity information retained as long as necessary to fulfill service or comply with laws.
+GPT:  Contact information retention period is not specified.
+GPT:  Payment information how long retained not specified
+GPT:  Account information how long retained not specified
+GPT:  Name retention period not specified.
+GPT:  Internet or other electronic network activity: Retained as long as necessary for the purposes of collection and use, and for a period after our relationship has ended to comply with legal obligations.
+GPT:  Name retention duration not specified
+CAGPT:  Not specified how long Commercial information is retained
+CAGPT:  Not specified how long Internet or similar network activity is retained
+CAGPT:  Communications data retention period not specified
+CAGPT:  Internet or other similar network activity retention period not specified
+CAGPT:  Internet or other similar network activity is retained as necessary to accomplish the purposes identified and comply with legal obligations
+CAGPT:  Internet or other electronic network activity information is retained for as long as necessary for the purposes for which it was collected, plus any additional time periods necessary for the compliance with laws (usually a minimum of 4 years), exercise or defense of legal rights, and archiving, back-up, and deletion processes.
+CAGPT:  Internet or similar network activity is retained as long as necessary to fulfill the purposes outlined in the privacy policy and as required by law
+CAGPT:  Commercial Data how long data retained: Not specified
+CAGPT:  Financial Data how long data retained: Not specified
+CAGPT:  Internet Data how long data retained: Not specified
+CAGPT:  Internet or other electronic network activity information retention not specified
+CAGPT:  Commercial information how long data is retained: No specific duration mentioned
+CAGPT:  Commercial or transactions information how long data is retained: Not specified
+CAGPT:  Internet or other electronic network activity information how long data is retained: Not specified
+CAGPT:  Internet or other electronic network activity information retained as long as necessary to fulfill the purposes outlined in the privacy notice
+CAGPT:  Internet or other similar network activity how long data is retained not specified
+CAGPT:  Internet or other electronic network activity information how long data is retained is dependent on operational needs and legal requirements.
+CAGPT:  Internet or other electronic network activity information retention not specified
+CAGPT:  Commercial information retention period not mentioned
+CAGPT:  Financial information how long retained not specified
+CAGPT:  Internet activity how long retained not specified
+CAGPT:  Internet or similar network activity is retained as needed for business purposes or as required by law
+CAGPT:  Financial Data how long data retained: Up to 6 years
+CAGPT:  Financial and transactional information how long data is retained: Not specified explicitly.
+CAGPT:  Internet or other similar network activity - retained as long as necessary for a legal or business purpose
+CAGPT:  Internet or other electronic network activity information retained as long as necessary for service provision and legal, accounting, contractual, or reporting requirements.
+CAGPT:  Commercial information how long data is retained is not specified.
+CAGPT:  Internet or other similar network activity how long data is retained is not specified.
+CAGPT:  Commercial Information how long data is retained not specified
+CAGPT:  Contact Information how long data is retained
+CAGPT:  Other personal identifying information how long retained not specified
+CAGPT:  Internet or other electronic network activity retained for as long as necessary to fulfill the purposes outlined or other permitted purposes.
+CAGPT:  Commercial information length of time retained not specified
+CAGPT:  Internet or similar network activity length of time retained not specified
+CAGPT:  Commercial information how long retained not specified
+CAGPT:  Internet or other similar network activity how long retained not specified
+CAGPT:  Internet activity information retained for the duration necessary to fulfill the purposes outlined in the Privacy Policy unless a longer retention period is required or permitted by law
+CAGPT:  Retention period for financial information not specified
+CAGPT:  Retention period for internet activity not specified
+CAGPT:  Internet or other electronic network activity information is retained as long as necessary to fulfill the purposes described in the Privacy Policy.
+CAGPT:  Commercial information how long data is retained not specified
+CAGPT:  Internet or other electronic network activity information how long data is retained not specified
+CAGPT:  Internet or other electronic network activity information how long retained is not specified.
+CAGPT:  Financial information how long retained not specified
+CAGPT:  Commercial information how long retained not specified.
+CAGPT:  Internet or other similar network activity how long retained not specified.
+CAGPT:  Internet or other electronic network activity information retained as necessary for analysis and legal compliance
+CAGPT:  Internet or other electronic network activity information retained for at least as long as necessary to fulfill the purposes described in the Privacy Policy, including to satisfy legal or reporting requirements
+CAGPT:  Internet or other electronic network activity information retained as long as your account is active or as required to fulfill legal obligations
+CAGPT:  Internet or other similar network activity retained as necessary to fulfill the purposes for which they were collected or as required by law
+CAGPT:  Internet or Other Electronic Network Activity Information how long retained: As long as account is active or as needed to provide services
+CAGPT:  Internet or Other Electronic Network Activity Information retained as long as user account is open or as needed to provide services
+CAGPT:  Not specified how long Financial information is retained
+CAGPT:  Not specified how long Internet activity is retained
+CAGPT:  Internet or Similar Network Activity retained as per applicable laws and policies
+CAGPT:  Payment Information how long data is retained not specified
+CAGPT:  Product Information how long data is retained not specified
+CAGPT:  Commercial Information how long data is retained not specified
+CAGPT:  Internet Or Other Electronic Network Activity Information how long data is retained not specified
+CAGPT:  Commercial or transactions information; how long data is retained: Not specified in the text
+CAGPT:  Internet or other electronic network activity information; how long data is retained: Not specified in the text
+CAGPT:  Commercial information how long data retained  
+CAGPT:  Internet or other electronic network activity information how long data retained  
+CAGPT:  Commercial information's data retention not specified
+CAGPT:  Internet or other similar network activity's data retention not specified
+CAGPT:  Identity Data retention period not specified
+CAGPT:  Commercial Data retention period not specified
+CAGPT:  Internet Use Data retention period not specified
+CAGPT:  Commercial information how long retained is not specified
+CAGPT:  Internet or other similar network activity how long retained is not specified
+CAGPT:  Commercial information retention period not specified
+CAGPT:  Financial Data how long data retained: Same as Identifiers
+CAGPT:  Commercial Data retention period not specified
+CAGPT:  Financial Data retention period not specified
+CAGPT:  Internet Data retention period not specified
+CAGPT:  Internet or similar network activity retention duration not specified
+CAGPT:  Personal Information retention period not specified
+CAGPT:  Internet or other electronic network activity information how long data found in question2 is retained
+CAGPT:  Internet or other network activity information retained for a period consistent with the original purpose of collection or as long as required to fulfill legal obligations
+CAGPT:  Internet or other similar network activity retained as long as necessary to fulfill the purposes outlined in the privacy notice unless a longer retention period is required or permitted by law
+CAGPT:  Financial information how long retained: Not specified
+CAGPT:  Commercial information retention period not specified
+CAGPT:  Internet or other similar network activity information retention period not specified
+CAGPT:  Internet or other similar network activity is retained for as long as reasonably necessary
+CAGPT:  Internet or other electronic network activity information retention period not specified
+CAGPT:  Commercial Information how long data is retained not specified 
+CAGPT:  Internet or other similar network activity how long data is retained not specified 
+CAGPT:  Internet or other electronic network activity information retained for the duration necessary for service provision and legal compliance.
+CAGPT:  Commercial Information how long data is retained not specified
+CAGPT:  Internet or other similar network activity how long retained not specified
+CAGPT:  Financial information how long retained not specified
+CAGPT:  Internet activity how long retained not specified
+CAGPT:  Commercial information retainment period is not specified.
+CAGPT:  Internet or other similar network activity retainment period is not specified.
+CAGPT:  Internet or other similar network activity retention period not specified
+CAGPT:  Customer service information how long data retained: Not specified
+CAGPT:  Financial information how long data retained: Not specified
+CAGPT:  Business information how long data retained: Not specified
+CAGPT:  Commercial Information retention period not specified
+CAGPT:  Commercial Data how long data retained: Not specified.
+CAGPT:  Internet or other electronic network activity information how long data retained: Not specified.
+CAGPT:  Internet or other similar network activity retained for as long as reasonably necessary.
+---------------------------
+Cluster 1
+GPT:  E-mail address - Retention period not specified
+GPT:  Email address retention period not specified
+GPT:  Email address retention period not specified
+GPT:  Email address how long retained not specified
+GPT:  Not specified how long email address is retained
+GPT:  Retention period not specified for email address
+GPT:  E-mail address how long data retained not specified.
+GPT:  Email address retention period not explicitly stated.
+GPT:  E-mail address how long retained not specified
+GPT:  E-mail address retention period not specified.
+GPT:  E-mail address retention duration not specified
+---------------------------
+Cluster 2
+GPT:  Phone number - Retention period not specified
+GPT:  Phone number how long retained not specified
+GPT:  Not specified how long telephone number is retained
+GPT:  Retention period not specified for phone number
+GPT:  Phone number how long retained not specified
+GPT:  Phone number retention period not specified.
+GPT:  Phone number retention duration not specified
+---------------------------
+Cluster 3
+GPT:  Unique identifiers retention not specified.
+CAGPT:  Not specified how long Identifiers are retained
+CAGPT:  Identifiers retention period not specified
+CAGPT:  Identifiers how long data retained: Not specified
+CAGPT:  Online Identifiers retention not specified
+CAGPT:  Identifiers how long data is retained: No specific duration mentioned
+CAGPT:  Identifiers how long data is retained not specified
+CAGPT:  Identifiers retention not specified
+CAGPT:  Unique identifiers how long retained not specified
+CAGPT:  Technical Identifiers how long data is retained: Not specified
+CAGPT:  Identifiers how long data is retained is not specified.
+CAGPT:  Identifiers how long data is retained not specified
+CAGPT:  Identifiers how long retained not specified
+CAGPT:  Identifiers length of time retained not specified
+CAGPT:  Identifiers how long retained not specified
+CAGPT:  Retention period for unique identifiers not specified
+CAGPT:  Identifiers how long data is retained not specified
+CAGPT:  Identifiers how long retained is not specified.
+CAGPT:  Unique identifiers how long retained not specified
+CAGPT:  Identifiers how long retained not specified.
+CAGPT:  Not specified how long Unique identifiers are retained
+CAGPT:  Identifiers how long data is retained not specified
+CAGPT:  Identifiers how long data retained  
+CAGPT:  Identifiers' data retention not specified
+CAGPT:  Identifiers how long retained is not specified
+CAGPT:  Identifiers retention period not specified
+CAGPT:  Identifiers retention period not specified
+CAGPT:  Identifiers retention duration not specified
+CAGPT:  Identifiers how long retained not specified 
+CAGPT:  Unique identifiers how long retained: Not specified
+CAGPT:  Identifiers retention period not specified
+CAGPT:  Identifiers how long retained not specified.
+CAGPT:  Identifiers retention period not specified
+CAGPT:  Identifiers how long data is retained not specified 
+CAGPT:  Unique Identifiers how long data is retained
+CAGPT:  Identifiers how long data is retained not specified
+CAGPT:  Identifiers how long retained not specified
+CAGPT:  Unique identifiers how long retained not specified
+CAGPT:  Identifiers retainment period is not specified.
+CAGPT:  Identifiers retention period not specified
+CAGPT:  Identifiers how long data retained: Not specified
+CAGPT:  Identifiers retention period not specified
+---------------------------
+Cluster 4
+GPT:  Physical location visit data retention period not specified.
+GPT:  Location information how long data is retained not specified
+GPT:  Name how long data retained not specified.
+GPT:  Geo-location retention period is not specified.
+CAGPT:  Geo-location Data how long data retained: Not specified
+CAGPT:  Geolocation how long data is retained: No specific duration mentioned
+CAGPT:  Geolocation information how long data is retained: Not specified
+CAGPT:  Geolocation data how long retained as described in the "Retention" section of the Privacy Policy
+CAGPT:  Geolocation data how long data is retained not specified
+CAGPT:  Geolocation data how long retained not specified
+CAGPT:  Geolocation data how long data is retained: Not specified
+CAGPT:  Geolocation Information how long data is retained not specified
+CAGPT:  Geolocation data how long data is retained
+CAGPT:  Geolocation data how long retained not specified
+CAGPT:  Not specified how long data is retained
+CAGPT:  Not specified how long data is retained
+CAGPT:  Not specified how long data is retained
+CAGPT:  Not specified how long data is retained
+CAGPT:  Not specified how long data is retained
+CAGPT:  Not specified how long data is retained
+CAGPT:  Retention period for geolocation data not specified
+CAGPT:  Geolocation data how long data is retained not specified
+CAGPT:  Geolocation data how long retained is not specified.
+CAGPT:  Not specified how long Geolocation data is retained
+CAGPT:  Approximate Geolocation data how long data retained  
+CAGPT:  Geo-location Data retention period not specified
+CAGPT:  Geolocation Data how long retained not specified 
+CAGPT:  Geolocation data retention period not specified
+CAGPT:  Geolocation data retention period not specified
+CAGPT:  Geolocation data how long data is retained not specified 
+CAGPT:  Geolocation Data how long data is retained not specified
+CAGPT:  Geolocation data how long retained not specified
+CAGPT:  Geolocation data retainment period is not specified.
+CAGPT:  Geolocation information how long data retained: Not specified
+CAGPT:  Geolocation Data retention period not specified
+CAGPT:  Geolocation Information how long data retained: Not specified.
+CAGPT:  No specific retention period for geolocation detailed
+---------------------------
+Cluster 5
+GPT:  Content Data how long data found in question2 is retained
+GPT:  Personal information how long data found in question2 is retained
+GPT:  Device Information how long data found in question2 is retained
+GPT:  Identifiers how long data found in question2 is retained
+GPT:  Content and files how long data found in question2 is retained
+GPT:  Personal Information how long data found in question2 is retained
+---------------------------
+Cluster 6
+GPT:  Information is retained as long as necessary for the purpose it was collected for, legitimate business purposes, or as required by law.
+GPT:  Personal information retained for the period needed to fulfill the purposes for which the personal information was collected and as otherwise required or permitted by applicable law
+GPT:  Personal information is retained as long as necessary to fulfill the purposes we collected it for, as required to satisfy any legal, accounting, or reporting requirements, as necessary to resolve disputes, or as otherwise requested by you.
+GPT:  Registration information is retained for as long as needed to fulfill the purposes outlined in the privacy policy unless a longer retention period is required or permitted by law.
+GPT:  Personal Information is retained as needed to fulfill the purposes collected
+GPT:  Contact information is retained for the duration necessary to fulfill the purposes outlined in the Privacy Policy unless a longer retention period is required or permitted by law.
+GPT:  Contact information is retained as long as necessary for the purpose it was collected for, or for the duration required by law.
+GPT:  Contact information is retained as long as necessary for the purposes collected or as legally required.
+GPT:  Personal information retained as long as necessary for the purposes given in the privacy policy and as required by law
+GPT:  Contact Information is retained as long as necessary for business requirements, legal obligations, dispute resolution, and enforcing agreements.
+GPT:  Personal information is retained no longer than necessary to fulfill the purposes it was originally collected for unless a longer retention period is required or permitted by law.
+GPT:  Personal Information is retained for as long as necessary to fulfill the purposes described in the Privacy Policy and comply with legal obligations
+GPT:  Personal Information retained as long as necessary for the purposes set out in the Privacy Policy.
+GPT:  Contact Information retained as long as necessary or as required by law
+GPT:  Contact information is retained for the period needed to fulfill the purposes for which it was collected and as otherwise required or permitted by applicable law.
+GPT:  Personal information is retained for the period necessary to fulfill the purposes outlined in the Policy, unless a longer retention period is required or permitted by law.
+GPT:  Contact information is retained for as long as necessary for the purposes listed in the Privacy Policy unless a longer retention period is required under applicable law.
+GPT:  Personal information is retained for the period necessary to fulfill the purposes outlined unless a longer retention period is required or permitted by law
+GPT:  Personal information is retained for the period necessary to fulfill the purposes outlined in the Privacy Notice.
+GPT:  Contact information is retained as long as it is needed for the purposes for which it was obtained or as legally required.
+GPT:  Personal information is retained as necessary to provide products and services and for as long as required to fulfill the purposes described in the policy.
+CAGPT:  Contact information retained for the period necessary to fulfill purposes outlined in the privacy policy or as needed to provide/market products unless a longer retention is required/permitted by law
+CAGPT:  Personal information as mentioned in 2.1 is retained for as long as necessary to fulfill the purposes outlined in the Privacy Policy, unless a longer retention period is required or permitted by law.
+CAGPT:  Personal information is retained as long as necessary to fulfill the purposes described
+CAGPT:  Contact Information is retained for as long as necessary to fulfill the purposes for which it was collected and for legitimate business purposes.
+CAGPT:  Activity Information is retained for as long as necessary to fulfill the purposes for which it was collected and for legitimate business purposes.
+CAGPT:  Call Information is retained for as long as necessary to fulfill the purposes for which it was collected and for legitimate business purposes.
+CAGPT:  Personal Information is retained for as long as necessary for the purposes described in the Notice or otherwise authorized by law
+---------------------------
+Cluster 7
+GPT:  IP address how long retained not specified
+GPT:  Not specified how long IP address is retained
+GPT:  Not specified how long address is retained
+GPT:  Retention period not specified for IP address
+GPT:  Internet Protocol address how long retained not specified
+---------------------------
+Cluster 8
+GPT:  Personal Information is retained for as long as necessary to fulfill the transactions or services requested, comply with legal obligations, and resolve disputes.
+GPT:  Personal information is retained as long as necessary to fulfill transactions, provide services, and comply with legal obligations.
+GPT:  Personal Information is retained as long as necessary to fulfill purchases, services, or as legally required.
+GPT:  Personal Information is retained for as long as necessary to provide requested services and comply with legal obligations.
+---------------------------
+Cluster 9
+GPT:  Same as 4.1
+GPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+CAGPT:  Same as 4.1
+---------------------------
+Cluster 10
+GPT:  Item 1 how long data retained: As necessary to provide services, comply with legal obligations
+GPT:  Item 2 how long data retained: As necessary to provide services, comply with legal obligations
+GPT:  Item 3 how long data retained: As necessary to provide services, comply with legal obligations
+GPT:  Item 4 how long data retained: As necessary to provide services, comply with legal obligations
+GPT:  Item 5 how long data retained: As necessary to provide services, comply with legal obligations
+GPT:  Item 6 how long data retained: As necessary to provide services, comply with legal obligations
+GPT:  Item 7 how long data retained: As necessary to provide services, comply with legal obligations
+GPT:  Item 8 how long data retained: As necessary to provide services, comply with legal obligations
+GPT:  Item 9 how long data retained: As necessary to provide services, comply with legal obligations
+GPT:  Item 10 how long data retained: As necessary to provide services, comply with legal obligations
+GPT:  Item 11 how long data retained: As necessary to provide services, comply with legal obligations
+---------------------------
+Cluster 11
+GPT:  Identifiers retained as long as necessary to fulfill service or comply with laws.
+GPT:  Identifiers retained as long as necessary to fulfill the purposes collected for.
+GPT:  Identifiers: Retained as long as necessary for the purposes of collection and use, and for a period after our relationship has ended to comply with legal obligations.
+GPT:  Personal identifiers are retained for as long as necessary to fulfill purposes collected, satisfy legal, accounting, or reporting requirements.
+CAGPT:  Identifiers are retained as long as necessary to fulfill the purposes outlined in the privacy notice.
+CAGPT:  Identifiers are retained as long as there is an ongoing legitimate business need.
+CAGPT:  Identifiers are retained as necessary to accomplish the purposes identified and comply with legal obligations
+CAGPT:  Identifiers are retained for as long as necessary for the purposes for which it was collected, plus any additional time periods necessary for the compliance with laws (usually a minimum of 4 years), exercise or defense of legal rights, and archiving, back-up, and deletion processes.
+CAGPT:  Identifiers are retained as long as necessary to fulfill the purposes outlined in the privacy policy and as required by law
+CAGPT:  Identifiers retained as long as necessary to fulfill the purposes outlined in the privacy notice
+CAGPT:  Identifiers retained as long as necessary for service provision and legal, accounting, contractual, or reporting requirements
+CAGPT:  Identifiers are retained as needed for business purposes or as required by law
+CAGPT:  Unique identifiers retained for a period consistent with legal requirements or until no longer needed for business purposes
+CAGPT:  Identifiers - retained as long as necessary for a legal or business purpose
+CAGPT:  Personal and online identifiers retained as long as necessary for service provision and legal, accounting, contractual, or reporting requirements.
+CAGPT:  Identifiers are retained as long as necessary to fulfill the purposes outlined in the Privacy Policy and as required by law
+CAGPT:  Identifiers retained for as long as necessary to fulfill the purposes outlined or other permitted purposes.
+CAGPT:  Identifiers are retained as required by law for each corresponding purpose mentioned.
+CAGPT:  Identifiers retained for the duration necessary to fulfill the purposes outlined in the Privacy Policy unless a longer retention period is required or permitted by law
+CAGPT:  Identifiers are retained as long as necessary to fulfill the purposes described in the Privacy Policy.
+CAGPT:  Identifiers retained as long as necessary to fulfill collection purposes.
+CAGPT:  Identifiers retained as long as necessary to fulfill the purposes outlined in the privacy policy and comply with law
+CAGPT:  Identifiers retained for at least as long as necessary to fulfill the purposes described in the Privacy Policy, including to satisfy legal or reporting requirements
+CAGPT:  Identifiers retained as long as your account is active or as required to fulfill legal obligations
+CAGPT:  Identifiers retained as necessary to fulfill the purposes for which they were collected or as required by law
+CAGPT:  Identifiers are retained for as long as is reasonably necessary and proportionate to the original purpose for collection.
+CAGPT:  Identifiers retained as long as necessary to fulfill legal and regulatory obligations
+CAGPT:  Identifiers retained for the period necessary to fulfill the purposes outlined in privacy policy
+CAGPT:  Identifiers are retained as long as necessary to fulfill the purposes for which it was collected and for business or legal reasons, or in accordance with applicable laws.
+CAGPT:  Identifiers retained for a period consistent with the original purpose of collection or as long as required to fulfill legal obligations
+CAGPT:  Identifiers retained as long as necessary to fulfill the purposes outlined in the privacy notice unless a longer retention period is required or permitted by law
+CAGPT:  Identifiers retained for as long as necessary to carry out the purposes set forth in the Privacy Notice, no longer than required or permitted under applicable law or internal policy.
+CAGPT:  Identifiers are retained for as long as reasonably necessary
+CAGPT:  Identifiers retained as long as needed for Business Purposes
+CAGPT:  Identifiers retained for the duration necessary for service provision and legal compliance.
+CAGPT:  Identifiers retained for the duration of the relationship or as required by law
+CAGPT:  Identifiers are retained as per the company's data retention policy necessary for providing services, legal compliance, and fulfilling contracts.
+CAGPT:  Identifiers are retained for the period necessary to fulfill the purposes outlined in the notice unless a longer retention period is required or permitted by law.
+CAGPT:  Identifiers such as name, address, email address are retained as long as necessary to fulfill the purposes outlined in the Privacy Policy
+CAGPT:  Identifiers retained as long as necessary to carry out purposes set forth in Privacy Notice or as required or permitted under applicable law
+CAGPT:  Identifiers retained as long as necessary for business purposes
+CAGPT:  Identifiers retained for as long as reasonably necessary.
+CAGPT:  Identifiers retained until it remains necessary for the purposes collected
+CAGPT:  Identifiers retained for as long as necessary for the purposes described or otherwise authorized by law
+CAGPT:  Identifiers retained as long as needed to fulfill the purposes collected and as required by legal, regulatory, or industry retention requirements
+CAGPT:  Identifiers are retained as long as needed for legal, tax, audit, investigative, and security purposes.
+---------------------------
+Cluster 12
+GPT:  Geographic location information is retained as long as it is necessary for providing location-based features.
+GPT:  Geolocation Information retained as long as necessary for the purpose collected or for the duration required by law.
+GPT:  Geolocation data is retained as per the retention policies applicable to the fulfillment of the services and compliance with legal requirements.
+GPT:  Geolocation data is retained as long as necessary to provide the Services and fulfill transactions
+GPT:  Geo-location information is retained as long as necessary to provide the requested services.
+CAGPT:  Geolocation data is retained as necessary for service provision and improvement.
+CAGPT:  Geolocation data is retained for as long as necessary for the purposes for which it was collected, plus any additional time periods necessary for the compliance with laws (usually a minimum of 4 years), exercise or defense of legal rights, and archiving, back-up, and deletion processes.
+CAGPT:  Geolocation data is retained as long as necessary to fulfill the purposes outlined in the privacy policy and as required by law
+CAGPT:  Geolocation data retained as long as necessary to fulfill the purposes outlined in the privacy notice
+CAGPT:  Geolocation data how long data is retained is as per the necessity for service provision and legal compliance.
+CAGPT:  Geolocation data is retained as needed for business purposes or as required by law
+CAGPT:  Geolocation data retained for a period consistent with legal requirements or until no longer needed for business purposes
+CAGPT:  Geolocation information retained as long as necessary for service provision and legal, accounting, contractual, or reporting requirements.
+CAGPT:  Geolocation information retained for as long as necessary to fulfill the purposes outlined or other permitted purposes.
+CAGPT:  Geolocation data retained for the duration necessary to fulfill the purposes outlined in the Privacy Policy unless a longer retention period is required or permitted by law
+CAGPT:  Geolocation data is retained as long as necessary to fulfill the purposes described in the Privacy Policy.
+CAGPT:  Geolocation data retained as necessary for service personalization.
+CAGPT:  Geolocation data retained as necessary for the provision of services and legal obligations
+CAGPT:  Geolocation data retained for at least as long as necessary to fulfill the purposes described in the Privacy Policy, including to satisfy legal or reporting requirements
+CAGPT:  Geolocation data retained as necessary to fulfill the purposes for which they were collected or as required by law
+CAGPT:  Geolocation Data retained as long as user account is open or as needed to provide services
+CAGPT:  Geolocation data retained for the period necessary to fulfill the purposes outlined in privacy policy
+CAGPT:  Geolocation data retained as long as necessary to fulfill the purposes outlined in the privacy notice unless a longer retention period is required or permitted by law
+CAGPT:  Geolocation data is retained for as long as reasonably necessary
+CAGPT:  Geolocation data is retained as long as necessary to carry out the processing activities described
+CAGPT:  Geolocation data retained for the duration necessary for service provision and legal compliance.
+CAGPT:  Geolocation data retained for as long as reasonably necessary.
+CAGPT:  Geolocation Data retained for as long as necessary for the purposes described or otherwise authorized by law
+---------------------------
+Cluster 13
+GPT:  Not specified in the provided text.
+CAGPT:  Not specified in provided text
+CAGPT:  Not specified in provided text
+CAGPT:  Not specified in provided text
+CAGPT:  Not specified in provided text
+CAGPT:  Not specified in provided text
+CAGPT:  Not specified in provided text
+CAGPT:  Not specified in provided text
+CAGPT:  Not specified in provided text
+---------------------------
+Cluster 14
+GPT:  Characteristics of protected classifications under California or federal law how long data found in question2 is retained
+CAGPT:  Protected classification characteristics under California or federal law are retained as necessary for the purposes they were obtained.
+CAGPT:  Not specified how long Protected classification characteristics under California or federal law are retained
+CAGPT:  Protected classification characteristics under California or federal law retention period not specified
+CAGPT:  Characteristics of protected classifications under California or federal law how long retained as described in the "Retention" section of the Privacy Policy
+CAGPT:  Protected classification characteristics under California or federal law how long data is retained not specified
+CAGPT:  Characteristics of protected classifications under California or federal law how long data is retained is as long as necessary for fulfilling the purpose for which it was collected and to comply with legal obligations.
+CAGPT:  Protected classification characteristics under California or federal law retained to comply with legal obligations
+CAGPT:  Protected classification characteristics under California or federal law are retained as needed for business purposes or as required by law
+CAGPT:  Protected classification characteristics under California or federal law how long data is retained is not specified.
+CAGPT:  Protected classification characteristics under California or federal law are retained according to the company's data retention policy
+CAGPT:  Protected classification characteristics under California or federal law how long retained not specified
+CAGPT:  Characteristics of Protected Classifications under California or Federal Law how long retained: As required by law and company policy.
+CAGPT:  Protected classification characteristics under California or federal law how long retained not specified
+CAGPT:  Characteristics of protected classifications under California or federal law how long data is retained not specified
+CAGPT:  Protected classification characteristics under California or federal law how long retained not specified.
+CAGPT:  Characteristics of protected classifications under California or federal law retained as per applicable anti-discrimination laws
+CAGPT:  Protected classification characteristics under California law retained for at least as long as necessary to fulfill the purposes described in the Privacy Policy, including to satisfy legal or reporting requirements
+CAGPT:  Characteristics of protected classifications under California or federal law retained as long as your account is active or as required to fulfill legal obligations
+CAGPT:  Protected classifications under California or federal law how long retained not specified
+CAGPT:  Characteristics of protected classifications under California law are retained for as long as is reasonably necessary and proportionate to the original purpose for collection.
+CAGPT:  Protected classification characteristics under California or federal law retained as long as necessary to fulfill the purposes outlined in the privacy notice unless a longer retention period is required or permitted by law
+CAGPT:  Protected classification characteristics under California or federal law how long retained not specified. 
+CAGPT:  Characteristics of protected classifications under California or US law retention period not specified
+CAGPT:  Characteristics of protected classifications under California or federal law are retained as long as necessary to carry out the processing activities described
+CAGPT:  Protected classification characteristics under California or federal law how long retained not specified
+CAGPT:  Protected classification characteristics under California or federal law how long data found in question2 is retained: Same as 4.1.
+CAGPT:  Protected classification characteristics under California or federal law retainment period is not specified.
+CAGPT:  Protected classification characteristics under California or federal law retention period not specified
+CAGPT:  Protected classification characteristics under California or federal law are retained for the period necessary to fulfill the purposes outlined in the notice unless a longer retention period is required or permitted by law.
+---------------------------
+Cluster 15
+GPT:  Item 2 how long data found in question2 is retained: Retention duration not specified for voluntarily provided data; presupposed to be as long as necessary for the purposes for which data was collected.
+CAGPT:  Item 1 how long data retained: Not specified
+CAGPT:  Item 2 how long data retained: Not specified
+CAGPT:  Item 3 how long data retained: Not specified
+CAGPT:  Item 4 how long data retained: Not specified
+CAGPT:  Item 5 how long data retained: Not specified
+CAGPT:  Item 6 how long data retained: Not specified
+CAGPT:  Item 7 how long data retained: Not specified
+CAGPT:  Item 8 how long data retained: Not specified
+CAGPT:  Item 9 how long data retained: Not specified
+CAGPT:  Item 1 how long data found in question2 is retained: Not specified.
+CAGPT:  Item 2 how long data found in question2 is retained: Not specified.
+CAGPT:  Item 3 how long data found in question2 is retained: Not specified.
+CAGPT:  Item 1 how long data found in question2 is retained: Not specified
+CAGPT:  Item 2 how long data found in question2 is retained: Not specified
+CAGPT:  Item 3 how long data found in question2 is retained: Not specified
+CAGPT:  Item 1 how long data found in question2 is retained: Not specified
+CAGPT:  Item 2 how long data found in question2 is retained: Not specified
+CAGPT:  Item 3 how long data found in question2 is retained: Not specified
+CAGPT:  Item 4 how long data found in question2 is retained: Not specified
+CAGPT:  Item 5 how long data found in question2 is retained: Not specified
+CAGPT:  Item 6 how long data found in question2 is retained: Not specified
+CAGPT:  Item 7 how long data found in question2 is retained: Not specified
+CAGPT:  Item 8 how long data found in question2 is retained: Not specified
+CAGPT:  Item 1 how long data is retained: Not specified
+CAGPT:  Item 2 how long data is retained: Not specified
+CAGPT:  Item 3 how long data is retained: Not specified
+---------------------------
+Cluster 16
+GPT:  Billing address how long data retained not specified.
+GPT:  Billing address retention period not specified.
+GPT:  Shipping address retention period not specified.
+GPT:  Billing address retention duration not specified
+GPT:  Shipping address retention duration not specified
+---------------------------
+Cluster 17
+GPT:  Not specified
+GPT:  Not specified
+GPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified 
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+CAGPT:  Not specified
+---------------------------
+Cluster 18
+GPT:  Contact Data is retained as per the company's data retention policy
+GPT:  Technical Data is retained as per the company's data retention policy
+GPT:  Profile Data is retained as per the company's data retention policy
+GPT:  Usage Data is retained as per the company's data retention policy
+GPT:  Location Data is retained as per the company's data retention policy
+---------------------------
+Cluster 19
+CAGPT:  California Customer Records personal information categories are retained as necessary to comply with our legal obligations.
+CAGPT:  Not specified how long Personal information categories listed in the California Customer Records statute are retained
+CAGPT:  Personal information categories listed in the California Customer Records statute retention period not specified
+CAGPT:  Personal information categories listed in the California Customer Records statute are retained as necessary to accomplish the purposes identified and comply with legal obligations
+CAGPT:  Personal information categories listed in the California Consumer Records statute are retained as long as necessary to fulfill the purposes outlined in the privacy policy and as required by law
+CAGPT:  Personal information as described in California customer records statute how long retained as described in the "Retention" section of the Privacy Policy
+CAGPT:  California Customer Records personal information categories how long data is retained not specified
+CAGPT:  Personal information categories listed in the California Customer Records statute are retained as needed for business purposes or as required by law
+CAGPT:  Personal information categories listed in the California Customer Records statute - retained as long as necessary for a legal or business purpose
+CAGPT:  Personal information categories listed in the California Customer Records statute how long data is retained is not specified.
+CAGPT:  Personal information categories listed in the California Customer Records statute are retained according to the company's data retention policy
+CAGPT:  Personal information categories listed in the California Customer Records statute how long retained not specified
+CAGPT:  Personal Information described in California Customer Records statute length of time retained not specified
+CAGPT:  Personal information categories listed in the California Customer Records statute how long retained not specified
+CAGPT:  Personal information categories listed in the California Customer Records statute how long retained not specified.
+CAGPT:  Personal information categories listed in the California Customer Records statute retained for at least as long as necessary to fulfill the purposes described in the Privacy Policy, including to satisfy legal or reporting requirements
+CAGPT:  Personal information categories listed in the California Customer Records statute retained as necessary to fulfill the purposes for which they were collected or as required by law
+CAGPT:  Personal information categories described in the California Records statute Â§ 1798.80(e) how long retained not specified
+CAGPT:  Personal information categories listed in the California Customer Records statute's data retention not specified
+CAGPT:  Personal information categories listed in the California Customer Records statute how long retained is not specified
+CAGPT:  Personal information categories listed in the California Customer Records statute are retained as long as necessary to fulfill the purposes for which it was collected and for business or legal reasons, or in accordance with applicable laws.
+CAGPT:  California Customer Records categories retention duration not specified
+CAGPT:  California Customer Records personal information categories retained as long as necessary to fulfill the purposes outlined in the privacy notice unless a longer retention period is required or permitted by law
+CAGPT:  Personal Information categories listed in the California Customer Records statute retention period not specified
+CAGPT:  California Customer Records personal information categories are retained for as long as reasonably necessary
+CAGPT:  Personal information categories listed in the California Customer Records statute how long retained not specified.
+CAGPT:  Categories of personal information described in Cal. Civ. Code Â§ 1798.80(e) retention period not specified
+CAGPT:  Personal information categories listed in the California Customer Records statute retainment period is not specified.
+CAGPT:  Personal information categories listed in the California Customer Records statute retention period not specified
+CAGPT:  Personal information categories listed in the California Customer Records statute are retained for the period necessary to fulfill the purposes outlined in the notice unless a longer retention period is required or permitted by law.
+CAGPT:  California Customer Records personal information categories retained for as long as reasonably necessary.
+---------------------------
+Cluster 20
+CAGPT:  Not specified how long Professional or employment-related information is retained
+CAGPT:  Professional or employment-related information how long data is retained: Not specified
+CAGPT:  Professional or employment-related information how long data is retained not specified
+CAGPT:  Professional or employment-related information how long data is retained
+CAGPT:  Professional or employment-related information how long retained not specified
+CAGPT:  Professional or Employment-Related Information how long data is retained not specified
+CAGPT:  Professional or employment-related information how long retained is not specified
+CAGPT:  Professional or employment-related information retention period not specified
+CAGPT:  Professional or Employment Information how long data is retained not specified
+CAGPT:  Professional or employment-related information how long retained not specified
+CAGPT:  Professional or employment-related information retainment period is not specified.
+CAGPT:  Professional or employment-related information how long data retained: Not specified.
+---------------------------
+Cluster 21
+CAGPT:  Indefinite period until no longer necessary for purposes described or as authorized by law
+CAGPT:  Indefinite period until no longer necessary for purposes described or as authorized by law
+CAGPT:  Indefinite period until no longer necessary for purposes described or as authorized by law
+CAGPT:  Indefinite period until no longer necessary for purposes described or as authorized by law
+CAGPT:  Indefinite period until no longer necessary for purposes described or as authorized by law
+CAGPT:  Indefinite period until no longer necessary for purposes described or as authorized by law
+CAGPT:  Indefinite period until no longer necessary for purposes described or as authorized by law
+CAGPT:  Indefinite period until no longer necessary for purposes described or as authorized by law
+CAGPT:  Indefinite period until no longer necessary for purposes described or as authorized by law
+CAGPT:  Indefinite period until no longer necessary for purposes described or as authorized by law
+---------------------------
+Cluster 22
+CAGPT:  Professional or employment-related information is retained as required by company policies and applicable law.
+CAGPT:  Professional or employment-related information is retained as long as necessary to fulfill the purposes outlined in the privacy policy and as required by law
+CAGPT:  Professional or employment-related information retained as long as necessary to fulfill the purposes outlined in the privacy notice
+CAGPT:  Professional or employment-related information stored as long as necessary
+CAGPT:  Professional or employment-related information - retained as long as necessary for a legal or business purpose
+CAGPT:  Professional or employment-related information retained for the duration of employment and as required by law
+CAGPT:  Professional or employment-related information retained as long as your account is active or as required to fulfill legal obligations
+CAGPT:  Professional or employment-related information retained for a period consistent with the original purpose of collection or as long as required to fulfill legal obligations
+CAGPT:  Professional or employment-related information retained as long as necessary to fulfill the purposes outlined in the privacy notice unless a longer retention period is required or permitted by law
+CAGPT:  "Professional or Employment Related Information" retained for a specified period based on contractual/legal requirements
+CAGPT:  Professional and employment information is retained as long as necessary to carry out the processing activities described
+CAGPT:  Professional or employment-related information retained for the duration necessary for service provision and legal compliance.
+---------------------------
+Cluster 23
+CAGPT:  Inferences drawn from other personal information are retained as long as necessary to fulfill the purposes outlined in the privacy policy and as required by law
+CAGPT:  Inferences drawn retained as long as necessary to fulfill the purposes outlined in the privacy notice
+CAGPT:  Inferences drawn from other personal information held for as long as necessary
+CAGPT:  Inferences drawn from personal information are retained as needed for business purposes or as required by law
+CAGPT:  Inferences drawn from other personal information retained as necessary to fulfill the purposes for which they were collected or as required by law
+CAGPT:  Inferences drawn from other personal information retained as long as necessary to fulfill the purposes outlined in the privacy notice unless a longer retention period is required or permitted by law
+CAGPT:  Inferences drawn from other personal information are retained for as long as reasonably necessary
+CAGPT:  Inferences drawn from other personal information retained for as long as reasonably necessary.
+---------------------------
+Cluster 24
+CAGPT:  Data is retained according to the companyâ€™s records retention policy and applicable law.
+CAGPT:  Data is retained according to the companyâ€™s records retention policy and applicable law.
+CAGPT:  Data is retained according to the companyâ€™s records retention policy and applicable law.
+CAGPT:  Data is retained according to the companyâ€™s records retention policy and applicable law.
+CAGPT:  Data is retained according to the companyâ€™s records retention policy and applicable law.
+CAGPT:  Data is retained according to the companyâ€™s records retention policy and applicable law.
+---------------------------
+Cluster 25
+CAGPT:  Biometrics how long data is retained: No specific duration mentioned
+CAGPT:  Biometric information how long data is retained: Not specified
+CAGPT:  Biometric information how long retained not specified
+CAGPT:  Retention period for biometric data not specified
+CAGPT:  Biometric information retention period not specified
+CAGPT:  Biometric information retainment period is not specified.
+---------------------------
+Cluster 26
+CAGPT:  Commercial information retained as long as necessary to fulfill the purposes outlined in the privacy notice
+CAGPT:  Commercial information is retained as needed for business purposes or as required by law
+CAGPT:  Commercial information is retained as long as necessary to fulfill the transaction and for recordkeeping purposes
+CAGPT:  Financial Information retained for as long as necessary to fulfill the purposes outlined or other permitted purposes.
+CAGPT:  Commercial information retained for as long as necessary to fulfill the purposes outlined or other permitted purposes.
+CAGPT:  Commercial information is retained as long as necessary to fulfill the purposes described in the Privacy Policy.
+CAGPT:  Commercial information retained as necessary to fulfill the purposes for which they were collected or as required by law
+CAGPT:  Commercial information retained for the period necessary to fulfill the purposes outlined in privacy policy
+CAGPT:  Commercial information detailed in 2.3 is retained for as long as necessary to fulfill the purposes outlined in the Privacy Policy, unless a longer retention period is required or permitted by law.
+CAGPT:  Commercial information is retained as long as necessary to fulfill the purposes for which it was collected and for business or legal reasons, or in accordance with applicable laws.
+CAGPT:  Commercial Information retained for as long as necessary to carry out the purposes set forth in the Privacy Notice, no longer than required or permitted under applicable law or internal policy.
+CAGPT:  Commercial information is retained as long as necessary to carry out the processing activities described
+CAGPT:  Commercial information such as transaction data is retained as required by law or for tax and accounting purposes
+CAGPT:  Commercial Information retained as long as necessary to carry out purposes set forth in Privacy Notice or as required or permitted under applicable law
+CAGPT:  Commercial information retained for as long as reasonably necessary.
+CAGPT:  Commercial Information retained as long as needed for the purposes it was collected for and as required by legal, regulatory, or industry retention requirements
+CAGPT:  Commercial information is retained as long as needed for legal, tax, audit, investigative, and security purposes.
+---------------------------
+Cluster 27
+CAGPT:  The same as above
+CAGPT:  The same as above
+CAGPT:  The same as above
+CAGPT:  The same as above
+CAGPT:  The same as above
+CAGPT:  The same as above
+CAGPT:  The same as above
+CAGPT:  The same as above
+---------------------------
+Cluster 28
+CAGPT:  Purchase history how long retained not specified
+CAGPT:  Retention period for purchase history not specified
+CAGPT:  Purchase history how long retained not specified
+CAGPT:  Not specified how long Purchase history is retained
+CAGPT:  Purchase history how long retained: Not specified
+CAGPT:  Purchase history how long retained not specified
+---------------------------
+Cluster 29
+CAGPT:  Identifiers how long data retained: Up to 6 years
+CAGPT:  Commercial Data how long data retained: Up to 6 years
+CAGPT:  Profile Data how long data retained: Up to 6 years
+CAGPT:  Associated Data how long data retained: Up to 6 years
+---------------------------
+Cluster 30
+GPT:  Personal information - retained until no longer necessary for legal or business purposes
+CAGPT:  Sensitive personal information - retained as long as necessary for a legal or business purpose
+CAGPT:  Sensitive Personal Information retained as strictly necessary.
+CAGPT:  Sensitive personal information retained for at least as long as necessary to fulfill the purposes described in the Privacy Policy, including to satisfy legal or reporting requirements
+CAGPT:  Sensitive Personal Information is retained for as long as is reasonably necessary and proportionate to the original purpose for collection.
+CAGPT:  Sensitive personal information is retained for as long as reasonably necessary
+CAGPT:  Sensitive personal information retained for as long as reasonably necessary.
+CAGPT:  Your personal information and sensitive personal information that have been collected are retained as long as is reasonably necessary to fulfill the purposes for which it was collected.
+---------------------------
+Cluster 31
+CAGPT:  Inferences how long data is retained: Not specified
+CAGPT:  Retention period for inferences not specified
+CAGPT:  Inferences how long data is retained not specified
+CAGPT:  Inferences based on the above how long data retained  
+CAGPT:  Inferences how long retained not specified 
+CAGPT:  Inferences how long data is retained not specified 
+CAGPT:  Inferences retention period not specified
+---------------------------
+Cluster 32
+CAGPT:  Sensory data how long data is retained is not specified.
+CAGPT:  Sensory data how long retained not specified
+CAGPT:  Sensory information how long data is retained not specified
+CAGPT:  Sensory data retention period not specified
+CAGPT:  Sensory Data how long data is retained not specified
+CAGPT:  Sensory data retainment period is not specified.
+CAGPT:  Sensory Information retention period not specified
+---------------------------
+Cluster 33
+CAGPT:  While you have an account with us and thereafter for purposes not prohibited by applicable laws
+CAGPT:  While you have an account with us and thereafter for purposes not prohibited by applicable laws
+CAGPT:  While you have an account with us and thereafter for purposes not prohibited by applicable laws
+CAGPT:  While you have an account with us and thereafter for purposes not prohibited by applicable laws
+CAGPT:  While you have an account with us and thereafter for purposes not prohibited by applicable laws
+CAGPT:  While you have an account with us and thereafter for purposes not prohibited by applicable laws
+CAGPT:  While you have an account with us and thereafter for purposes not prohibited by applicable laws
+CAGPT:  While you have an account with us and thereafter for purposes not prohibited by applicable laws
+CAGPT:  While you have an account with us and thereafter for purposes not prohibited by applicable laws
+CAGPT:  While you have an account with us and thereafter for purposes not prohibited by applicable laws
+---------------------------
+Cluster 34
+CAGPT:  Inferences drawn from other categories of Personal Information length of time retained not specified
+CAGPT:  Inferences drawn from other personal information how long retained not specified
+CAGPT:  Inferences drawn from other personal information's data retention not specified
+CAGPT:  Inferences drawn from other personal information how long retained not specified
+CAGPT:  Inferences drawn from other personal information retainment period is not specified.
+---------------------------
+Cluster 35
+CAGPT:  Retained as necessary for business and compliance needs.
+CAGPT:  Retained as necessary for business and compliance needs.
+CAGPT:  Retained as necessary for business and compliance needs.
+CAGPT:  Retained as necessary for business and compliance needs.
+CAGPT:  Retained as necessary for business and compliance needs.
+CAGPT:  Retained as necessary for business and compliance needs.
+CAGPT:  Retained as necessary for business and compliance needs.
+CAGPT:  Retained as necessary for business and compliance needs.
+CAGPT:  Retained as necessary for business and compliance needs.
+CAGPT:  Retained as necessary for business and compliance needs.
+---------------------------
+Cluster 36
+CAGPT:  For the maximum period permitted by applicable law
+CAGPT:  For the maximum period permitted by applicable law
+CAGPT:  For the maximum period permitted by applicable law
+CAGPT:  For the maximum period permitted by applicable law
+CAGPT:  For the maximum period permitted by applicable law
+CAGPT:  For the maximum period permitted by applicable law
+---------------------------
+Cluster 37
+CAGPT:  Commercial Data how long data retained: Same as Identifiers
+CAGPT:  Internet Data how long data retained: Same as Identifiers
+CAGPT:  Geo-location Data how long data retained: Same as Identifiers
+CAGPT:  Inference Data how long data retained: Same as Identifiers
+CAGPT:  Profile Data how long data retained: Same as Identifiers
+CAGPT:  Associated Data how long data retained: Same as Identifiers
+---------------------------
+Cluster 38
+CAGPT:  As long as necessary to achieve the purposes for which it was collected and in accordance with Pioneer information retention policies.
+CAGPT:  As long as necessary to achieve the purposes for which it was collected and in accordance with Pioneer information retention policies.
+CAGPT:  As long as necessary to achieve the purposes for which it was collected and in accordance with Pioneer information retention policies.
+CAGPT:  As long as necessary to achieve the purposes for which it was collected and in accordance with Pioneer information retention policies.
+CAGPT:  As long as necessary to achieve the purposes for which it was collected and in accordance with Pioneer information retention policies.
+CAGPT:  As long as necessary to achieve the purposes for which it was collected and in accordance with Pioneer information retention policies.
+CAGPT:  As long as necessary to achieve the purposes for which it was collected and in accordance with Pioneer information retention policies.
+---------------------------
+Cluster 39
+CAGPT:  Commercial information retained for the duration of the customer relationship and as required for legal and audit purposes
+CAGPT:  Personal Information retained duration of the relationship or as required by law
+CAGPT:  Commercial Information retained duration of the relationship or as required by law
+CAGPT:  Sensitive Personal Information retained the duration of the relationship or as required by law
+CAGPT:  Personal Information retained for the duration of the relationship or as required by law
+CAGPT:  Commercial Information retained for the duration of the relationship or as required by law
+---------------------------
+Cluster 40
+CAGPT:  Indeterminate; retention period not specified.
+CAGPT:  Indeterminate; retention period not specified.
+CAGPT:  Indeterminate; retention period not specified.
+CAGPT:  Indeterminate; retention period not specified.
+CAGPT:  Indeterminate; retention period not specified.
+CAGPT:  Indeterminate; retention period not specified.
+CAGPT:  Indeterminate; retention period not specified.
+CAGPT:  Indeterminate; retention period not specified.
+CAGPT:  Indeterminate; retention period not specified.
+---------------------------
+Cluster 41
+CAGPT:  Varies, but criteria used to determine retention period are provided when specific retention period is not.
+CAGPT:  Varies, but criteria used to determine retention period are provided when specific retention period is not.
+CAGPT:  Varies, but criteria used to determine retention period are provided when specific retention period is not.
+CAGPT:  Varies, but criteria used to determine retention period are provided when specific retention period is not.
+CAGPT:  Varies, but criteria used to determine retention period are provided when specific retention period is not.
+CAGPT:  Varies, but criteria used to determine retention period are provided when specific retention period is not.
+CAGPT:  Varies, but criteria used to determine retention period are provided when specific retention period is not.
+---------------------------
+Unclassified Clusters 
+GPT:  Certain information may be retained indefinitely for analytics and business improvement unless a user requests deletion where applicable.
+GPT:  Personal information related to transactions may be retained for financial recordkeeping and compliance purposes for a period defined by relevant law.
+GPT:  Web browsing behavior data retention period not specified.
+GPT:  User account data for digital platforms is retained as long as necessary for service provision.
+GPT:  Inquiries about products and services data retention period not specified.
+GPT:  Product registration and usage data retained as long as necessary for product support and legal obligations.
+GPT:  Training, webinar, and event attendance data retention period not specified.
+GPT:  Marketing preferences and interaction data retained until unsubscription or user deletion request.
+GPT:  Customer support interaction data retained as long as necessary for customer service and legal compliance.
+GPT:  eCommerce transaction data retained as per legal financial record-keeping requirements.
+GPT:  Communication records with 3Shape retention period not specified.
+GPT:  Business relationship data retained as long as necessary for the business relationship and legal compliance.
+GPT:  User research participation data retention period not specified.
+GPT:  Financial service usage data retention period not specified.
+GPT:  Personal information provided directly by users is retained as necessary to fulfill the purposes it was collected for and comply with legal requirements. 
+GPT:  Information on users' preferences and interactions with online services is retained as necessary for analysis and improvement of services. 
+GPT:  Personal identification information retained for 2 years after last activity
+GPT:  Browsing and interaction data retained for 1 year
+GPT:  Social media usernames and interactions retained for 2 years
+GPT:  Personal contact details are retained as long as necessary for legitimate business purposes.
+GPT:  Financial information is stored to comply with legal, accounting, or reporting requirements.
+GPT:  Device and connection information are included in standard back-ups.
+GPT:  Contact information retention as necessary for business operations, legal compliance, and as long as needed to fulfill the purposes outlined in the policy
+GPT:  Payment information retained as long as necessary for transaction completion, fraud prevention, and legal financial auditing requirements
+GPT:  Credit and Identifier information retained as necessary for credit rehabilitation services, compliance, and as defined by financial regulations
+GPT:  Indefinitely, as personal information may be stored in a backup file for records
+GPT:  Until the user unsubscribes or opts-out, at which point information is used to maintain a "Do-Not-Contact" list
+GPT:  Data may be retained or transferred to third parties for any legally permissible purpose at Publisher\'s discretion
+GPT:  Personal Login Information is retained as long as necessary to serve you, maintain your account or as needed to operate our business.
+GPT:  Contact Information and Identifiers are retained in accordance with applicable law and regulations, and as necessary for the purposes collected.
+GPT:  Account Registration information retained for as long as the user utilizes our Services or as necessary to fulfill the purpose for which it was collected 
+GPT:  Automatic Data Collection information retained as long as necessary to provide our Services, resolve disputes, conduct audits, and comply with legal obligations
+GPT:  Surveys and Communications information retained for a period necessary to process requests and improve our products and Services based on user feedback
+GPT:  Contact details are retained as long as necessary or relevant for practices described in the Privacy Policy or as required by law.
+GPT:  Billing details are retained for a similar period, necessary or relevant for the practices described or as required by law.
+GPT:  Health-related information is retained as long as necessary or relevant for the practices described in the Privacy Policy or as required by law.
+GPT:  Contact Information is retained while you are a customer or until it is no longer needed for business, tax, or legal purposes.
+GPT:  Billing information is retained while you are a customer or until it is no longer needed for business, tax, or legal purposes.
+GPT:  Equipment, performance, Arvig website usage, viewing and other technical Information is retained while you are a customer or until it is no longer needed for business, tax, or legal purposes.
+GPT:  Personal information is retained as long as necessary to provide products and services, process applications for employment, maintain business relationships, comply with legal obligations, resolve disputes, and collect fees
+GPT:  Information may also be retained in a deidentified or aggregated form indefinitely
+GPT:  The appropriate retention period is determined by considering the amount, nature, sensitivity of the information, the potential risk of unauthorized access, use or disclosure, the purposes for which the information is processed, and applicable legal requirements
+GPT:  Data retention details not specified
+GPT:  Personal Information is retained for as long as your account is active or as needed to provide the Services.
+GPT:  Non-Personal Information is retained according to applicable laws and our discretion.
+GPT:  Information about your actions in connection with the Services is stored for as long as needed to provide you with the inquiry or as required by law.
+GPT:  Duration of retention not explicitly stated in the provided text
+GPT:  Feedback and correspondence retention period not specified.
+GPT:  Usage information and device data retention period not specified.
+GPT:  Identifying information is retained as long as the account is active.
+GPT:  Payment transaction records are retained for account history purposes.
+GPT:  Content in product accounts is deleted within 60 days after account deletion.
+GPT:  Personal information retention period determined based on record retention obligations
+GPT:  Account Information is retained as long as your account is active or as necessary to provide you services.
+GPT:  Online Purchases and Billing Information is stored for the duration necessary to fulfill purchases and comply with legal obligations.
+GPT:  In-Store Transactions information is kept as required for transaction verification and legal compliance.
+GPT:  Contact information is retained up to 5 years.  
+GPT:  IP address and related browsing information are deleted after 24 months.  
+GPT:  SalesSync App data inputs are stored according to internal data retention policies.  
+GPT:  Personal data retained for no longer than necessary for the specified purposes and to meet legal obligations
+GPT:  Name retained until no longer needed for business purposes or as required by law
+GPT:  Email address retained until no longer needed for business purposes or as required by law
+GPT:  Telephone numbers retained until no longer needed for business purposes or as required by law
+GPT:  Not specified how long personal information is retained
+GPT:  Not specified how long information about your internet connection and equipment is retained
+GPT:  Not specified how long usage details, IP addresses, and information through cookies are retained
+GPT:  Username and email address retained as long as the C4 Member's account is active.
+GPT:  Optional profile information retained as long as the C4 Member's account is active or until the user decides to delete or modify the information.
+GPT:  Billing information retention period is determined by payment processors according to their policies.
+GPT:  Information collected during website visits retained for as long as necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations.
+GPT:  Personal information - Retained as long as necessary to provide the Products and fulfill the transactions users have requested, or for other essential purposes such as complying with legal obligations.
+GPT:  Street address retention period not specified
+GPT:  Employment-related data retention period not specified
+GPT:  Users have the right to access and correct or update their personal information.
+GPT:  Users have the right to delete personal data or close their accounts subject to certain conditions.
+GPT:  Users have the right to unsubscribe or opt-out from specific communications and promotional content.
+GPT:  Personal data retained for the duration of the business relationship
+GPT:  Information held only as long as necessary for each specific purpose
+GPT:  Basic information may be retained to avoid sending unwanted materials and keep a record of the request and response
+GPT:  Contact information how long retained is dependent on applicable laws and the duration of our relationship with you.
+GPT:  Economic information how long retained is for a period necessary for statistical analysis and then anonymized or deleted.
+GPT:  Login information how long retained is as long as your account is active and for a reasonable period thereafter for account recovery and audit purposes.
+GPT:  Personal Information like name, billing address, and email is retained for a reasonable period to fulfill legal or regulatory obligations and for business purposes.
+GPT:  Usage Information collected through cookies is retained from the end of each web browsing session to a maximum of two years, depending on the cookie.
+GPT:  Credit and debit card information is not retained by CityPASS but is provided directly to and managed by third-party payment processor Braintree/PayPal.
+GPT:  Information on how long name, email address, phone number, city/state/zip code is retained not specified.
+GPT:  Information on how long preferences based on site activity are retained not specified.
+GPT:  Information on how long location or IP address data is retained not specified.
+GPT:  Data retention period not specified for each item
+GPT:  The Internet domain through which you access the internet is retained as long as there is an ongoing legitimate business need.
+GPT:  Internet protocol (IP) address of the computer you are using is retained as long as there is an ongoing legitimate business need.
+GPT:  Your name, address, email address, phone numbers, company information, your position or title, business specifics such as past orders and payment methods, and payment terms are retained as long as there is an ongoing legitimate business need.
+GPT:  Contact details retained for the duration the account exists or as needed to provide services.
+GPT:  Login and account information retained as long as necessary to maintain account security and operability.
+GPT:  Browser and operating system information retained temporarily for analytics and improvement of service.
+GPT:  Online Identifiers and Internet Activity related to website use retained for up to 10 years
+GPT:  Customer-related data (Name, Email, Address, etc.) for order processing retained for 10 years from last purchase
+GPT:  Customer service interactions retained for up to 2 years
+GPT:  Promotional and marketing communication data retained until the user opts out
+GPT:  Product review, survey, or feedback data retained for up to 5 years
+GPT:  Privacy request-related data retained for a minimum of 24 months
+GPT:  Products viewed, added to shopping cart, and purchases data retention not specified.
+GPT:  Audience and segments information retention not specified.
+GPT:  Personal Data is retained as long as reasonably necessary to fulfill the purposes collected for
+GPT:  Personal Data may be retained for a longer period in the event of a complaint or if a prospect of litigation exists
+GPT:  Exact retention periods depend on the nature of the data and legal, regulatory, tax, accounting, or other requirements
+GPT:  Duration of the business relationship
+GPT:  As long as necessary for each specific purpose
+GPT:  Only as long as IDGC has obtained consent for another or similar purpose
+GPT:  Identifiers are retained for a maximum of three years after user activity ceases or as necessary for business/legal purposes.
+GPT:  Personal records are retained for a maximum of three years after user activity ceases or as necessary for business/legal purposes.
+GPT:  Commercial information is retained for a maximum of three years after user activity ceases or as necessary for business/legal purposes.
+GPT:  Indefinite or until obtaining prior consent for additional disclosure, or legally required to do so
+GPT:  Indefinite or until obtaining prior consent for additional disclosure, or legally required to do so
+GPT:  Indefinite or until obtaining prior consent for additional disclosure, or legally required to do so
+GPT:  Preferences and shopping interests how long data is retained not specified
+GPT:  Transaction information is retained for the length of time needed to fulfill the purposes outlined in the privacy policy unless a longer retention period is required or permitted by law.
+GPT:  Public forum contributions and communications are retained for as long as needed to provide services or as required for legal compliance.
+GPT:  The policy does not specify how long Contact Information is retained.
+GPT:  The policy does not specify how long Purchase Information is retained.
+GPT:  The policy does not specify how long Profile Information is retained.
+GPT:  The policy does not specify how long Preference Information is retained.
+GPT:  The policy does not specify how long Demographic Information is retained.
+GPT:  The policy does not specify how long Video Recordings are retained.
+GPT:  The policy does not specify how long Call and Chat Recordings are retained.
+GPT:  The policy does not specify how long Device and Browsing Information is retained.
+GPT:  The policy does not specify how long Social Media Information is retained.
+GPT:  The policy does not specify how long Application Information is retained.
+GPT:  Personal information used for providing and improving services is retained as long as necessary for those purposes.
+GPT:  Payment details are not stored by DroneDeploy but are processed by third-party payment processors.
+GPT:  Device and usage information collected automatically, including through cookies, is retained as per the privacy policy and agreements with analytics and advertising partners.
+GPT:  Anonymous Information how long retained is not specified.
+GPT:  E-mail addresses for sending newsletters or promotions are retained until the user opts out.
+GPT:  Personal and financial information is retained for as long as necessary to fulfill the purpose for which it was collected, provide services, resolve disputes, conduct audits, pursue legitimate business purposes, enforce agreements, and comply with applicable laws.
+GPT:  Information collected from third parties is retained subject to the same conditions as personally provided information.
+GPT:  Technical information is retained as long as necessary for product and service improvement, technical support, and optimizing the Site.
+GPT:  Personal data related to use of Services - retained for 6 to 10 years in Europe, otherwise as legally required or permitted
+GPT:  Personal data for new eBay account creation - retained as per applicable data protection laws and deleted or anonymized thereafter
+GPT:  Personal data provided via web forms - deleted or anonymized in accordance with data retention policy
+GPT:  Information retained for no longer than necessary for processing purposes
+GPT:  Duration of retention depends on purposes for which information was collected and used
+GPT:  Retention duration varies as required to comply with applicable laws
+GPT:  Contact Information: Retained indefinitely until user requests deletion or updates.
+GPT:  Demographic Information: Retained indefinitely until user requests deletion or updates.
+GPT:  Account Information: Retained indefinitely until user requests deletion or updates.
+GPT:  Anonymized Information how long retained not specified
+GPT:  Cookies information retention period not specified
+GPT:  Personal Data of users retained as long as they are registered to use the Services and for a period afterward for legal and business purposes.
+GPT:  Technical data retained in accordance with Eventbrite's data retention policies for optimizing service functionality and security.
+GPT:  Financial information retained for the duration necessary to process payments and comply with legal requirements.
+GPT:  Technical Data how long retained: As long as needed to provide our services and to comply with our legal obligations, resolve disputes, and enforce our agreements if applicable.
+GPT:  Contact Details how long retained: As long as needed to provide our services and to comply with our legal obligations, resolve disputes, and enforce our agreements if applicable.
+GPT:  Online Identifiers how long retained: As long as needed to provide our services and to comply with our legal obligations, resolve disputes, and enforce our agreements if applicable.
+GPT:  Posting a Comment information how long retained: As long as needed to provide our services and to comply with our legal obligations, resolve disputes, and enforce our agreements if applicable.
+GPT:  User contact information retained dependent on operational needs and legal requirements
+GPT:  Browsing and device information retained as per specific cookies and technologies policy
+GPT:  User interactions and interests data retained as necessary to provide ongoing services or as legally required
+GPT:  Contact, Identity, Financial, and Transaction Data how long data found in question2 is retained
+GPT:  Technical, Profile, Usage, and Marketing and Communications Data how long data found in question2 is retained
+GPT:  Identity Data is retained for seven years
+GPT:  Contact Data is retained for seven years
+GPT:  Financial Data is retained until the contract ends plus seven years for tax purposes
+GPT:  Transaction Data is retained for seven years
+GPT:  Technical Data retention period varies based on operational requirements
+GPT:  Content Data retained as per user account status and platform's content policy
+GPT:  Profile Data is retained as long as the user account is active
+GPT:  Usage Data retention period varies based on analysis needs
+GPT:  Third-Party Login Data retained as long as the integration is active
+GPT:  Marketing and Communications Data is retained as per user's preferences and until they opt-out
+GPT:  Name how long retained not specified
+GPT:  Address how long retained not specified
+GPT:  Cookie data how long retained not specified
+GPT:  Identifiers retained in accordance with record retention policies
+GPT:  Commercial Information retained in accordance with record retention policies
+GPT:  User-Created Data retained until the user deletes the account or data
+GPT:  Identity Data retained for at least seven years
+GPT:  Contact Data retained for at least seven years
+GPT:  Transaction Data retained for at least seven years
+GPT:  Identity Data retained as long as necessary to fulfill the purposes collected
+GPT:  Contact Data retained as long as necessary to fulfill the purposes collected
+GPT:  Financial Data retained as long as necessary to fulfill the purposes collected
+GPT:  Until the account is active and thereafter as legally required
+GPT:  For a duration complying with payment processing requirements
+GPT:  For research and analytics indefinitely, with data anonymization where applicable
+GPT:  Retained as long as necessary to fulfill the purpose(s) for which it was collected
+GPT:  Retained as long as necessary to provide services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce agreements, comply with laws
+GPT:  Retained as long as needed to carry out legal obligations
+GPT:  Name and contact information: Retained only as long as reasonably necessary for business, accounting, tax, or legal purposes.
+GPT:  Driverâ€™s license number: Retained only as long as reasonably necessary for business, accounting, tax, or legal purposes.
+GPT:  Social Security Number: Retained only as long as reasonably necessary for business, accounting, tax, or legal purposes.
+GPT:  Personal Information is used as necessary to comply with business requirements
+GPT:  Personal Information is retained to comply with legal obligations
+GPT:  Demographic information is retained as above.
+GPT:  Preferences for communications are retained as above.
+GPT:  Demographic information is retained alongside contact information for similar durations, depending on its use in providing services.
+GPT:  Payment and transaction information are retained for a period required to complete transactions, resolve disputes, and comply with legal requirements.
+GPT:  Not specified how long site address visited just prior to ours is retained
+GPT:  Not specified how long number of times an article or page from our site has been shared is retained
+GPT:  Not specified how long name is retained
+GPT:  Not specified how long resume and other job application information is retained
+GPT:  Not specified how long contact information for marketing purposes is retained
+GPT:  Biographical and demographic information is retained as long as necessary for the purposes collected or as legally required.
+GPT:  Purchase and customer service history is retained as long as necessary for the purposes collected or as legally required.
+GPT:  Contact details retained as long as the user participates in the service or as needed to comply with legal obligations.
+GPT:  Account information retained to maintain the user account and for historical transactions.
+GPT:  Purchase history retained for record-keeping and legal compliance.
+GPT:  Until we no longer need the information to fulfill the purpose we are using it for, as permitted by law
+GPT:  Basic Personal Data retained as long as necessary for purpose
+GPT:  Anonymous statistical data retained to enhance app experience
+GPT:  Diagnostic data retained for issue resolution period
+GPT:  Personal data shared through the Services retained as per use agreement
+GPT:  Payment information retained according to legal requirements
+GPT:  Information regarding Services accessed retained for service quality improvement
+GPT:  Contact history retained for customer satisfaction analysis
+GPT:  Usage data retained for analysis and service improvement
+GPT:  Marketing and communications data retained as per engagement necessity
+GPT:  Activity data retained for usage pattern analysis
+GPT:  Personal Data from social media retained according to permission settings
+GPT:  Personal Data from third parties retained according to data sharing agreements
+GPT:  Retention period not specified for name
+GPT:  Retention period not specified for mailing address (billing and shipping)
+GPT:  Retention period not specified for credit card information
+GPT:  Retention period not specified for browser name
+GPT:  Retention period not specified for type of computer
+GPT:  Retention period not specified for operating system
+GPT:  Retention period not specified for Internet service provider(s)
+GPT:  Name retained as long as needed to fulfill purposes for which it was collected and to comply with the law
+GPT:  Email address retained as long as needed to fulfill purposes for which it was collected and to comply with the law
+GPT:  Address retained as long as needed to fulfill purposes for which it was collected and to comply with the law
+GPT:  Contact information retained as long as your account is active or as needed to provide services.
+GPT:  Date of birth, gender, social security number retained in compliance with legal obligations and service provision.
+GPT:  Account passwords, payment information, and health history retained as necessary for operational, legal, and dispute resolution purposes.
+GPT:  Personal data is retained no longer than necessary for the purposes described and as required or permitted under applicable laws.
+GPT:  Specific retention periods for collected data are not stated, implying retention is as long as necessary for fulfilling the purposes for which it is collected, including for fulfilling any legal, accounting, or reporting requirements.
+GPT:  Non-Personally Identifiable Information is retained as necessary for analyzing and improving Services, and for internal auditing, data analysis, and research.
+GPT:  Email address is retained for as long as necessary for the purposes set out in the Privacy Policy.
+GPT:  First name and last name are retained until they are no longer necessary for service provision or legal obligations.
+GPT:  Phone number is retained as needed to comply with our legal obligations, resolve disputes, and enforce our policies.
+GPT:  Name, Social Security Number, driverâ€™s license, or other government-issued identification retention period not specified.
+GPT:  Information from reporting agencies and other sources retention period not specified.
+GPT:  Registration information is retained for the length of time needed to fulfill the purposes outlined unless a longer period is required or permitted by law.
+GPT:  Transaction information is retained for a necessary period as required by law or for operational purposes.
+GPT:  Public forum information is retained for as long as relevant or necessary for forum management.
+GPT:  Contact information is retained as needed for service provision and legal compliance
+GPT:  Billing information is retained as needed for transactional records and legal compliance
+GPT:  Personal information provided in forums or chat rooms is retained as per the platform's guidelines
+GPT:  Account Registration Information is retained as long as necessary for the same reasons as Contact Information.
+GPT:  Communications and Inquiries are retained as long as necessary for business and legal requirements.
+GPT:  Cookies and Similar Technologies data retention varies based on the type of cookie or technology and user settings.
+GPT:  Device and Usage Information is retained as necessary for operational, analytic, and security purposes.
+GPT:  Name - retained for the period necessary to fulfill the purposes outlined in the Privacy Notice or until the user requests otherwise
+GPT:  E-mail address - retained for the period necessary to fulfill the purposes outlined in the Privacy Notice or until the user requests otherwise
+GPT:  Payment information - retained for the period necessary to fulfill the purposes outlined in the Privacy Notice or until the user requests otherwise
+GPT:  Biometric data retained until the initial purpose for collecting or obtaining the data is satisfied, not to exceed three years after the person's last interaction
+GPT:  Cookies and online data retained for up to 10 years
+GPT:  Name, Email address, Postal address, Telephone number, Purchases, Credit or debit card number retained for 10 years from your last purchase
+GPT:  Customer feedback and correspondence retained for up to 10 years
+GPT:  Usage information and other types of data collected automatically may be retained as needed for operational, legal, or regulatory reasons.
+GPT:  Information from third parties is retained in accordance with Jivetel's data retention policies and applicable law.
+GPT:  Personal information is retained as long as necessary for the provision of services or as required by law
+GPT:  SMS opt-in consent data is retained as part of service records
+GPT:  Data collected through cookies is retained for a period suitable to provide insights for website improvements
+GPT:  Identity Data is retained as long as reasonably necessary for fulfilling our purposes and legal requirements, up to seven years for accounting or tax purposes.
+GPT:  Contact Data is retained similarly to Identity Data.
+GPT:  Financial Data is retained similarly to Identity Data.
+GPT:  PII retention period not specified
+GPT:  Usage Information retention period not specified
+GPT:  Information from other sources retention period not specified
+GPT:  Identifiers and Contact Information is retained as long as necessary for the purposes collected and as legally required
+GPT:  Government-Issued Identifiers are stored for as long as necessary and legally required
+GPT:  Financial Information is retained as needed for transaction processes and for legal requirements
+GPT:  Personal information is retained no longer than necessary for processing purposes, compliance with legal obligations, and protecting rights and safety.
+GPT:  Information may be archived and stored for legal or regulatory requirements, statutes of limitations, disputes, or actions.
+GPT:  Subsequently, personal information is anonymized, deleted, or archived as permitted by applicable law.
+GPT:  Account login information retained until the user deletes their account
+GPT:  Purchase and ordering information retained for the duration required by tax and transaction laws
+GPT:  Location, Navigational, and Device Information retained as necessary for the operational purposes or as required by law
+GPT:  Demographics and preferences retention period not explicitly stated.
+GPT:  IP address and geolocation data retention follows standard industry practices.
+GPT:  Until necessary to fulfill the purposes outlined in the Privacy Policy, satisfy legal/reporting requirements, or as required or allowed under law.
+GPT:  Equipment and internet connection details retention duration not specified
+GPT:  Until you request its deletion or as long as your account is active, is needed to provide you services, or as required to fulfill legal obligations
+GPT:  Account information is retained for the lifetime of the account and a reasonable period thereafter.
+GPT:  Order transaction details are retained for as long as necessary to fulfill the order and comply with legal obligations.
+GPT:  Customer service interactions and correspondence are retained for analysis and operational improvement purposes for a reasonable period.
+GPT:  Personal data retained as long as the account is open
+GPT:  Certain information, e.g., insights about service use in a depersonalized or aggregated form, retained even after account closure
+GPT:  Data necessary for legal obligations, security, fraud prevention, or enforcing agreements retained beyond account closure
+GPT:  Registration information retained as long as the userâ€™s account is open.
+GPT:  Profile information retained as long as necessary to provide services or as legally required.
+GPT:  Posting and Uploading information retained as long as relevant to our services or as necessary for legal compliance or dispute resolution.
+GPT:  Personal and Anonymous Information retention period not specified in the provided text.
+GPT:  The document does not specify how long PII is retained
+GPT:  The document does not specify how long aggregate geographic information is retained
+GPT:  The document does not specify how long demographic information is retained
+GPT:  Personal information is retained for as long as it may be relevant for the specified purposes or as required by law.
+GPT:  Payment information is managed according to the terms of the payment processor and as needed for transactions.
+GPT:  Passive information and analytics data are retained in accordance with Marleylilly's data retention practices and analytics partnersâ€™ policies.
+GPT:  Information provided by filling in forms - Retention period not specified.
+GPT:  Records and copies of correspondence - Retention period not specified.
+GPT:  Search queries on the Site - Retention period not specified.
+GPT:  Public posting information - Retention period not specified.
+GPT:  Site visit details - Retention period not specified.
+GPT:  Device and internet connection information - Retention period not specified.
+GPT:  Browser cookies information - Retention period not specified.
+GPT:  Flash cookies information - Retention period not specified.
+GPT:  Web beacons collected information - Retention period not specified.
+GPT:  Identifying Information is retained as long as necessary for business, compliance, and legal purposes
+GPT:  Purchase and Customer Service Information is retained as necessary for operations and legal compliance
+GPT:  Communications and Interactions are retained according to business needs and legal requirements
+GPT:  Event Information is retained for as long as relevant for business and operational purposes
+GPT:  Marketing Preferences are retained as relevant for personalization and marketing purposes
+GPT:  Social Media Information is retained as required for engagement and analytical purposes
+GPT:  Device and Technical Information is retained for operational security and improvement purposes
+GPT:  Activities and Usage information is retained for analytical, development and improvement purposes
+GPT:  Location Information is kept as necessary for services provision and compliance with local laws
+GPT:  Personal Information retained until the user deletes or edits it, or as long as the user remains a Masonite customer
+GPT:  Order history and Services usage data stored for a length of time appropriate to Masonite's business needs
+GPT:  Personal information how long retained: Not specified, retained as needed for operational Products or as disclosed.
+GPT:  Academic Institution information how long retained: Not specified, retained as needed for operational Products or as disclosed.
+GPT:  Username and password how long retained: Not specified, retained as needed for operational Products or as disclosed.
+GPT:  Personal details retained for as long as necessary to satisfy legal or reporting requirements
+GPT:  Government ID details retained for the minimum period required by law for age verification
+GPT:  Payment details retained for the duration required to process transactions and fulfill legal obligations
+GPT:  IP address is retained for as long as necessary to ensure website function and security.
+GPT:  Device and browser information is retained for as long as necessary for maintenance and analysis.
+GPT:  Navigation data retention is determined based on necessity for performance statistics and advertisement targeting.
+GPT:  Server address retained as necessary for statistical purposes and improvement of navigation functions.
+GPT:  Date and time of website visit retained as required for analysis and system optimization.
+GPT:  Personal information retained for the period necessary to respond to user requests or as legally required.
+GPT:  Personal information and Video Data are retained for the length of time needed to fulfill the purposes outlined in the Privacy Policy unless a longer period is required or permitted by law.
+GPT:  Full name how long retained not specified
+GPT:  Resume data how long retained not specified
+GPT:  Postal address how long retained not specified
+GPT:  Social Security or Tax Identification number how long retained not specified
+GPT:  Account name how long retained not specified
+GPT:  Employment history how long retained not specified
+GPT:  Information about internet connection and equipment used to access the website retention period is not specified
+GPT:  Personal data from registration retained for three (3) years after membership terminates
+GPT:  Automatically-collected Personal Data retained as long as necessary for platform analysis, improvement, and personalized advertising, then anonymized or deleted
+GPT:  Data from third parties retained as long as necessary for billing purposes, member experience enhancement, and platform improvement, then anonymized or deleted
+GPT:  Information collected via cookies and technologies is retained as per applicable law and policy requirements
+GPT:  Aggregated or de-identified information may be retained indefinitely since it does not directly identify users
+GPT:  Information retained to comply with legal, regulatory compliance needs, or to protect against fraudulent activity.
+GPT:  Specific retention periods vary by the type of information, as necessary to provide services or for operational purposes.
+GPT:  Contact Communications data retained as necessary to address your inquiry
+GPT:  User Account Data retained for the duration of the contract and as necessary for service improvement and security
+GPT:  Marketing Materials interaction data retained as long as necessary for campaign analysis and user engagement tracking
+GPT:  Call Records retained as necessary for customer service improvement
+GPT:  Recruitment Data retained for internal record-keeping and defense from legal claims
+GPT:  Website Interactions Data retained as necessary for website improvement and marketing purposes
+GPT:  Online Identifiers and Usage Data retained in accordance with applicable regulations or until opt-out
+GPT:  Personal information retained for as long as necessary to provide requested information, comply with legal obligations, resolve disputes, enforce agreements, and for other legitimate business purposes
+GPT:  Usage Information retained as long as necessary to fulfill the purposes set out in the Privacy Policy or as required by law
+GPT:  Employer and/or other corporate affiliation information retained as long required or as permitted by law
+GPT:  Item 1 how long data found in question2 is retained: As long as necessary for providing requested information, legal obligations, dispute resolutions
+GPT:  Item 2 how long data found in question2 is retained: Varied based on the sensitivity, user consent, availability of controls, legal obligations
+GPT:  Personal data is retained for the duration of the business relationship and as long as necessary for each purpose it is used.
+GPT:  Information used for auditing, data analysis, and research is kept as required to fulfill these purposes.
+GPT:  Basic information may be retained to avoid sending unwanted materials in the future and to keep a record of user requests and responses.
+GPT:  Information provided via forms, surveys, applications is retained as per applicable law or until no longer needed for business/legal purposes
+GPT:  Information on preferences, pages visited, technical information is retained as per applicable law or until no longer needed for business/legal purposes
+GPT:  IP address, domain name, system configuration, and settings are retained as per applicable law or until no longer needed for business/legal purposes
+GPT:  Personal information provided directly to the Site retention period depends on the purpose of the collection and legal requirements.
+GPT:  Personal information from service providers retention period is determined by contractual agreements and legal requirements.
+GPT:  Device and browsing activity information retention period is determined based on the necessity for site improvement and legal obligations.
+GPT:  Name retention as long as the user account is active or as needed for the services
+GPT:  Email address retained for the duration of the subscription to newsletters or until the user requests deletion
+GPT:  Mobile phone number retained until the user opts out of text alerts or requests deletion
+GPT:  Your signature, education, and employment history retained as long as necessary to fulfill service or comply with laws.
+GPT:  Personal Information retained as long as necessary for the purpose of collection and deleted after no longer needed.
+GPT:  Analytics Information retention period determined based on partnership terms with analytics providers and operational needs.
+GPT:  Site Visit Information retained for a period necessary for analysis and improvement of website experiences and deleted thereafter.
+GPT:  Tenant Identification Information retained as long as your account is active or for the duration required by law.
+GPT:  Registration Data retained as long as your account is active or for the duration required by law.
+GPT:  Names and aliases are retained for the maximum period permitted by law.
+GPT:  Mailing/billing addresses are retained for the maximum period permitted by law.
+GPT:  Email addresses are retained for the maximum period permitted by law.
+GPT: -4.11 Data retention not specified
+GPT:  Contact information how long retained is governed by company policies and legal requirements
+GPT:  Usernames, passwords, and service-related data how long retained dependent on account activity and legal requirements
+GPT:  Network traffic and usage information how long retained based on operational needs and in compliance with legal obligations
+GPT:  Demographic Information is retained for analytical purposes and marketing strategy adjustments.
+GPT:  Usage Information is retained for varying periods depending on cookies and tracking technologies' settings.
+GPT:  Household income retention period is not specified.
+GPT:  Preferences and shopping interests retention period is not specified.
+GPT:  Viewing behavior retention period is not specified.
+GPT:  Basic information (including Contact, Identity, Financial and Transaction Data) for seven years after they cease being customers
+GPT:  Not specified for other data types
+GPT:  Username and password are retained for the period needed to manage online accounts.
+GPT:  Email address is retained as long as necessary to provide Services and comply with legal obligations
+GPT:  Unique online identifiers like IP addresses are retained as required to improve services and for security purposes
+GPT:  Billing information and credit card details are retained for as long as needed to provide the Services and comply with legal obligations
+GPT:  Contact information is retained as long as necessary to provide the Services and fulfill transactions
+GPT:  Financial and bank account information is retained as long as necessary to provide the Services and fulfill transactions
+GPT:  Social security number, date of birth, name, address, email address, phone number, including mobile phone number is retained as long as necessary to provide the Services and fulfill transactions
+GPT:  Credit, debit, or payment card information is retained as long as necessary to provide the Services and fulfill transactions
+GPT:  Credit or debt history regarding creditworthiness or credit history is retained as long as necessary to provide the Services and fulfill transactions
+GPT:  Health and benefits information is retained as long as necessary to provide the Services and fulfill transactions
+GPT:  Employment history and application information is retained as long as necessary to provide the Services and fulfill transactions
+GPT:  Other personal information as needed to provide specific Services is retained as long as necessary to provide the Services and fulfill transactions
+GPT:  Name, address, email address, and telephone number are retained as per legal and operational requirements.
+GPT:  Browsing activities and device information are retained for analysis and marketing purposes for a period defined by internal policies.
+GPT:  Browser cookies how long retained not specified
+GPT:  Information about you is retained for as long as you use the Services and for a limited period after you stop using the Services for billing and collection purposes.
+GPT:  Personal Information how long retained is as necessary for service provision, legal obligations, dispute resolution, and enforcing agreements
+GPT:  Payment Information how long retained is as necessary for completing transactions, fraud prevention, and legal obligations
+GPT:  Usage Information how long retained varies, typically till it fulfils the purpose of collection such as improving user experience
+GPT:  Information from Academic Institutions how long data found in question2 is retained
+GPT:  Information retained as long as necessary for account maintenance and legal obligations
+GPT:  Credit card information retained as long as necessary for transaction and legal compliance
+GPT:  Bidding, shipment, and returns activity data retained as needed for customer service and legal purposes
+GPT:  IP addresses retained as long as necessary to fulfill Terms of Use and provide services or as required by law
+GPT:  Internet browser type retained as long as necessary to fulfill Terms of Use and provide services or as required by law
+GPT:  Geographic location retained as long as necessary to fulfill Terms of Use and provide services or as required by law
+GPT:  Personal information retained for a period consistent with the original purpose of collection or as long required to fulfill our legal obligations
+GPT:  Captured image (from Mobile App) retained for the same amount of time as other personal information
+GPT:  Browser type, operating system, and IP address retention period based on the amount, nature, and sensitivity of data, potential harm from unauthorized use, processing goals, and applicable legal requirements.
+GPT:  Name is not specified
+GPT:  Email address is not specified
+GPT:  Telephone number is not specified
+GPT:  Social media user names are not specified
+GPT:  Zip code is not specified
+GPT:  IP addresses are not specified
+GPT:  Duration of website visit is not specified
+GPT:  Articles clicked are not specified
+GPT:  Advertisements interacted with are not specified
+GPT:  Equipment used to access the website is not specified
+GPT:  Usage details are not specified
+GPT:  Usage Information is retained for the duration necessary to analyze web property usage and improve user experience.
+GPT:  Communication preferences are retained indefinitely or until the user changes their preferences or opts out.
+GPT:  Personal Information retention is not explicitly detailed but is implied to be kept for account administration, order processing, and communications.
+GPT:  Anonymous Information may be retained and used indefinitely for site improvement and personalized advertising.
+GPT:  Contest or survey data is retained as necessary for the administration of these activities.
+GPT:  Item 1 how long data found in question2 is retained: Navigation data is destroyed within a few days unless required for investigations.
+GPT:  Item 3 how long data found in question2 is retained: Cookie retention periods vary; technical cookies might remain even after the browser is closed, while session cookies are deleted once the browser is turned off.
+GPT:  Data concerning website use including Online Identifiers, Internet Activity is retained up to 5 years.
+GPT:  Data including Name, Email address, Postal address, Telephone number, Purchases, Financial Information is retained for up to 15 years from your last purchase.
+GPT:  Customer support data including Name, Email address, Postal address, Telephone number, Purchases is kept for up to 15 years.
+GPT:  Data for promotional and marketing communications including Email address is kept until unsubscription or deletion request.
+GPT:  Review, survey, feedback data including Name, Email address is retained for up to 15 years following the last contact.
+GPT:  Privacy request data including Name, Email address, Online Identifiers is kept for a minimum of 24 months following the request completion.
+GPT:  Security-related data including Name, Postal address, Online Identifiers is retained as necessary to comply with legal obligations.
+GPT:  Personal Identifiers related to product purchases are retained for as long as required to fulfill our contract with you or for 5 years from your last purchase with us.
+GPT:  Internet Activity collected while you use our website is deleted or anonymized within 5 years of collecting it.
+GPT:  Commercial Information is retained for as long as the personal data is required for us to fulfill our contract with you or for 5 years from your last purchase with us.
+GPT:  Credit card number retention period not specified.
+GPT:  IP number retention period not specified.
+GPT:  Type of browser retention period not specified.
+GPT:  Biometric Information retained until the initial purpose for collecting or obtaining such data has been satisfied or within 3 years of your last interaction with us
+GPT:  Payment Information retained as required by law and for the exercise or defense of legal claims.
+GPT:  Commercial Information retained based on the policy's retention period.
+GPT:  Indefinitely 
+GPT:  Account-related information is retained for the duration of the subscriber agreement and a period thereafter as necessary.
+GPT:  Certificate-related information is retained for seven years after the expiration or revocation of the last Certificate issued or fifteen years if any Certificate is a Qualified Certificate.
+GPT:  CodeGuardÂ® service-related information is retained until the deletion of the account or the expiration or termination of the agreement, with backups maintained for up to 14 days.
+GPT:  Job application information is retained for four years following the conclusion of the hiring process.
+GPT:  Order Information is retained until the user asks to delete this information
+GPT:  Personal data retained as long as needed in accordance with applicable laws and regulations.
+GPT:  Identification data and banking, payment, or transaction data retention aligned with legal and regulatory requirements.
+GPT:  Information about website, product, and service usage retained as per the specific retention policies detailed in the Cookie policy.
+GPT:  Personal data retained for as long as necessary to fulfill the purposes we collected it for.
+GPT:  Personal data retained to satisfy any legal, accounting, or reporting requirements.
+GPT:  Content Data retention dependent on user settings and platform policies.
+GPT:  Mobile IDs and related Service Information are rendered inactive within 13 months but may be retained longer if necessary for legal, auditing, or operational needs.
+GPT:  Information collected through the Smaato Websites is retained as long as necessary to fulfill the purposes outlined in the Policy.
+GPT:  Business-to-Business Personal Data from Clients is typically retained for a period of 3 years after account closure or inactivity.
+GPT:  Information retention periods are not specified in the provided text.
+GPT:  First and last name retained as long as necessary to provide Services and comply with legal requirements
+GPT:  E-mail and mailing addresses retained according to the duration necessary for service provision and legal compliance
+GPT:  Phone number retained for the necessary period to fulfill service requirements and legal obligations
+GPT:  Demographic information retained for the duration necessary to fulfill transactions and for archival purposes
+GPT:  Purchase history retained for analytics and personalization purposes indefinitely, unless deletion is requested
+GPT:  Device and location data retained for as long as necessary to provide services and improve user experience
+GPT:  Personal information retained for no longer than 4 years
+GPT:  Information used for ad targeting retained for no more than 30 days
+GPT:  Unique IDs are retained following the same principles as contact information, taking into account legal, regulatory, and operational needs.
+GPT:  Financial information is retained for a period necessary to fulfill the purposes for which it was collected, including for meeting any legal, accounting, or reporting requirements.
+GPT:  \n    4.1 User Data how long retained: Until the user's Spotify account is deleted or as necessary for legal obligations.\n    4.2 Street Address Data how long retained: Retained for as long as necessary for the purposes collected such as billing, tax administration, or as legally required.\n    4.3 Usage Data how long retained: Some forms are deleted after 90 days; other data is retained until the user's account is deleted. 
+GPT:  IP address: Retained only as long as necessary for providing the website and ensuring its security.
+GPT:  Device type, name, and IDs: Retained only as long as necessary for providing the website and ensuring its security.
+GPT:  Date and time of requests: Retained only as long as necessary for providing the website and ensuring its security.
+GPT:  Item 1 how long data is retained: Registration data is retained until account deletion request
+GPT:  Item 2 how long data is retained: IP address collected for site visits is stored as per the service's necessity
+GPT:  Item 3 how long data is retained: Email for newsletters is retained as long as the subscription is active
+GPT:  Item 4 how long data is retained: Personal data for manuscript submission retains as per the service requirement
+GPT:  Information in log files and information collected via tracking technologies retained as necessary to comply with legal obligations, resolve disputes, and enforce agreements
+GPT:  Registration and Profile Information retained as long as necessary to provide our Services 
+GPT:  Payment Information retained in accordance with legal requirements and payment processor terms 
+GPT:  Communications retained for a period appropriate to provide customer support and comply with legal obligations 
+GPT:  Contact Information is retained as long as it is needed for the purposes collected or until a user requests deletion
+GPT:  Payment Information is retained as required by financial and legal obligations
+GPT:  Account Information is retained as long as the user's account is active and thereafter for legal and operational purposes
+GPT:  Usage Data is retained for a period necessary to support the service use and analysis
+GPT:  Marketing and Communications Data is retained as long as the user is engaged with the marketing activities and for a reasonable period thereafter
+GPT:  PII is retained as long as necessary to fulfill the purposes outlined in the Privacy Policy, comply with legal obligations, resolve disputes, and enforce agreements.
+GPT:  Demographic Information is retained according to the same criteria as PII.
+GPT:  Usage Information is retained for a period that enables the Company to analyze and improve the Services, subject to compliance with applicable laws.
+GPT:  Aggregate information may be stored indefinitely as it does not identify individuals.
+GPT:  User information is retained as long as the user account is active or as required for legal and business purposes.
+GPT:  No specific retention period detailed for information collected through online services
+GPT:  No specific retention period detailed for information about transactions and experiences
+GPT:  User marketing and market research preferences retained as long as necessary to respect user choices
+GPT:  Account Information is retained until it is no longer necessary for the purpose it was collected, subject to legal requirements.
+GPT:  Analytics Information is retained according to specific cookies and tracking technologies' persistence and as necessary for analysis.
+GPT:  Contact Information is retained until it is no longer necessary for customer service or marketing purposes, subject to legal regulations.
+GPT:  Indefinite retention or until deletion request for account-specific information like Name, User ID, etc.
+GPT:  Telephony log information retained as required for compliance with legal and regulatory requirements.
+GPT:  Messages and contacts deleted upon user request or per company's data retention policy.
+GPT:  Commercial Information: Retained as long as necessary for the purposes of collection and use, and for a period after our relationship has ended to comply with legal obligations.
+GPT:  Account creation data retained until deletion request or after user inactivity period
+GPT:  Order-related data kept for the duration of the contractual relationship
+GPT:  Data from participation in competitions or promotions retained for the duration of the operation
+GPT:  Newsletter subscription data kept until unsubscription or after inactivity period
+GPT:  Data for handling product or brand inquiries retained for the necessary time to handle the request
+GPT:  Cookies data retention varies based on purpose (e.g., session cookies for the duration of the session)
+GPT:  Credit card number retention duration not specified
+GPT:  IP number retention duration not specified
+GPT:  Information about browser and operating system retention duration not specified
+GPT:  Identity Data is retained as per the company's data retention policy
+GPT:  Financial Data is retained as per the company's data retention policy
+GPT:  Transaction Data is retained as per the company's data retention policy
+GPT:  Marketing and Communications Data is retained as per the company's data retention policy
+GPT:  Voice Data is retained as per the company's data retention policy
+GPT:  Personal identifiable information retained indefinitely for record maintenance.
+GPT:  Survey-related information retained as per companyâ€™s data retention policy to improve user experience and service offerings.
+GPT:  Third-party acquired information retained as per contractual agreements with the third party and in compliance with relevant laws.
+GPT:  Account Data how long retained: For as long as required to fulfill the products and services requested by the user or until the user requests removal.
+GPT:  Transactional and Purchase/Payment Details how long retained: Follows the same retention as Account Data.
+GPT:  Personal Data how long retained: For the minimum period necessary for the purposes set out in the Privacy Policy or as legally required.
+GPT:  Full legal name: Retained as long as necessary to fulfill the purposes for which it was collected, and to comply with legal requirements.
+GPT:  Mailing address: Retained as long as necessary for business purposes and legal compliance.
+GPT:  Social Security number: Retained according to legal requirements and for as long as necessary for the protection against fraud and under legal obligations.
+GPT:  Identity verification data retained for 5 years after the end of the customer relationship.
+GPT:  Financial data retained according to legal, accounting, or reporting requirements, typically for 5 years.
+GPT:  Account activity data kept for a period required to comply with legal obligations and internal policies, generally 5 years.
+GPT:  Personally Identifiable Information is retained as required to provide Klarna Services and comply with legal obligations.
+GPT:  Non-personally Identifiable Information retention period aligns with the necessity for service provision and legal compliance.
+GPT:  Contact details are retained as long as you have an account and an additional period for fraud and legal compliance purposes.
+GPT:  Demographic information is retained as necessary to comply with legal requirements and obligations, resolve disputes, and enforce agreements.
+GPT:  Educational, employment, or other professional information are retained for as long as necessary for the purpose they were collected and to comply with legal obligations.
+GPT:  Personal Data is retained as long as a business purpose exists or until the individual unsubscribes or requests erasure
+GPT:  Information for record-keeping purposes is kept indefinitely unless an individual requests its deletion according to legal and operational requirements
+GPT:  Aggregated or anonymized data is retained without specific duration since it no longer identifies an individual
+GPT:  Online Identifiers and Usage Data retained as long as necessary for analytical and marketing purposes
+GPT:  Contact Information retained as long as necessary for communication or until user opts out 
+GPT:  Candidate Information deleted after the recruitment process, unless consent given for future opportunities or required by law
+GPT:  Online Identifiers and Usage Data retained as long as necessary for purposes set forth
+GPT:  Contact Information retained as long as necessary or until opt-out
+GPT:  Job Application Information retained until the application process concludes or as required by law
+GPT:  End User Data retained as long as necessary for service provision
+GPT:  Booking information is retained according to the same criteria as contact information.
+GPT:  Other personal information in content is retained following our retention policies applicable to the context in which the information was collected.
+GPT:  Personal data is retained no longer than necessary for the purposes it was collected, with specific retention dependent on purposes, controller instructions, K-12 School instructions, or applicable laws.
+GPT:  Student personal data is retained based on the directions of the K-12 Schools and/or until it is no longer necessary for provided educational purposes.
+GPT:  Automatically collected data is stored as per the need to comply with legal requirements, understand product use, and improve services, with specific retention practices dependent on the type of data and legal obligations.
+GPT:  Contact information is retained for as long as necessary for the uses collected as described in the Policy, deleted after 2 years of inactivity
+GPT:  Payment information is retained for 2 years of payment inactivity before deleting the payment profile
+GPT:  Interests and Demographic information retained based on active use, deleted following the same retention and inactivity policies
+GPT:  Biometric Information how long data found in question2 is retained
+GPT:  Personal Information how long retained: Retained as long as necessary for the purposes described, including service delivery, maintenance, and as required by law.
+GPT:  Weber-ID Account Information how long retained: Retained for as long as the account is active and thereafter for recordkeeping and warranty purposes, unless deletion is requested.
+GPT:  Mobile Application Data how long retained: Stored in the cloud for future uses and analytics purposes, combined with other data sources, for as long as necessary to provide services and user experience improvements.
+GPT:  Identifiable stay details - typically maintained for a minimum of five (5) years
+GPT:  Employment application information - retention period not specifically mentioned
+GPT:  Name retained as long as it remains relevant and as required by law or recommended by regulators
+GPT:  Address retained as long as it remains relevant and as required by law or recommended by regulators
+GPT:  Email Address retained as long as it remains relevant and as required by law or recommended by regulators
+GPT:  Event details are retained based on the same criteria as personal identifiers.
+GPT:  Online identifiers are stored in an anonymized manner with regard to website use; other data retention follows personal identifiers guidelines.
+GPT:  Identifiers and contact information is retained as long as necessary to fulfill the purposes for which it was collected and processed
+GPT:  User Credentials are retained as long as necessary to fulfill the purposes for which it was collected and processed
+GPT:  Address is retained as long as necessary to fulfill the purposes for which it was collected and processed
+GPT:  Payment type is retained as long as necessary to fulfill the purposes for which it was collected and processed
+GPT:  User content and communications are retained as long as necessary to fulfill the purposes for which it was collected and processed
+GPT:  Technical Information is retained as long as necessary to fulfill the purposes for which it was collected and processed
+GPT:  Usage Information is retained as long as necessary to fulfill the purposes for which it was collected and processed
+GPT:  Information regarding interaction with emails and messages is retained as long as necessary to fulfill the purposes for which it was collected and processed
+GPT:  Information regarding performance is retained as long as necessary to fulfill the purposes for which it was collected and processed
+GPT:  Not specifically mentioned in the provided text
+GPT:  Account data is retained for up to 12 months after subscription or trial expiration.
+GPT:  Email address retained to confirm deletion of associated data.
+GPT:  Information may be retained as necessary to comply with legal and regulatory obligations.
+GPT:  Account data is retained for up to 12 months after your subscription or trial expires unless the account is deleted.
+GPT:  Email address may be retained after account deletion to confirm the deletion of associated data.
+GPT:  Information may be retained as necessary to comply with legal and regulatory obligations or in connection with legal proceedings.
+GPT:  All data retained as long as user account is active
+GPT:  Account data deleted within 30 days of account deletion unless legitimate business interest exists
+GPT:  Inactive user accounts and data reviewed and deleted or de-identified after five years
+GPT:  Account Information retained indefinitely
+GPT:  Device information and identifiers retained indefinitely in logs
+GPT:  Connection and Usage Information retained indefinitely in logs
+GPT:  Geolocation Information retained indefinitely in logs
+GPT:  Inferences likely retained as long as relevant for the purposes collected
+GPT:  Personal Information is retained for as long as needed to provide the Services, unless a longer retention period is required or permitted by law
+GPT:  After 30 days, information uploaded to the Site or submitted to ZeroBounce in conjunction with the Services, including but not limited to CSV or TXT files, or through Google Sheets, may be deleted but users have the option to manually delete such information through the Customer dashboard before that
+GPT:  Non-enterprise customersâ€™ results generated through the Services may be cached and stored by ZeroBounce, but non-enterprise customers may elect to opt-out
+GPT:  Identity Data is retained for different periods based on applicable legal and operational requirements
+GPT:  Contact Data is retained for different periods based on applicable legal and operational requirements
+GPT:  Financial Data is retained based on legal and accounting requirements
+GPT:  Transaction Data is retained based on legal and accounting requirements
+GPT:  Technical Data is retained for different periods based on operational security and analytics needs
+GPT:  Profile Data is retained based on user's engagement with services and operational requirements
+GPT:  Business Information is retained based on contractual requirements and services engagement
+GPT:  Usage Data is retained for analytics purposes for a designated period
+GPT:  Marketing and Communications Data is retained based on user preferences and legal requirements
+GPT:  Social Security number - Retained as long as necessary to comply with legal obligations and to provide services to you
+GPT:  Income - Retained as long as necessary to comply with legal obligations and to provide services to you
+GPT:  Payment history - Retained as long as necessary to comply with legal obligations and to provide services to you
+GPT:  Name and contact information is retained for business, accounting, tax, or legal purposes.
+GPT:  Driver's license number is retained for as long as reasonably necessary for business or legal purposes.
+GPT:  Social Security Number is retained for business, accounting, tax, or legal purposes.
+GPT:  Until the purpose for which it was collected is achieved and as required by law
+GPT:  Securely deleted or anonymized when not needed
+GPT:  Specific retention period depends on the legal obligations and the purpose of data collection
+GPT:  Non-Personally Identifiable Information retention period is not explicitly stated, implying it could be subject to similar retention practices as personal information.
+GPT:  Information collected using technologies like cookies and embedded pixels is retained in accordance with the policy's purposes and could vary based on the specific technology or service provider's retention policies.
+GPT:  Account registration information is retained as long as necessary to provide requested services and comply with legal obligations
+GPT:  Communications with Appodeal information is retained in accordance with Appodeal's data retention policies and relevant legal requirements
+GPT:  Survey participation information is retained as necessary for analysis and service improvement purposes
+GPT:  First and Last Name retained while MyETC or HES Forum account is active
+GPT:  Email address retained while MyETC or HES Forum account is active
+GPT:  Country retained while MyETC or HES Forum account is active
+GPT:  Contact Information how long data is retained: retained as long as necessary for transaction fulfillment, legal obligations, and legitimate business purposes.
+GPT:  Vehicle Data how long data is retained: retained as necessary for providing Products, legal compliance, and business operations.
+GPT:  Digital Activity how long data is retained: retained based on the actual retention periods varying by data type, necessity, and legal requirements.\n \n5) 
+GPT:  Contact Information user right: right to access, correct, delete, and port data.
+GPT:  Vehicle Data user right: right to access, delete specific data via Master Reset, and opt-out of data collection.
+GPT:  Digital Activity user right: right to access, request correction or deletion, and manage privacy settings for data collection and processing.
+GPT:  Contact Information how long data is retained: For as long as necessary to fulfill the purposes outlined in the Privacy Policy
+GPT:  Government Identification how long data is retained: For as long as necessary to fulfill the purposes outlined in the Privacy Policy
+GPT:  Payment and Financial Information how long data is retained: For as long as necessary to fulfill the purposes outlined in the Privacy Policy
+GPT:  Images, photos, and videos retained for up to 30 days unless consent given for longer retention
+GPT:  AI Tools Outputs retained until user requests deletion or as per internal retention policies
+GPT:  Non-User Personal Data deleted permanently from the Lightricks Cloud after processing
+GPT:  Contact Information how long retained depends on the necessity for product delivery, compliance with legal obligations, and other legitimate business purposes.
+GPT:  Vehicle Data how long retained varies based on criteria such as legal compliance, necessary for business operations, and rights protection.
+GPT:  Digital Activity how long retained is determined by the need for research, personalization, and regulatory compliance.
+GPT:  IP address is retained for as long as necessary to provide the website and as required by statutory retention requirements
+GPT:  Device type, name, and IDs are retained for as long as necessary to provide the website and as required by statutory retention requirements
+GPT:  Name, user name, and email address are retained until an account deletion request is made or as required by statutory retention requirements
+GPT:  Contact and account registration information retention period depends on the purposes for which it is processed and/or as required to comply with applicable laws.
+GPT:  Demographic and statistical information retention period depends on the purposes for which it is processed and/or as required to comply with applicable laws.
+GPT:  Financial and transactional information retention period depends on the purposes for which it is processed and/or as required to comply with applicable laws.
+GPT:  Device and service usage data retained for the duration necessary for service provision
+GPT:  Subscription information retained as long as active subscription exists
+GPT:  Payment information retained as required for transactions and in compliance with legal obligations
+GPT:  Personal information how long retained: As long as needed to provide service or for legal, tax, audit, investigative, and/or security purposes.
+GPT:  Device and advertising identifiers how long retained: Incorporated into different types of records, retained as part of providing service or for legal reasons.
+GPT:  Information from social media platforms how long retained: Retained as needed to fulfill the purposes for which it was collected or as required by law.
+CAGPT:  Retention period for categories of Personal Information is not specified
+CAGPT:  Retention period for sources of Personal Information is not specified
+CAGPT:  Retention period for purposes of collected Personal Information is not specified
+CAGPT:  Device's IP address how long retained not specified
+CAGPT:  Geographic location (country only) how long retained not specified
+CAGPT:  Userâ€™s behaviour on the website how long retained not specified
+CAGPT:  Commercial information is retained for the duration of your relationship with us and as necessary for business analysis.
+CAGPT:  Biometric information is retained as long as necessary for identification and security purposes.
+CAGPT:  Internet or other similar network activity is retained as necessary for analysis and improvement of the website.
+CAGPT:  Sensory data is retained as necessary for the purpose it was collected.
+CAGPT:  Non-public education information is retained as permitted by the Family Educational Rights and Privacy Act.
+CAGPT:  Inferences drawn from other personal information are retained as necessary for personalized service provision.
+CAGPT:  Not specified how long Non-public education information described in the Family Educational Rights and Privacy Act is retained
+CAGPT:  Transaction data retention period not specified
+CAGPT:  Online interaction data retention period not specified
+CAGPT:  Payment information retained similarly as contact information
+CAGPT:  Credit and identifier information retained similarly as contact information
+CAGPT:  User PI retained as long as necessary to provide Services
+CAGPT:  Longer retention period if required for legal or compliance purposes
+CAGPT:  No specific retention period mentioned for individual data items
+CAGPT:  Financial Information is retained as long as necessary for compliance with legal, tax, or accounting requirements.
+CAGPT:  Demographic Information is retained as long as there is a legitimate business need.
+CAGPT:  Device/Browser Information is retained until no longer necessary for service provision or anonymized.
+CAGPT:  Location Information is retained until no longer needed for service provision or anonymized.
+CAGPT:  Commercial Information is retained as per ongoing business needs or until deletion is possible.
+CAGPT:  User Content is retained as long as relevant to our business or until anonymization.
+CAGPT:  Internet Activity is retained considering legitimate business requirements and data protection regulations.
+CAGPT:  Profile Information is retained following legitimate business use or until deletion is practical.
+CAGPT:  Personal information is retained as long as necessary for business relationships or as required by law
+CAGPT:  Usage data is retained for a period that aligns with analytics needs and regulatory compliance
+CAGPT:  Communication records are retained according to legal obligations and operational requirements
+CAGPT:  Identifiers retention duration not specified, depends on the policy and legal requirements.
+CAGPT:  Online identifiers retention duration aligned with cookies policy and user opt-out options.
+CAGPT:  Online and network activity retention based on analytics and operational necessity.
+CAGPT:  Device and OS information retained as needed for service provision and analytics.
+CAGPT:  Installation reports retention duration determined by product support requirements.
+CAGPT:  Products usage information retained for the period necessary for analytics and product improvement.
+CAGPT:  Payment and billing information retained as required by financial and legal regulations.
+CAGPT:  Marketing and advertising information retained based on campaign duration and analysis needs.
+CAGPT:  Customer support information retained as necessary for resolving issues and improving services.
+CAGPT:  Registration and account management information retained as long as the account is active.
+CAGPT:  Subscription information retention based on subscription duration and legal obligations.
+CAGPT:  Analytics and BI data retention according to analytics needs and data minimization principles.
+CAGPT:  Contact information retention period as detailed in the "Data retention" section of the Privacy Policy.
+CAGPT:  Customer service interaction information retention period as detailed in the "Data retention" section of the Privacy Policy.
+CAGPT:  Product interaction information retention period as detailed in the "Data retention" section of the Privacy Policy.
+CAGPT:  Internet network and device information retention period as detailed in the "Data retention" section of the Privacy Policy.
+CAGPT:  Login information retention period as detailed in the "Data retention" section of the Privacy Policy.
+CAGPT:  Professional or employment information retention period as detailed in the "Data retention" section of the Privacy Policy.
+CAGPT:  Other information retention period as detailed in the "Data retention" section of the Privacy Policy.
+CAGPT:  Identifiers retained until the user requests deletion
+CAGPT:  Personal Characteristics retained until the user requests deletion
+CAGPT:  Commercial Data retained until the user requests deletion
+CAGPT:  Internet/Electronic Activity retained until the user requests deletion
+CAGPT:  Sensory Data retained until the user requests deletion
+CAGPT:  Inferences retained until the user requests deletion
+CAGPT:  Government ID Data retained only as required by applicable law or for fraud prevention
+CAGPT:  Functional cookies retention up to 365 days
+CAGPT:  As long as necessary for the purposes set out in the Privacy Policy
+CAGPT:  To comply with legal obligations
+CAGPT:  For internal analysis purposes
+CAGPT:  Information protected against security breaches how long data is retained: No specific duration mentioned
+CAGPT:  Protected classification information how long data is retained: No specific duration mentioned
+CAGPT:  Internet/electronic activity how long data is retained: No specific duration mentioned
+CAGPT:  Audio/video data how long data is retained: No specific duration mentioned
+CAGPT:  Personal and online identifiers how long data is retained: Not specified
+CAGPT:  Education information how long data is retained: Not specified
+CAGPT:  Inferences drawn from the above information about predicted characteristics and preferences how long data is retained: Not specified
+CAGPT:  Other information linked to the personal information above how long data is retained: Not specified
+CAGPT:  Personal information categories described in subdivision (e) of Section 1798.80 retained as long as necessary to fulfill the purposes outlined in the privacy notice
+CAGPT:  Characteristics of protected classifications retained as long as necessary to fulfill the purposes outlined in the privacy notice
+CAGPT:  Audio, electronic, visual, thermal, olfactory, or similar information retained as long as necessary to fulfill the purposes outlined in the privacy notice
+CAGPT:  Education information retained as long as necessary to fulfill the purposes outlined in the privacy notice
+CAGPT:  Identifiers how long retained as described in the "Retention" section of the Privacy Policy
+CAGPT:  Commercial information how long retained as described in the "Retention" section of the Privacy Policy
+CAGPT:  Internet or other similar network activity information how long retained as described in the "Retention" section of the Privacy Policy
+CAGPT:  Sensory data how long retained as described in the "Retention" section of the Privacy Policy
+CAGPT:  Inferences about consumer preferences, characteristics, and behavior how long retained as described in the "Retention" section of the Privacy Policy
+CAGPT:  Sensitive personal information how long retained as described in the "Retention" section of the Privacy Policy
+CAGPT:  Categories of personal data retained as per IDGC's privacy policy
+CAGPT:  Specific pieces of personal data retained as per IDGC's privacy policy
+CAGPT:  Information on the business or commercial purpose for collecting or selling personal data retained as per IDGC's privacy policy
+CAGPT:  Identifiers how long data is retained is based on the duration of providing service plus the necessary additional time for legal and operational purposes.
+CAGPT:  Commercial information how long data is retained is as long as necessary for the completion of transactions and for record-keeping requirements.
+CAGPT:  Identifiers retained as required by applicable law, court order, or governmental regulations
+CAGPT:  Personal information categories listed in the California Customer Records statute retained as necessary or appropriate to protect the rights, property or safety of Club Pilates, its clients or others
+CAGPT:  Retained for the period required by law and occasionally beyond if deemed necessary
+CAGPT:  Deleted, anonymized, aggregated, or de-identified when no longer needed
+CAGPT:  Stored securely and prevented from further processing until deletion is possible if stored in back-up archives
+CAGPT:  As permitted under applicable law for providing goods or services, detecting security incidents, complying with legal obligations, and other compatible uses
+CAGPT:  Personal Information and Identifiers retained until no longer have a legitimate business need
+CAGPT:  Commercial Information retained until no longer have a legitimate business need
+CAGPT:  Internet and Network Information retained until no longer have a legitimate business need
+CAGPT:  Personal Identifiers retained until no longer necessary for contract fulfillment or anonymized after 10 years from last purchase
+CAGPT:  Internet Activity deleted or anonymized within 10 years of collection
+CAGPT:  Commercial Information retained as long as required for contract fulfillment or anonymized form beyond 10 years
+CAGPT:  Financial Information retained as long as necessary for contract fulfillment or anonymized beyond 10 years
+CAGPT:  Location Information retention not specifically stated, but inferred as part of personal data retention policies
+CAGPT:  Inferences from Other Data retained until opt-out or request for deletion, with a record of opt-outs kept indefinitely to prevent future communications
+CAGPT:  Personal information categories listed in the California Consumer Records statute retained for similar durations
+CAGPT:  Commercial information maintained for similar necessary periods
+CAGPT:  Internet or similar network activity information kept as required or necessary
+CAGPT:  Data retention period not specified for categories of personal data collected
+CAGPT:  Data retention period not specified for specific pieces of personal data collected
+CAGPT:  Data retention period not specified for information on CCPA rights exercise
+CAGPT:  Personal information is retained for a period of 12 months before a user request
+CAGPT:  Retention period may vary based on the CCPA's requirements for basis of retention
+CAGPT:  Information not collected directly from the user may not be subject to the same retention policies
+CAGPT:  Sensitive Information is retained as needed for business purposes or as required by law
+CAGPT:  Internet Data how long data retained: 13 months
+CAGPT:  Geo-location Data how long data retained: 13 months
+CAGPT:  Inference Data how long data retained: 13 months
+CAGPT:  Categories of Personal Information collected: Retained as long as necessary to fulfill the purposes outlined in the privacy notice or as required by law
+CAGPT:  Categories of sources from which the Personal Information is collected: Retained as long as necessary for the purpose of collection
+CAGPT:  Specific pieces of Personal Information collected about you: Retained as long as necessary to fulfill the purposes for which it was collected or as required by law
+CAGPT:  Financial information retained for a period consistent with legal requirements or until no longer needed for business purposes
+CAGPT:  Purchase history retained for a period consistent with legal requirements or until no longer needed for business purposes
+CAGPT:  Internet activity retained for a period consistent with legal requirements or until no longer needed for business purposes
+CAGPT:  Personal information related to loan or credit account servicing is retained for as long as necessary for legal and regulatory obligations
+CAGPT:  Personal information for scholarship searches and FAFSA assistance is retained for the period you maintain an account with us
+CAGPT:  Personal information for an application for an Earnest scholarship is retained for 24 months
+CAGPT:  Varies depending on service provision, legal obligations, and consent-based processing
+CAGPT:  Required for legal compliance, tax, accounting, or auditing purposes or to prevent fraudulent activity
+CAGPT:  Stored as long as necessary to comply with statutory, contractual, or similar obligations
+CAGPT:  Contact and account information how long data is retained: Not specified explicitly.
+CAGPT:  Customer service interaction information how long data is retained: Not specified explicitly.
+CAGPT:  User-generated content how long data is retained: Not specified explicitly.
+CAGPT:  Employment application information how long data is retained: Not specified explicitly.
+CAGPT:  Information collected through automated means how long data is retained: Not specified explicitly.
+CAGPT:  As long as necessary to fulfill the purposes collected for, as required to satisfy any legal or regulatory obligations, or as necessary to resolve disputes
+CAGPT:  For the duration of the application process
+CAGPT:  For as long as two (2) years or as required by applicable laws, including but not limited to: Title VII of the Civil Rights Act of 1964; the Age Discrimination in Employment Act of 1967; American Disabilities Act of 1990; for California Applicants, California Government Code Section 12946
+CAGPT:  Personal Information is retained as specified in the "Personal Data Retention" section of the Privacy Policy
+CAGPT:  Characteristics of protected classifications retained as long as necessary for service provision and legal, accounting, contractual, or reporting requirements.
+CAGPT:  Commercial or transactions information retained as long as necessary for service provision and legal, accounting, contractual, or reporting requirements.
+CAGPT:  Biometric information retained as long as necessary for service provision and legal, accounting, contractual, or reporting requirements.
+CAGPT:  Sensory information retained as long as necessary for service provision and legal, accounting, contractual, or reporting requirements.
+CAGPT:  Inferences drawn retained as long as necessary for service provision and legal, accounting, contractual, or reporting requirements.
+CAGPT:  Other information linked to personal information retained as long as necessary for service provision and legal, accounting, contractual, or reporting requirements.
+CAGPT:  Item 1 how long data is retained: As long as needed for the uses set out in the privacy notice or while there is a legitimate reason for doing so.
+CAGPT:  Item 2 how long data is retained: For the active life of your account until you terminate your account, so we can complete the purchase transaction or until you otherwise request deletion of your data.
+CAGPT:  Item 3 how long data is retained: In all other cases, records will be retained as appropriate to the data category and in line with any legal obligations.
+CAGPT:  Identifiers are retained according to the company's data retention policy
+CAGPT:  Commercial information is retained according to the company's data retention policy
+CAGPT:  Internet or other similar network activity is retained according to the company's data retention policy
+CAGPT:  Sensory data is retained according to the company's data retention policy
+CAGPT:  User-Created Data how long data is retained not specified
+CAGPT:  Sites Activity how long data is retained not specified
+CAGPT:  Usage Analytics how long data is retained not specified
+CAGPT:  Communication Recordings how long data is retained not specified
+CAGPT:  Identifiers and professional or employment-related information how long retained: As required by law and company policy.
+CAGPT:  Sensitive Personal Information how long retained: As required by law and company policy.
+CAGPT:  Sensory or Surveillance Data how long retained: As required by law and company policy.
+CAGPT:  Non-Public Education Information how long retained: As required by law and company policy.
+CAGPT:  Background Screening Information how long retained: As required by law and company policy.
+CAGPT:  Financial and Transactional Information how long data is retained
+CAGPT:  Sensitive Personal Information how long data is retained
+CAGPT:  Activity Information how long data is retained
+CAGPT:  Call Information how long data is retained
+CAGPT:  Device and Usage Information how long data is retained
+CAGPT:  Information Collected by Cookies and Similar Tracking Technologies how long data is retained
+CAGPT:  Audio, electronic, or similar information how long data is retained
+CAGPT:  Inferences drawn from any of the information how long data is retained
+CAGPT:  Name how long retained not specified
+CAGPT:  Postal or email address how long retained not specified
+CAGPT:  Personal Information retained no longer than reasonably necessary for business purposes.
+CAGPT:  Retention based on applicable law or contractual obligations.
+CAGPT:  Retention considering pendency of any actual or threatened litigation.
+CAGPT:  Retention according to applicable statutes of limitations for potential legal claims.
+CAGPT:  Retention based on generally accepted best practices in the industry.
+CAGPT:  Internet or other similar network activity is retained as long as necessary to provide relevant and personalized services and advertisements
+CAGPT:  Personal Information is retained for the period reasonably necessary to provide goods and services, such as the term of employment, and for the period reasonably necessary to support business operational purposes.
+CAGPT:  Records are retained consistent with the record retention policy, including appropriate disposal at the end of applicable retention periods.
+CAGPT:  Demographic information retained for as long as necessary to fulfill the purposes outlined or other permitted purposes.
+CAGPT:  Audio, electronic, or visual information retained for as long as necessary to fulfill the purposes outlined or other permitted purposes.
+CAGPT:  Inferences about you retained for as long as necessary to fulfill the purposes outlined or other permitted purposes.
+CAGPT:  Biometric information retained for as long as necessary to fulfill the purposes outlined or other permitted purposes.
+CAGPT:  Registration, subscription, or contact information is retained as long as necessary for the purposes described in the Privacy Policy, varying according to specific processing reasons.
+CAGPT:  Customer service information, demographic, statistical, and interest information, financial and transactional information, user-generated content, research, survey, or sweepstakes information, contact information about others, and social media information follow the same retention guideline as 4.1.
+CAGPT:  Device information and identifiers, internet network and device activity data, and geolocation information are retained based on the same principles as 4.1.
+CAGPT:  Inference data follows the retention guideline as outlined in 4.1.
+CAGPT:  As long as necessary for the purposes set out in privacy policy and business purposes
+CAGPT:  Longer, as required or permitted by law
+CAGPT:  Until no longer necessary, not specified for individual items
+CAGPT:  Images or Videos are retained as required by law or as necessary to protect against security incidents.
+CAGPT:  Commercial information is retained as required by law or for the duration necessary to fulfill the transactions and services requested by the consumer.
+CAGPT:  \n    4.1 Not specified.\n    4.2 Not specified.\n    4.3 Not specified.\n    4.4 Not specified.\n    4.5 Not specified.
+CAGPT:  Indefinitely as necessary for service provision, improvement, and protection
+CAGPT:  As long as required for contract execution and fulfillment
+CAGPT:  As mandated by applicable laws and regulations for record retention
+CAGPT:  Personal data is retained for the time required to provide products/services, maintain corresponding transaction/business records, handle possible consumer queries or complaints, locate problems, depending on consumer agreement to a longer retention period, and compliance with legal, contractual, or other equivalent requirements.
+CAGPT:  Retention period for government ID number not specified
+CAGPT:  Retention period for physical description not specified
+CAGPT:  Retention period for health/medical information not specified
+CAGPT:  Retention period for insurance information not specified
+CAGPT:  Retention period for protected class data not specified
+CAGPT:  Retention period for audio, visual, olfactory information not specified
+CAGPT:  Retention period for employment information not specified
+CAGPT:  Retention period for education information not specified
+CAGPT:  For as long as necessary to fulfill the purposes it was collected for including for the purposes of satisfying any legal, accounting, or reporting requirements
+CAGPT:  Characteristics of protected classifications and demographic information are retained as long as necessary to fulfill the purposes described in the Privacy Policy.
+CAGPT:  Audio, electronic, visual, or similar information is retained as long as necessary to fulfill the purposes described in the Privacy Policy.
+CAGPT:  Inferences are retained as long as necessary to fulfill the purposes described in the Privacy Policy.
+CAGPT:  Contact Information how long retained: Not specified.
+CAGPT:  Account Registration Information how long retained: Not specified.
+CAGPT:  Communications and Inquiries how long retained: Not specified.
+CAGPT:  Cookies and Similar Technologies how long retained: Not specified.
+CAGPT:  Device and Usage Information how long retained: Not specified.
+CAGPT:  Categories described in Cal. Civ. Code Â§ 1798.80(e) how long data is retained not specified
+CAGPT:  Profile information how long data is retained not specified
+CAGPT:  Cookies and online data, including Online Identifiers and Internet Activity, are retained for up to 10 years.
+CAGPT:  Data for processing and shipping orders, including Personal Identifiers and Commercial Information, is retained for 10 years from the last purchase.
+CAGPT:  Customer support data, including Personal Identifiers, is kept for up to 10 years.
+CAGPT:  Any other information you choose to provide how long retained is not specified.
+CAGPT:  Cookies are retained for the duration necessary to fulfill the purposes outlined in their collection unless a longer retention period is required or permitted by law
+CAGPT:  Personal information is retained as long as relevant for business purposes
+CAGPT:  Email communications are retained as long as relevant for business purposes
+CAGPT:  Five (5) years for records related to customer service
+CAGPT:  Seven (7) years for records related to vehicle buybacks and product support
+CAGPT:  Ten (10) years for records related to dealer service hotline
+CAGPT:  Active period plus ten (10) years for records related to promotions, contests and incentives
+CAGPT:  For as long as one of the following apply: necessary to manage operations, to manage your relationship, or to satisfy another purpose for which we collected the information
+CAGPT:  Until the purpose with the latest period expires
+CAGPT:  As required or permitted by applicable laws or regulations
+CAGPT:  Personal information is retained for no longer than deemed necessary for the purposes it was collected
+CAGPT:  Information may be archived and stored for legal or regulatory requirements, statutes of limitations, disputes, or actions
+CAGPT:  Subsequently, personal information will be anonymized, deleted, or archived as permitted by applicable law
+CAGPT:  Categories of personal information as per Section 1798.80(e) retained as per legal requirements.
+CAGPT:  Characteristics of protected classifications retained to comply with applicable laws.
+CAGPT:  Commercial information retained for service improvement purposes.
+CAGPT:  Biometric information retained for the duration of providing relevant services.
+CAGPT:  Internet or other electronic network activity information retained as required for analytics.
+CAGPT:  Audio, electronic, visual information retained for customer service quality assurance.
+CAGPT:  Professional-related information retained as necessary for legal compliance.
+CAGPT:  Inferences drawn from personal information retained for personalization and marketing.
+CAGPT:  California Customer Records statute information retained as required for transactional and legal compliance
+CAGPT:  Audio, electronic, visual, thermal, olfactory, or similar information retained as required for security and legal purposes
+CAGPT:  Education information retained as necessary for the provision of educational services
+CAGPT:  Inferences drawn from collected information retained to continue offering personalized services
+CAGPT:  Audio, electronic, visual, or similar information retained for at least as long as necessary to fulfill the purposes described in the Privacy Policy, including to satisfy legal or reporting requirements
+CAGPT:  Inferences retained for at least as long as necessary to fulfill the purposes described in the Privacy Policy, including to satisfy legal or reporting requirements
+CAGPT:  Information retained for a period to fulfill the purposes for which it was collected.
+CAGPT:  Information retained as required by applicable law, court order, or governmental regulations.
+CAGPT:  Information retained to respond to law enforcement requests.
+CAGPT:  For the duration of time we provide goods and services to you
+CAGPT:  For as long as necessary to fulfill reasonable business needs, legal obligations, and compliance requirements
+CAGPT:  To protect against fraud and other security vulnerabilities
+CAGPT:  Commercial information retained as long as your account is active or as required to fulfill legal obligations
+CAGPT:  Biometric information retained as long as your account is active or as required to fulfill legal obligations
+CAGPT:  Geolocation data retained as long as your account is active or as required to fulfill legal obligations
+CAGPT:  Audio, electronic, visual, thermal, olfactory, or similar information retained as long as your account is active or as required to fulfill legal obligations
+CAGPT:  Inferences drawn from any of the information identified to create a profile retained as long as your account is active or as required to fulfill legal obligations
+CAGPT:  Sensitive Data Under CPRA retained as long as your account is active or as required to fulfill legal obligations
+CAGPT:  Special Categories Under GDPR retained as long as your account is active or as required to fulfill legal obligations
+CAGPT: \nData from question 2:
+CAGPT:  Protected classification characteristics retained as necessary to fulfill the purposes for which they were collected or as required by law
+CAGPT:  Identifiers how long retained: As long as account is active or as needed to provide services
+CAGPT:  Characteristics of protected classifications how long retained: As long as account is active or as needed to provide services
+CAGPT:  Commercial information how long retained: As long as account is active or as needed to provide services
+CAGPT:  Geolocation Data how long retained: As long as account is active or as needed to provide services
+CAGPT:  Professional or Employment-Related Information how long retained: As long as account is active or as needed to provide services
+CAGPT:  Inferences how long retained: As long as account is active or as needed to provide services
+CAGPT:  Personal information described in Cal. Civ. Code Â§1798.80(e) how long retained: As long as account is active or as needed to provide services
+CAGPT:  Audio, electronic, visual, or similar information how long retained: As long as account is active or as needed to provide services
+CAGPT:  Sensitive personal information how long retained: As long as account is active or as needed to provide services
+CAGPT:  Identifiers retained as long as user account is open or as needed to provide services
+CAGPT:  Characteristics of protected classifications retained as long as user account is open or as needed to provide services
+CAGPT:  Commercial information retained as long as user account is open or as needed to provide services
+CAGPT:  Professional or Employment-Related Information retained as long as user account is open or as needed to provide services
+CAGPT:  Inferences retained as long as user account is open or as needed to provide services
+CAGPT:  Personal information described in Cal. Civ. Code Â§1798.80(e) retained as long as user account is open or as needed to provide services
+CAGPT:  Audio, electronic, visual or similar information retained as long as user account is open or as needed to provide services
+CAGPT:  Sensitive personal information retained as long as user account is open or as needed to provide services
+CAGPT:  Cookies and IP addresses retained for the period necessary for aggregate use
+CAGPT:  Personally identifiable information retained as long as necessary for subscription, contests, services provision, and promotions
+CAGPT:  Demographic information retained as long as it is relevant to business purposes
+CAGPT:  Identifiers retained as per applicable laws and policies
+CAGPT:  Categories listed in the California Customer Records Statute retained as per applicable laws and policies
+CAGPT:  Commercial Information/Purchase Details retained as per applicable laws and policies
+CAGPT:  Geolocation Data retained as per applicable laws and policies
+CAGPT:  Inferences Drawn From Other Personal Information retained as per applicable laws and policies
+CAGPT:  Chemical exposure warnings retained as long as necessary to comply with legal obligations
+CAGPT:  User opt-out requests retained as long as the user remains opted out
+CAGPT:  Job application information retained as per Marvin HR Privacy Policy
+CAGPT:  Identifiers such as name, postal address, Internet Protocol address, email address how long retained not specified
+CAGPT:  Personal and online identifiers; how long data is retained: Not specified in the text
+CAGPT:  As necessary to fulfill the purposes for which it was collected
+CAGPT:  For satisfying any legal, accounting, or reporting requirements
+CAGPT:  Indefinitely for anonymized information for research or statistical purposes
+CAGPT:  Information retained as needed to fulfill the purposes for which it is collected
+CAGPT:  Information retained as necessary to comply with legal obligations, resolve disputes, and enforce agreements
+CAGPT:  Information retention period varies depending on the nature of the information and the purposes for which it is used
+CAGPT:  Information is retained to provide the service for which the user has engaged with us
+CAGPT:  Information is retained as required by regulatory authority
+CAGPT:  Information is retained for any legal or regulatory purpose
+CAGPT:  Audio, electronic, visual, or similar information how long data retained  
+CAGPT:  Identifiers retained as long as we believe necessary, to comply with legal obligations, resolve disputes, or as needed to provide Users with requested services
+CAGPT:  California Customer Records personal information categories retained as specified for identifiers
+CAGPT:  Internet or other similar network activity retained as specified for identifiers
+CAGPT:  Professional or employment-related information retained as specified for identifiers
+CAGPT:  Sensitive Personal Information retained as specified for identifiers
+CAGPT:  Personal Information Categories retained as long as necessary to fulfill legal and regulatory obligations
+CAGPT:  Protected Classification Characteristics retained as long as necessary to fulfill legal and regulatory obligations
+CAGPT:  Personal information - retained as described in the Retention of Personal Data section of our Privacy Policy
+CAGPT:  Customer account information retained for as long as the account is active and a reasonable period thereafter
+CAGPT:  Contact information retained as long as you havenâ€™t requested to unsubscribe, and thereafter for the statutory limitation period
+CAGPT:  Personal Information retained as necessary to comply with legal obligations, resolve disputes, and enforce agreements
+CAGPT:  Identity Data is retained as necessary to fulfill the purposes outlined in the Privacy Policy
+CAGPT:  Customer Records Data is retained as necessary to fulfill the purposes outlined in the Privacy Policy
+CAGPT:  Commercial Data is retained as necessary to fulfill the purposes outlined in the Privacy Policy
+CAGPT:  Internet Use Data is retained as necessary to fulfill the purposes outlined in the Privacy Policy
+CAGPT:  As long as necessary for the purposes described in the Notice
+CAGPT:  As long as one of the specific criteria for retention applies
+CAGPT:  Until the purpose with the latest period expires
+CAGPT:  Customer Records Data retention period not specified
+CAGPT:  Data found in 2.1 is retained according to the IDGC privacy policy
+CAGPT:  Data found in 2.2 is retained according to the IDGC privacy policy
+CAGPT:  Data found in 2.3 is retained according to the IDGC privacy policy
+CAGPT:  Different periods of time depending on the purposes for collection and use.
+CAGPT:  Only as long as reasonably necessary to achieve the purposes for which collected, used, or disclosed, unless a longer retention period is required.
+CAGPT:  Social Security Numbers or other tax identification numbers of investors are maintained with the Companyâ€™s Service Provider for as long as the investor holds stock in the Company and remains enrolled in the electronic delivery program.
+CAGPT:  Identifiers such as email addresses of investors are deleted by the Companyâ€™s Service Provider 120 days after the email addresses remain inactive.
+CAGPT:  Contact forms of investors are maintained by the Companyâ€™s Service Provider for one (1) year after submission.
+CAGPT:  Inferences detailed in 2.7 are retained for as long as necessary to fulfill the purposes outlined in the Privacy Policy, unless a longer retention period is required or permitted by law.
+CAGPT:  Personal identifiers are retained as long as needed for specific business purposes or as required by law, generally not longer than three years.
+CAGPT:  Protected personal information categories are retained for a similar duration unless needed for legal or business reasons.
+CAGPT:  Internet activity and geolocation data are retained as necessary for service delivery and security, also generally not exceeding three years.
+CAGPT:  Identifiers how long data retained: Up to 6 years for unregistered digital users, up to 45 days for registered digital users, up to 10 years for digital and home delivery subscribers
+CAGPT:  PI is retained for as long as necessary for the purposes collected
+CAGPT:  Retention is based on the length of the ongoing relationship
+CAGPT:  Retention is influenced by legal obligations
+CAGPT:  Retention considers privacy rights actions
+CAGPT:  Retention considers advisability in light of legal positions
+CAGPT:  Personal Information is retained as set forth in the Privacy Policy
+CAGPT:  Sensitive Personal Information is retained as set forth in the Privacy Policy
+CAGPT:  Protected Personal Characteristics are retained as set forth in the Privacy Policy
+CAGPT:  Profession and Employment Related Information is retained as set forth in the Privacy Policy
+CAGPT:  Education Information is retained as set forth in the Privacy Policy
+CAGPT:  Internet and Other Electronic Identifiers are retained as set forth in the Privacy Policy
+CAGPT:  Inference Information is retained as set forth in the Privacy Policy
+CAGPT:  Biometric Information is retained as set forth in the Privacy Policy
+CAGPT:  Geolocation Data is retained as set forth in the Privacy Policy
+CAGPT:  Sensory Information is retained as set forth in the Privacy Policy
+CAGPT:  Identifiers retained as per the terms of the PGA Privacy Policy
+CAGPT:  Internet or other electronic network activity information retained as per the terms of the PGA Privacy Policy
+CAGPT:  Geolocation data retained as per the terms of the PGA Privacy Policy
+CAGPT:  Audio, electronic, visual, thermal, olfactory, or similar information retained as per the terms of the PGA Privacy Policy
+CAGPT:  Inferences retained as per the terms of the PGA Privacy Policy
+CAGPT:  Sensitive Personal Information retained as per the terms of the PGA Privacy Policy
+CAGPT:  Identifiers retained duration of the relationship or as required by law
+CAGPT:  Protected Classification Characteristics retained duration of the relationship or as required by law
+CAGPT:  Internet or Other Similar Network Activity retained 26 months
+CAGPT:  Geolocation Data retained 26 months
+CAGPT:  Sensory Data retained duration of the relationship or as required by law
+CAGPT:  Inferences Drawn of the Consumer retained 26 months
+CAGPT:  Personal and online identifiers how long data found in question2 is retained
+CAGPT:  Inferences drawn from the above information about your predicted characteristics and preferences how long data found in question2 is retained
+CAGPT:  Customer Records Information how long retained not specified 
+CAGPT:  Protected Class Information how long retained not specified 
+CAGPT:  Transaction Information how long retained not specified 
+CAGPT:  Online Use Information how long retained not specified 
+CAGPT:  Audio/Video Data how long retained not specified 
+CAGPT:  Employment Information how long retained not specified 
+CAGPT:  Personal information is retained as required to do business, for security reasons, and to meet legal obligations. 
+CAGPT:  \nThe text does not specify how long data is retained.
+CAGPT:  Varies depending on the purpose for collection, nature and frequency of interactions, legal basis, industry practices, value and sensitivity of the information, and state and federal recordkeeping requirements
+CAGPT:  Online Identifiers and Internet Activity retained up to 5 years
+CAGPT:  Personal Identifiers, Commercial Information, and Financial Information related to purchases retained for 15 years or kept in anonymized form beyond this period
+CAGPT:  Data related to customer support inquiries retained up to 15 years or kept in anonymized form beyond this period
+CAGPT:  Promotional and marketing communication data retained until you opt out or request deletion
+CAGPT:  Data from product reviews, surveys, or feedback retained for up to 15 years or kept in anonymized form beyond this period
+CAGPT:  Data in connection with privacy requests retained for a minimum of 24 months
+CAGPT:  Security-related data retained as long as necessary for legal obligations
+CAGPT:  Cookies and online data: up to 5 years
+CAGPT:  Data for processing and shipping orders: as long as necessary or up to 5 years; may be kept longer in anonymized form
+CAGPT:  Customer support data: up to 2 years; may be kept longer in anonymized form
+CAGPT:  Marketing communications data: until the user opts out or requests deletion; may be kept longer in anonymized form with a record of opt-outs
+CAGPT:  Product review, survey, or feedback data: up to 5 years; may be kept longer in anonymized form
+CAGPT:  Privacy request data: minimum of 24 months
+CAGPT:  Security-related data: as long as necessary to comply with legal obligations
+CAGPT:  Device Information and Online Activity retained for as long as necessary to carry out the purposes set forth in the Privacy Notice, no longer than required or permitted under applicable law or internal policy.
+CAGPT:  Communications retained for as long as necessary to carry out the purposes set forth in the Privacy Notice, no longer than required or permitted under applicable law or internal policy.
+CAGPT:  Demographic Information retained for as long as necessary to carry out the purposes set forth in the Privacy Notice, no longer than required or permitted under applicable law or internal policy.
+CAGPT:  Commercial information is retained for as long as reasonably necessary
+CAGPT:  Sensory data is retained for as long as reasonably necessary
+CAGPT:  Consumer data retained for as long as is mandated by our industry requirements, at least seven (7) years after the termination of a subscriber agreement.
+CAGPT:  Employee personal and sensitive personal information retained for the duration of the employment relationship and longer as may be required by applicable laws or necessary for our legitimate business purposes.
+CAGPT:  Job applicant personal and sensitive personal information retained indefinitely.
+CAGPT:  Indefinite or as required by law for Identifiers
+CAGPT:  Indefinite or as required by law for California Customer Records personal information
+CAGPT:  Indefinite or as required by law for Protected classification characteristics
+CAGPT:  Indefinite or as required by law for Commercial information
+CAGPT:  Indefinite or as required by law for Internet or other similar network activity
+CAGPT:  Indefinite or as required by law for Geolocation data
+CAGPT:  Indefinite or as required by law for Sensory data
+CAGPT:  Indefinite or as required by law for Professional or Employment-related information
+CAGPT:  Indefinite or as required by law for Education information
+CAGPT:  Indefinite or as required by law for Inferences drawn from other personal information
+CAGPT:  Personal data retained for as long as needed in accordance with applicable laws and regulations.
+CAGPT:  Payment information retained as per the specific requirements of payment service providers and regulations.
+CAGPT:  Information about website use retained based on cookie settings and applicable regulations.
+CAGPT:  Information may be kept unless a longer retention period is required or permitted by law
+CAGPT:  Cached or archived copies of user information may be retained even after deletion requests
+CAGPT:  "Sensitive Personal Information" retained for a specified period based on contractual/legal requirements
+CAGPT:  "Identifiers" retained for a specified period based on contractual/legal requirements
+CAGPT:  "Other Personal Information" retained for a specified period based on contractual/legal requirements
+CAGPT:  "Protected Characteristics" retained for a specified period based on contractual/legal requirements
+CAGPT:  "Commercial Information" retained for a specified period based on contractual/legal requirements
+CAGPT:  "Internet or Network Activity" retained for a specified period based on contractual/legal requirements
+CAGPT:  "Biometric Information" retained for a specified period based on contractual/legal requirements
+CAGPT:  "Geolocation" retained for a specified period based on contractual/legal requirements
+CAGPT:  "Sensory Data" retained for a specified period based on contractual/legal requirements
+CAGPT:  "Inferences" retained for a specified period based on contractual/legal requirements
+CAGPT:  Contact and Financial Information how long data is retained
+CAGPT:  Characteristics of Protected Classifications how long data is retained
+CAGPT:  Identifiers are retained only as long as necessary to provide the Spotify Service and for legitimate business purposes.
+CAGPT:  Commercial information is retained only as long necessary for providing the Spotify Service and legitimate business needs.
+CAGPT:  Geolocation data is retained as required for providing Spotify Service and essential business operations.
+CAGPT:  Online Activity retained as long as needed for Business Purposes
+CAGPT:  Inferences retained as long as needed for Business Purposes
+CAGPT:  Categories of information collected are retained as long as necessary to fulfill the stated business purpose
+CAGPT:  Specific pieces of personal information collected are retained according to legal requirements and business needs
+CAGPT:  Personal information for identity verification is retained as long as necessary to verify identity and manage the request
+CAGPT:  Identifiers, including unique and online identifiers are retained as long as necessary to carry out the processing activities described
+CAGPT:  Internet and other electronic activity information is retained as long as necessary to carry out the processing activities described
+CAGPT:  Inferences drawn from your activity are retained as long as necessary to carry out the processing activities described
+CAGPT:  Other categories of personal information described in California is retained as long as necessary to carry out the processing activities described
+CAGPT:  Sensitive California Personal Information is retained as long as necessary to carry out the processing activities described
+CAGPT:  Identifiers retained as per CCPA guidelines
+CAGPT:  Commercial Information retained as per CCPA guidelines
+CAGPT:  Internet or Other Electronic Network Activity Information retained as per CCPA guidelines
+CAGPT:  Inferences Drawn from Personal Information retained as per CCPA guidelines
+CAGPT:  Sensitive Personal Information (Log-In and Financial Information) retained as per CCPA guidelines
+CAGPT:  Personal Records retained for the duration necessary for service provision and legal compliance.
+CAGPT:  Characterizations of protected classes retained for the duration necessary for service provision and legal compliance.
+CAGPT:  Commercial Information retained for the duration necessary for service provision and legal compliance.
+CAGPT:  Audio, electronic, visual, thermal, olfactory, or similar information retained for the duration necessary for service provision and legal compliance.
+CAGPT:  Education information retained for the duration necessary for service provision and legal compliance.
+CAGPT:  Inferences used to create a profile retained for the duration necessary for service provision and legal compliance.
+CAGPT:  Sensitive personal information retained for the duration necessary for service provision and legal compliance.
+CAGPT:  Personal Records how long data is retained not specified
+CAGPT:  Personal Characteristics or Traits how long data is retained not specified
+CAGPT:  Internet Usage Information how long data is retained not specified
+CAGPT:  Inferences from PI Collected how long data is retained not specified
+CAGPT:  Indefinite retention or as long as necessary to fulfill the purposes outlined.
+CAGPT:  Internet or Other Similar Network Activity retained for 26 months
+CAGPT:  Geolocation Data retained for 26 months
+CAGPT:  Inferences Drawn of the Consumer retained for 26 months
+CAGPT:  Name, User ID (alias), email address, Phone Number, IP address, device ID, advertiser ID, device type, settings, and operating system retained as necessary to provide services and comply with legal obligations
+CAGPT:  Telephony log information retained as necessary for providing services, improving services, and legal compliance
+CAGPT:  Messages and contact information retained to provide services, detect or resolve issues, and for internal archival and improvement purposes
+CAGPT:  Identifiers how long data found in question2 is retained: As long as necessary to achieve purposes of collection and use, generally as long as there is a relationship with the user, plus a period of time afterward to comply with legal obligations or for ongoing business needs.
+CAGPT:  Personal Information listed in Cal. Civ Code 1798.80(e) how long data found in question2 is retained: Same as 4.1.
+CAGPT:  Unique identifiers retained as per company's data retention policy
+CAGPT:  Financial information retained as per company's data retention policy
+CAGPT:  Purchase history retained as per company's data retention policy
+CAGPT:  Internet activity retained as per company's data retention policy
+CAGPT:  Geolocation data retained as per company's data retention policy
+CAGPT:  Internet or other electronic network activity information is retained as per the company's data retention policy necessary for operating and improving services.
+CAGPT:  Commercial information is retained as specified by legal compliance obligations and company policies for service provision and internal business purposes.
+CAGPT:  Online identifiers retained as required by law for anti-money laundering purposes or for fraud prevention
+CAGPT:  Browsing activity retained as required by law for anti-money laundering purposes or for fraud prevention
+CAGPT:  Information submitted through forms retained as required by law for anti-money laundering purposes or for fraud prevention
+CAGPT:  Demographic and statistical information how long data retained: Not specified
+CAGPT:  Application information and communications with others how long data retained: Not specified
+CAGPT:  Survey, research, feedback, or sweepstakes information how long data retained: Not specified
+CAGPT:  Social media information how long data retained: Not specified
+CAGPT:  Internet network and device activity data how long data retained: Not specified
+CAGPT:  Audio or visual information how long data retained: Not specified
+CAGPT:  Information about others how long data retained: Not specified
+CAGPT:  Events and programs information how long data retained: Not specified
+CAGPT:  Any other information provided how long data retained: Not specified
+CAGPT:  The retention period for Personal Data disclosed to third parties for direct marketing purposes varies as it is dependent on the user's request to obtain such information once a year.
+CAGPT:  Content or information posted by users under the age of 18 is retained until a request for removal is made and processed, subject to legal requirements that may not allow removal.
+CAGPT:  Online identifiers retained for a few days
+CAGPT:  Other information retained for no more than 24 months
+CAGPT:  Online identifiers, IP address, unique identifiers retained until no longer necessary, but usually a few days
+CAGPT:  Real name, email address, account name retained for up to 24 months or as necessary
+CAGPT:  Approximate location retained until no longer necessary, specifics not provided
+CAGPT:  Additional Data Subject to Cal. Civ. Code Â§ 1798.80 retention period not specified
+CAGPT:  Protected Classifications retention period not specified
+CAGPT:  Online Activity retention period not specified
+CAGPT:  Employment Information retention period not specified
+CAGPT:  Financial data such as credit card information is retained as long as necessary to process transactions and comply with legal obligations
+CAGPT:  Personal information is retained for as long as necessary for the uses it was collected for, with a deletion after 2 years of inactivity.
+CAGPT:  Commercial information like records of transactions are stored to fulfill those transactions and for legal, accounting, and marketing purposes.
+CAGPT:  Internet or other similar network activity data is likely retained for analytical purposes, including improving site performance.
+CAGPT:  Device Information and Online Activity retained as long as necessary to carry out purposes set forth in Privacy Notice or as required or permitted under applicable law
+CAGPT:  Indeterminate; retention periods determined through analysis involving legal requirements, auditing needs, consumer care considerations, and record accuracy.
+CAGPT:  Personal information categories under Cal. Civ. Code Â§ 1798.80(e) retained as required for compliance with legal obligations
+CAGPT:  Commercial information retained for a shorter period for internal analysis
+CAGPT:  Internet or similar network activity data retained for a shorter period unless needed for security or functionality improvements
+CAGPT:  Cookies and online data (including Online Identifiers, Internet Activity): Stored in an anonymized manner related to website use
+CAGPT:  Data for order processing (including Name, Email address, Postal address, Telephone number, Purchases, Credit or debit card number): As long as required to fulfill the contract
+CAGPT:  Customer support data (including Name, Email address): Kept to respond to questions or complaints
+CAGPT:  Promotional and marketing communications data (including Name, Email address, Online Identifiers, Purchases): Until the user opts out or requests deletion, with records of opt-outs kept to prevent future communications
+CAGPT:  Review, survey, feedback data (including Name, Email address, Purchases): Retained to improve products and services
+CAGPT:  Privacy request data (including Name, Email address, Purchases, Photos, Video recordings): As long as necessary to comply with legal obligations
+CAGPT:  As long as necessary to fulfill the purposes for which it was collected and processed, including satisfying any legal, regulatory, accounting, or reporting requirements and our legitimate interests in maintaining such personal data in our records
+CAGPT:  As reasonably necessary and proportionate to accomplish the purposes identified in this Notice
+CAGPT:  To the extent necessary to comply with our legal obligations
+CAGPT:  To the extent necessary to resolve disputes and enforce our legal agreements and policies
+CAGPT:  Identifiers, Profile Data, and Login Information retention details available in the â€œData Retentionâ€ section of the Privacy Policy.
+CAGPT:  Payment and Order Data retention details available in the â€œData Retentionâ€ section of the Privacy Policy.
+CAGPT:  Commercial Data retention details available in the â€œData Retentionâ€ section of the Privacy Policy.
+CAGPT:  Identifiers, Profile Data, and Login Information how long data retained: Not specified.
+CAGPT:  Payment and Order Data how long data retained: Not specified.
+CAGPT:  Internet network and device information how long data retained: Not specified.
+CAGPT:  Surveys, sweepstakes, and event information how long data retained: Not specified.
+CAGPT:  Customer service interaction information how long data retained: Not specified.
+CAGPT:  Other Identifying Information that You Voluntarily Choose to Provide how long data retained: Not specified.
+CAGPT:  Identifiers retained as long as your user account is active or as needed to provide services; or within 30 days of a deletion request unless otherwise required by law
+CAGPT:  Personal information categories retained same as Identifiers
+CAGPT:  Commercial information retained same as Identifiers
+CAGPT:  Internet or other electronic network activity information retained same as Identifiers
+CAGPT:  Geolocation data retained same as Identifiers
+CAGPT:  Financial Information retained as per payment processors' policies and as necessary to resolve purchase-related issues
+CAGPT:  Sensitive Personal Information retained same as Identifiers
+CAGPT:  Personal information retained in accordance with the company's data retention policy, considering the nature of the personal information and the purpose of the processing
+CAGPT:  Sensitive personal information retained as necessary to perform the services the company provides
+CAGPT:  Information on usersâ€™ rights to deletion retained until the data deletion request is fulfilled and verified
+CAGPT:  Identifiers retained for the duration of an accountâ€™s existence on the ZeroBounce customer portal
+CAGPT:  Characteristics of protected classifications retained for the duration of an accountâ€™s existence on the ZeroBounce customer portal
+CAGPT:  Commercial information retained for the duration of an accountâ€™s existence on the ZeroBounce customer portal
+CAGPT:  Internet or other electronic network activity information retained for 24 hours
+CAGPT:  Geolocation data retained for the duration of an accountâ€™s existence on the ZeroBounce customer portal
+CAGPT:  Professional or employment-related information retained for the duration of an accountâ€™s existence on the ZeroBounce customer portal
+CAGPT:  For legal compliance, service provision, fraud prevention, establishing/defending legal claims, or as long as the account is open
+CAGPT:  Not applicable as ZipRecruiter does not intentionally collect this information
+CAGPT:  For an appropriate period of time as is necessary to fulfill the purposes for which the information was collected, to comply with our business requirements and legal obligations, to provide our services, resolve disputes, enforce our agreements, and other purposes
+CAGPT:  Records of consumer requests submitted under the CPRA for at least twenty-four (24) months
+CAGPT:  Financial and Transactional Information is retained for as long as necessary to fulfill the purposes for which it was collected and for legitimate business purposes.
+CAGPT:  Sensitive Personal Information is retained for as long as necessary to fulfill the purposes for which it was collected and for legitimate business purposes.
+CAGPT:  Device and Usage Information is retained for as long as necessary to fulfill the purposes for which it was collected and for legitimate business purposes.
+CAGPT:  Information Collected by Cookies and Similar Tracking Technologies is retained for as long as necessary to fulfill the purposes for which it was collected and for legitimate business purposes.
+CAGPT:  Personal Information from Other Sources is retained for as long as necessary to fulfill the purposes for which it was collected and for legitimate business purposes.
+CAGPT:  Personal Information We Derive is retained for as long as necessary to fulfill the purposes for which it was collected and for legitimate business purposes.
+CAGPT:  Sensory data retained for as long as reasonably necessary.
+CAGPT:  Information is also retained as necessary to enforce or comply with legal or contractual rights and obligations, resolve disputes, defend claims, and reserve legal rights.
+CAGPT:  Users PI is retained as long as necessary to provide the Services or longer if required for legal or compliance purposes.
+CAGPT:  Account-related data retained as long as the account remains active, or otherwise for six years after inactivity
+CAGPT:  Personal data relating to ETC Swag Store orders retained for compliance with statutory tax and accounting requirements
+CAGPT:  Other personal data retained for as long as necessary for original collection purposes and to meet legal and business requirements
+CAGPT:  Data retention period varies based on whether the Personal Information is reasonably necessary to manage operations, satisfy a collected purpose, or protect rights or property
+CAGPT:  Retention until the purpose with the latest period expires
+CAGPT:  Personal information retained for as long as necessary for business purposes
+CAGPT:  Personal information retained to comply with legal and regulatory requirements
+CAGPT:  Personal information retained while you have an account or use services
+CAGPT:  Internet or other similar network activity retained for up to seven years for compliance with bookkeeping obligations
+CAGPT:  Sensory data retained for up to 3 years after the last use or until the user requests deletion
+CAGPT:  Personal Records retained for as long as necessary for the purposes described or otherwise authorized by law
+CAGPT:  Customer Account Details / Commercial Information retained for as long as necessary for the purposes described or otherwise authorized by law
+CAGPT:  Additional Data Subject to Cal. Civ. Code Â§ 1798.80 retained as long as needed for the purposes it was collected and as required by legal, regulatory, or industry retention requirements
+CAGPT:  No specific retention period for contact and account registration information detailed
+CAGPT:  No specific retention period for demographic and statistical information detailed
+CAGPT:  No specific retention period for financial and transactional information detailed
+CAGPT:  No specific retention period for user-generated content detailed
+CAGPT:  No specific retention period for customer service information detailed
+CAGPT:  No specific retention period for communications with event vendors and partners detailed
+CAGPT:  No specific retention period for research, survey, or sweepstakes information detailed
+CAGPT:  No specific retention period for information about others detailed
+CAGPT:  No specific retention period for device information and identifiers detailed
+CAGPT:  No specific retention period for connection and usage data detailed
+CAGPT:  No specific retention period for social media information detailed
+CAGPT:  No specific retention period for other information detailed
+CAGPT:  Information is retained for the length of time needed to carry out the purposes outlined in the California Privacy Rights Notice  
+CAGPT:  Information is retained according to Airshipâ€™s records policies which reflect applicable laws  
+CAGPT:  Information is used to the extent necessary to comply with legal obligations  
+CAGPT:  Legally protected classifications are retained as long as needed for legal, tax, audit, investigative, and security purposes.
