@@ -1,0 +1,2052 @@
+Cluster 0:
+GPT:  Personal Information provided to e-commerce service providers.
+GPT:  Personal Information provided to advertising providers.
+GPT:  Information that does not identify specific persons shared with third parties
+GPT:  Personal information provided to service providers to administer and provide services.
+GPT:  Personal information shared with business partners for product or service requests.
+GPT:  Personal information provided to advertising partners for personalized advertising.
+GPT:  Personal information shared with third-party advertising partners for targeted advertising.
+GPT:  Internet activity information provided to third parties.
+GPT:  Contact details provided to third parties for marketing and email distribution.
+GPT:  Personal Information to third parties when required to combat fraud or to protect our interests.
+GPT:  Information provided to email or other communications services.
+GPT:  Personal Information provided to third parties for order fulfillment, e-mail messaging, data management, credit card processing, or customer service.
+GPT:  Financial information provided to payment processing partners.
+GPT:  Non Personal Data provided to third parties, affiliates for various purposes including commercial use.
+GPT:  Personal information provided to service providers for payment processing, marketing, website maintenance, and data analysis.
+GPT:  Personally Identifiable Information provided to CMS for eligibility and enrollment in health insurance plans.
+GPT:  Personal information shared with third-party partners for service fulfillment (e.g., travel packages).
+GPT:  E-mail address provided to third parties.
+GPT:  Billing address provided to third parties.
+GPT:  Information provided to insurance agents or brokers, claim representatives, mechanics, or repair shops
+GPT:  Email address provided to third parties.
+GPT:  Personal Information provided to agents, consultants, and related third parties for business-related functions
+GPT:  Name and contact information provided to third parties for shipping and payment processing.
+GPT:  Personal Information provided to business partners for order processing, e-mail sending, data management, credit card processing, or customer service.
+GPT:  Personal data disclosed to legal authorities for compliance or protection of rights.
+GPT:  IP address provided to third parties.
+GPT:  Personal Information provided to third parties for identity verification.
+GPT:  Personal Information shared during corporate business transactions.
+GPT:  Personal data accessed, disclosed, and preserved for legal and law enforcement purposes
+GPT:  Personal information provided to service providers.
+GPT:  Email address provided to third parties for newsletters, promotional announcements, and surveys
+GPT:  Internet or other electronic network activity information provided to third parties for services on our behalf or for legal reasons.
+GPT:  Personal Information provided to service providers for website operation, product selling, advertising, and technical support.
+GPT:  Email Address provided to third parties.
+GPT:  Mobile Phone Number provided to third parties.
+GPT:  Personal information provided to third parties for shipping, customer service, communications, administering testimonials, contests, and vendor programs.
+GPT:  Financial and bank account information provided to third parties
+GPT:  Credit, debit, or payment card information provided to third parties
+GPT:  Name and contact information provided to third parties for marketing and operational purposes.
+GPT:  Commercial History provided to third parties.
+GPT:  Contact information provided to third parties for administering services or transactions requested by the user.
+GPT:  Personal Information provided to third parties for order processing, e-mail communication, data management, credit card processing, or customer service.
+GPT:  Personal data provided to affiliates, partners, service providers, or contractors for business fulfillment and statutory obligations.
+GPT:  Personal data provided to subsidiaries and affiliates.
+GPT:  Personal data provided to third parties for marketing purposes, if not opted out.
+GPT:  Contact information provided to other members of the Hormel Corporate family, service providers, marketing partners, successor-in-interest, regulatory authorities and law enforcement agencies, judicial authorities, and parties to judicial proceedings.
+GPT:  Advertiser ID, IP address, and/or hashed email.
+GPT:  Personal information with third-party advertisers for relevant commercial advertisements.
+GPT:  Name and email address provided to third parties for email marketing.
+GPT:  Personal information to third parties, service providers, or contractors for business purposes like product delivery and service improvement.
+GPT:  Internet activity provided to third parties.
+GPT:  Personal Information of job applicants and employees to service providers for processing applications or administering benefits.
+GPT:  Personal Information in the event of mergers, acquisitions, or similar transactions.
+GPT:  Personal information provided to third-party agents and vendors for services on Frontier's behalf.
+GPT:  Non-personal use and engagement data provided to third parties
+GPT:  Device type, name, and IDs provided to third parties
+GPT:  Name, user name, and email address provided to third parties
+CAGPT:  Internet or other similar network activity provided to third parties.
+CAGPT:  Internet or other electronic network activity information provided to advertising business partners for the purposes of supporting advertising efforts.
+CAGPT:  Contact information provided to customer support services.
+CAGPT:  Identifiers and personal records provided to third parties
+CAGPT:  Contact information provided to affiliated entities, service providers, and entities for legal purposes.
+CAGPT:  Internet network and device information provided to affiliated entities, service providers, and entities for legal purposes.
+CAGPT:  Login information provided to affiliated entities, service providers, and entities for legal purposes.
+CAGPT:  Professional or employment information provided to affiliated entities, service providers, and entities for legal purposes.
+CAGPT:  Internet or other similar network activity provided to third parties.
+CAGPT:  Social Security Number, Driver’s License, State Identification Card, or Passport Number provided to third parties
+CAGPT:  Racial or ethnic origin, religious or philosophical beliefs, or union membership provided to third parties
+CAGPT:  Biometric information not provided to third parties.
+CAGPT:  Internet or other similar network activity provided to third parties.
+CAGPT:  Sensitive Personal Information provided to third parties.
+CAGPT:  Internet or other similar network activity to service providers, affiliates, and third-party advertising partners for business purposes or commercial purposes
+CAGPT:  Internet or other electronic network activity provided to third parties for a business purpose and "sell" and "share".
+CAGPT:  Identifiers provided to government agencies, law enforcement, and other parties as required by law, including in litigation
+CAGPT:  Internet or other electronic network activity information.
+CAGPT:  Internet or Other Similar Network Activity provided to third parties.
+CAGPT:  Profile Data provided to third parties.
+CAGPT:  Internet or similar network activity information shared with third parties for business purposes.
+CAGPT:  Personal data disclosed where required by law or subjected to legal proceedings.
+CAGPT:  Internet or other similar network activity provided to third parties. 
+CAGPT:  Racial or Ethnic Origin, Religious Beliefs provided to third parties
+CAGPT:  Internet or other electronic network activity information.
+CAGPT:  Internet or other similar network activity.
+CAGPT:  Internet or other similar network activity provided to third parties.
+CAGPT:  Device information provided to third parties.
+CAGPT:  Internet or other similar network activity.
+CAGPT:  Survey, research, feedback, or sweepstakes information provided to third parties
+CAGPT:  User-generated content or feedback provided to third parties
+CAGPT:  Internet or other similar network activity information shared with the aforementioned third parties.
+CAGPT:  Internet or other similar network activity.
+CAGPT:  Identifiers, Profile Data, and Login Information provided to third parties
+CAGPT:  Financial and Transactional Information provided to third parties.
+CAGPT:  Sensitive Personal Information provided to third parties.
+CAGPT:  Activity Information provided to third parties.
+CAGPT:  Call Information provided to third parties.
+CAGPT:  Device and Usage Information provided to third parties.
+CAGPT:  Internet or other similar network activity provided to third parties.
+CAGPT:  Sensitive personal information provided to third parties.
+
+Cluster 1:
+GPT:  Name provided to third parties
+GPT:  Email address provided to third parties
+GPT:  First and Last name provided to third parties
+GPT:  Email address provided to third parties
+GPT:  Geographic location provided to third parties
+GPT:  Name provided to third parties
+GPT:  Email address provided to third parties
+GPT:  Street address provided to third parties
+GPT:  Name provided to third parties
+GPT:  Email address provided to third parties
+GPT:  Preferences for communications provided to third parties
+GPT:  Name provided to third parties
+GPT:  Email address provided to third parties
+GPT:  Address provided to third parties
+GPT:  Name provided to third parties
+GPT:  E-mail address provided to third parties
+GPT:  Name provided to third parties.
+GPT:  Email address provided to third parties for marketing purposes
+GPT:  Name provided to third parties.
+GPT:  Full name provided to third parties
+GPT:  E-mail address provided to third parties
+GPT:  Phone number provided to third parties
+GPT:  Postal address provided to third parties
+GPT:  Internet Protocol address provided to third parties
+GPT:  Account name provided to third parties
+GPT:  Email address provided to third parties
+GPT:  Name provided to third parties.
+GPT:  Name provided to third parties
+GPT:  Address provided to third parties
+GPT:  Telephone Number provided to third parties
+GPT:  Email Address provided to third parties
+GPT:  Email address provided to third parties for service-related purposes
+GPT:  Name provided to third parties
+GPT:  Email address provided to third parties
+GPT:  Mailing address provided to third parties
+GPT:  Geographic location provided to third parties
+GPT:  Name provided to third parties
+GPT:  First and last name provided to third parties
+GPT:  Name provided to third parties
+GPT:  Billing address provided to third parties
+GPT:  Shipping address provided to third parties
+GPT:  Phone number provided to third parties
+GPT:  Credit card number provided to third parties
+GPT:  E-mail address provided to third parties
+GPT:  IP number provided to third parties
+GPT:  Name - provided to third parties
+GPT:  Name provided to third parties
+GPT:  Address provided to third parties
+GPT:  Email Address provided to third parties
+GPT:  Phone Number provided to third parties
+GPT:  First and Last Name provided to third parties
+GPT:  Email address provided to third parties
+GPT:  Country provided to third parties
+GPT:  Vehicle Location provided to third parties
+GPT:  User IP address provided to third parties
+CAGPT:  Device's IP address provided to third parties
+CAGPT:  Geographic location (country only) provided to third parties
+CAGPT:  IP address disclosed to third-party advertisers
+CAGPT:  Real name provided to third parties
+CAGPT:  Email address provided to third parties
+CAGPT:  Account name provided to third parties
+CAGPT:  Name provided to third parties
+CAGPT:  Real name, email address, account name provided to third parties
+
+Cluster 2:
+GPT:  Personal information may be shared in the event of a merger, acquisition, or asset sale of 2nd Swing with applicable parties.
+GPT:  Personal information is provided to affiliates and related parties. 
+GPT:  Personal Information to non-Arvig companies that perform services on our behalf
+GPT:  Personal Information for purposes such as responding to 911 calls and other emergencies, complying with court orders, assisting with identity verification, preventing fraud and identity theft, enforcing agreements and property rights, and obtaining payment for products and services including transfer or sale of delinquent accounts to third parties for collection
+GPT:  Address, financial information, education or professional information, sensitive personal information to our business partners
+GPT:  Personal information shared for fraud detection and policy violation prevention
+GPT:  Personal Information to contractors, service providers, and other third parties we use to support our business.
+GPT:  Personal information to contractors, service providers, and other third parties used to support the business
+GPT:  Personal details retained for the duration necessary to fulfill the purposes outlined in the Privacy Policy and as required for business operations and legal compliance.
+GPT:  Name, email address, phone number, city/state/zip code provided to third parties for business operations.
+GPT:  Name, email address, address, phone number, geolocation data, employment information, social security number, demographic information, electronic network activity information, rental listing information, financial information, credit card or other payment information, background check information, rental application information, information contained in any lease or purchase agreement, photo identification, reference letters, bank statements, GCI, income tax returns, or address of a listing intended to rent provided to Affiliates, Agents, and third-party service providers.
+GPT:  Profile information, search criteria, user name, phone number, email, address, and co-habitant information provided to potential landlords, owners, co-brokers, Agents, and third-party partners and service providers as applicable to the request for Services.
+GPT:  Personal data may be provided to third parties with your consent.
+GPT:  Personal data may be disclosed to third parties to comply with valid legal requirements such as a law, regulation, search warrant, subpoena, or court order.
+GPT:  Personal data may be disclosed to agents and contractors who have access to your personal data in the course of assisting in the operation of CORSO's business and providing products or services to you.
+GPT:  Information provided for promotions and sweepstakes services.
+GPT:  Contact Information: Provided to third parties
+GPT:  Financial Information: Provided to third parties
+GPT:  Information shared with law enforcement or authorities under certain conditions.
+GPT:  Name and address: Provided to other parties after providing subscribers the opportunity to prohibit or limit such disclosure.
+GPT:  Customer Proprietary Network Information (CPNI): Shared with affiliated companies or their agents, with your consent, except as required or allowed by law.
+GPT:  Personally identifiable information: Disclosed if required by law, like subpoenas or court orders.
+GPT:  Personal information may be disclosed to law enforcement or government officials
+GPT:  Information shared with third-party advertisers for marketing.
+GPT:  Information to business partners and third parties
+GPT:  Information to sponsors, co-promotions, and branded programs
+GPT:  Information shared with your employer or other entities, as part of service provision.
+GPT:  Personal information may be provided to subsidiaries and affiliates.
+GPT:  Personal information may be provided to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Hip2Save’s assets.
+GPT:  Personal information might be disclosed in events like reorganization, merger, sale, bankruptcy to relevant third-party(ies).
+GPT:  Personal information may be disclosed as required by law or legal process.
+GPT:  Personal Information disclosed to information technology and other support service providers as part of operating the business.
+GPT:  Payment information provided to third parties for the purpose of processing payment(s)
+GPT:  Information disclosed to service providers to assist in carrying out requests and providing services.
+GPT:  To Affiliates and Subsidiaries: For any purpose described in the Privacy Policy.
+GPT:  To Network Partners: As necessary to deliver the products and services you requested.
+GPT:  To Financial Companies: With whom we engage in joint marketing efforts or offer financial-related products or services that may be of interest to you.
+GPT:  Profile information visible to others on or off our services, depending on user settings.
+GPT:  User information to third parties engaged by Marvin for specific services.
+GPT:  Information shared with Affiliates for purposes consistent with the Privacy Policy.
+GPT:  Credit report and personal information shared with wholly owned subsidiaries.
+GPT:  Various personal and activity information disclosed under legal requirements or to protect rights and safety
+GPT:  Your signature, education, and employment history provided to third parties for services on our behalf or for legal reasons.
+GPT:  Personal information to affiliates is provided to third parties.
+GPT:  Personal information to third parties who provide products/services featured on the Site is provided to third parties.
+GPT:  Usage Information shared with third parties for advertising networks.
+GPT:  Personal information provided to affiliated entity (Otter Products EMEA Unlimited, located in Ireland) for business activities.
+GPT:  Company-Collected PII for marketing unless consent is given for other third-party direct marketing purposes.
+GPT:  Any information for compliance with law, law enforcement, or to protect Company’s or others' rights.
+GPT:  Personal Information shared for marketing and communication purposes with trusted partners under confidentiality agreements
+GPT:  Personal data necessary for legal compliance or with user consent may be provided to third parties as required.
+GPT:  Personal information may be disclosed for legal reasons or for the protection of Snagajob, users, and others.
+GPT:  Personal information is provided to third parties for legal, protection, and safety purposes
+GPT:  Personal information may be shared with third parties with user consent
+GPT:  Information required by third-party payment processors to conduct transactions.
+GPT:  Personal information may be provided to third parties for legal purposes or investigations.
+GPT:  Personal information may be shared as part of a business transaction, merger, or acquisition.
+GPT:  Information for billing purposes and to prevent fraud.
+GPT:  Information to business partners and third parties
+GPT:  Personal Data disclosed to affiliates or third parties in the event of a business transaction or legal requirement
+GPT:  Account information shared with legal and regulatory authorities as required by law.
+GPT:  Personal information is provided to government authorities, law enforcement, and parties engaged in potential mergers, acquisitions, or sale of business assets.
+GPT:  Information disclosed to service providers for operational and service improvement purposes.
+GPT:  Certain personal data, with express permission, to sponsorship or marketing partners for direct contact regarding special promotions or offers
+GPT:  Contact information provided to third parties for services on our behalf.
+GPT:  User information related to results from assessments, user-generated content to Distributors.
+GPT:  Email address - provided to third parties
+GPT:  Information shared as necessary to comply with applicable laws and regulations
+GPT:  Personal information may be disclosed to public authorities in certain situations, such as to meet national security or law enforcement requirements provided to third parties
+GPT:  To maintain your account(s) - Provided to third parties
+GPT:  For marketing purposes - Provided to third parties
+GPT:  Information shared with other providers when you purchase their services from Frontier.
+GPT:  Personal information provided to third parties: Shared with Verizon and affiliates for marketing and service information.
+GPT:  Information for targeted advertising provided to third parties: Information about your activity on our websites and apps shared with third-party advertising companies.
+CAGPT:  Personal Information is shared with third parties for business conducting
+CAGPT:  Item 7 provided to third parties: Audio, electronic, visual, thermal, olfactory, or similar information
+CAGPT:  Other information provided to affiliated entities, service providers, and entities for legal purposes.
+CAGPT:  Personal information categories described in subdivision (e) of Section 1798.80 provided to third parties
+CAGPT:  Professional or employment-related information to the same except parties to a merger/acquisition
+CAGPT:  Personal data shared with third parties in case of third-party sponsored content registration
+CAGPT:  Information regarding sharing contact information via websites to provide products and services, send promotional materials, and administer participation in events or surveys.
+CAGPT:  Information is disclosed to law enforcement authorities or other government officials if required by law or in connection with the investigation of suspected or actual illegal activity.
+CAGPT:  Financial Information is not disclosed as "sell" and "share" to third parties.
+CAGPT:  Commercial information is not disclosed as "sell" and "share" to third parties.
+CAGPT:  Inferences about you are not disclosed as "sell" and "share" to third parties.
+CAGPT:  Biometric information is not disclosed as "sell" and "share" to third parties.
+CAGPT:  Personal Information as described in California Customer Records statute to affiliates and service providers
+CAGPT:  \n    3.1 Identifiers, such as your name, email address, or IP address.\n    3.2 Categories of personal information described in subdivision (e) of California Civil Code Section 1798.80, such as your name and telephone number.\n    3.3 Internet or other electronic network activity information, such as cookies, web logs, IP addresses, and mobile device IDs.\n    3.4 Professional or employment-related information, such as your company name and address.\n    3.5 Inferences drawn from any of the information identified above.
+CAGPT:  Categories of Personal Information described in the California Customer Records statute provided to third parties.
+CAGPT:  Personal information is not provided to third parties for advertising purposes.
+CAGPT:  Categories of personal information as per Section 1798.80(e) provided to third parties.
+CAGPT:  F: Internet or other similar network activity to Advertising for IP addresses which cannot be used to personally identify you.
+CAGPT:  Personal information described in Cal. Civ. Code §1798.80(e) provided to third parties
+CAGPT:  Inferences drawn from personal information; provided to third parties
+CAGPT:  Commercial or transaction information.
+CAGPT:  Name, email address, zip code, postal address, phone number, Internet Protocol address 
+CAGPT:  No personal information is disclosed to third parties.
+CAGPT:  Categories of personal information disclosed for a business purpose.
+CAGPT:  Category E: Biometric Information.
+CAGPT:  Category I: Professional or employment-related information.
+CAGPT:  Electronic information.
+CAGPT:  Personal information may be provided to third parties with the user's consent for those parties' direct marketing use.
+CAGPT:  Personal Information We Derive provided to third parties.
+CAGPT:  Personal information disclosed for a business purpose includes identifiers, personal information described in the California Customer Records Statute, and others to advisors, data providers, marketing providers, and other service providers, contractors, and/or third parties.
+
+Cluster 3:
+GPT:  To group companies
+GPT:  To other insurance and distribution parties
+GPT:  To service providers
+GPT:  To Providers of Internet-connected devices and associated software
+GPT:  To Governmental authorities and third parties involved in court action
+GPT:  To Other Third Parties
+GPT:  To Providers involved in marketing and advertising
+GPT:  With subsidiaries and affiliates
+GPT:  To comply with law or protect rights
+GPT:  To service providers for performance of their services
+GPT:  To sponsors of FORTUNE conferences
+GPT:  To third parties for targeted and other advertising
+GPT:  In compliance with legal requests or law enforcement instructions
+GPT:  To service providers for operational purposes
+GPT:  To third-party advertising partners for marketing
+GPT:  To law enforcement or as required by law
+GPT:  All types of Personal Data provided to Trusted Agents and Service Providers
+GPT:  All types of Personal Data provided to any acquirer of our business
+GPT:  Characteristics of Protected Classifications under California or Federal Law
+GPT:  Identifying data and order information provided to other companies within the Group
+GPT:  For joint marketing with other financial companies - Provided to third parties
+GPT:  To HiBid, AuctionFlex, Gavel Buddy services, parent, and affiliate brands
+GPT:  To third-party IT and payment services companies
+GPT:  To advertisers and advertising networks
+GPT:  To legal authorities and entities during legal processes
+GPT:  To business partners and subcontractors for service provision
+GPT:  Parties to Corporate Transactions receiving information
+CAGPT:  Protected classification characteristics under California or federal law provided to third parties.
+CAGPT:  Non-public education information described in the Family Educational Rights and Privacy Act
+CAGPT:  All categories provided to hosting, processing, infrastructure, and security service providers.
+CAGPT:  Characteristics of protected classifications under California or federal law provided to third parties
+CAGPT:  Personal information categories listed in the California Consumer Records statute to third parties for business purposes
+CAGPT:  Characteristics of protected classifications (e.g. gender, age)
+CAGPT:  Characteristics of protected classifications provided to third parties
+CAGPT:  Protected classification characteristics under California or federal law provided to third parties
+CAGPT:  Characteristics of protected classifications under California or federal law provided to third parties
+CAGPT:  Protected classification characteristics under California or federal law provided to third parties
+CAGPT:  Characteristics of CA or Federal Protected Classifications provided to third parties
+CAGPT:  Internet or network activity information to the same except parties to a merger/acquisition
+CAGPT:  Geolocation data to the same except parties to a merger/acquisition
+CAGPT:  Categories of third parties with whom personal information is shared
+CAGPT:  Outside legal counsel
+CAGPT:  Subsidiaries and affiliates
+CAGPT:  Protected classification characteristics under California or federal law provided to third parties
+CAGPT:  Characteristics of Protected Classifications under California or Federal Law provided to third parties
+CAGPT:  Personal information categories listed in the California Customer Records statute provided to third parties.
+CAGPT:  Protected classification characteristics under California or federal law provided to third parties.
+CAGPT:  Protected classification characteristics under California or federal law provided to third parties
+CAGPT:  Category C: Protected classification characteristics under California or Federal law
+CAGPT:  Characteristics of protected classifications under California or federal law provided to third parties
+CAGPT:  Audio, electronic: Affiliates and Government Entities
+CAGPT:  Characteristics of protected classifications provided to business partners, subsidiaries, and/or affiliates
+CAGPT:  To service providers and/or contractors related to the customer transaction
+CAGPT:  To data analytics companies
+CAGPT:  To purchasers/investors of mortgage loans
+CAGPT:  To law enforcement agencies as required by law
+CAGPT:  To customer experience analytics providers
+CAGPT:  To cloud services providers
+CAGPT:  To consumer reporting agencies
+CAGPT:  Characteristics of protected classifications provided to third parties
+CAGPT:  Categories of Personal Information Described in Section 1798.80(e) of the California Civil Code provided to third parties
+CAGPT:  Protected Classes Under California or Federal Law provided to third parties
+CAGPT:  Protected Classification Characteristics provided to business affiliates
+CAGPT:  Characteristics of protected classifications.
+CAGPT:  Characteristics of protected classifications under California or federal law
+CAGPT:  Not specified beyond Google and ad delivery partners
+CAGPT:  Protected classification characteristics under California or federal law provided to third parties
+CAGPT:  Personal information categories listed in the California Customer Records statute provided to service providers.
+CAGPT:  Characteristics of protected classifications under California or US law provided to third parties
+CAGPT:  Characteristics of protected classifications under California or U.S. law (age and gender) provided to third parties for targeted advertising.
+CAGPT:  Characteristics of protected classifications under California or federal law
+CAGPT:  Protected classification characteristics under California or Federal law provided to third parties
+CAGPT:  All categories of personal information collected to service providers.
+CAGPT:  California Customer Records personal information categories.
+CAGPT:  Protected classification characteristics under California or federal law.
+CAGPT:  Protected classification characteristics under California or federal law provided to third parties
+CAGPT:  California Customer Records personal information categories.
+CAGPT:  Protected classification characteristics under California or federal law.
+CAGPT:  Protected Classifications provided to third parties
+CAGPT:  California Customer Records personal information categories.
+CAGPT:  Protected classification characteristics under California or federal law.
+CAGPT:  Personal information categories listed in the California Customer Records statute to affiliates and third-party service providers
+CAGPT:  Protected classification characteristics under California or federal law to affiliates and third-party service providers
+CAGPT:  Categories of personal information provided to third parties for direct marketing purposes under California Shine the Light law
+CAGPT:  Protected classification characteristics provided to third parties
+
+Cluster 4:
+GPT:  Item 1 provided to third parties: Contact information
+GPT:  Item 2 provided to third parties: User credentials
+GPT:  Item 3 provided to third parties: Demographic data
+GPT:  Item 4 provided to third parties: Payment data
+GPT:  Item 5 provided to third parties: Device data and online activity information
+GPT:  Item 6 provided to third parties: Location information
+GPT:  Item 7 provided to third parties: Commercial information
+GPT:  Item 8 provided to third parties: Interests and preferences
+GPT:  Item 9 provided to third parties: Online account information
+GPT:  Item 10 provided to third parties: Communications and interactions
+GPT:  Item 11 provided to third parties: Professional and education information
+GPT:  Item 1 provided to third parties: Name/username, demographic data, content and files for public display
+GPT:  Item 2 provided to third parties: Personal data to service providers for operational support
+GPT:  Item 3 provided to third parties: Payment and transactional data to financial services
+GPT:  Item 4 provided to third parties: Data cross-accessed among affiliates and related companies
+GPT:  Item 5 provided to third parties: Personal data in corporate transactions
+GPT:  Item 6 provided to third parties: Personal data to legal and law enforcement upon necessity
+GPT:  Item 7 provided to third parties: Chat interactions with LiveChat services
+GPT:  Non-PII and PII not deemed Company-Collected PII for any purpose.
+GPT:  Item 1 provided to third parties: Information allowing users of the website/platform to be recognized by third parties for retargeting (subject to user consent).
+GPT:  Item 2 provided to third parties: Anonymous aggregated statistical information relative to the use of the website/platform.
+GPT:  Item 3 provided to third parties: Data necessary for control of correct functioning of the website/platform to optimize its functionality.
+GPT:  Item 1 provided to third parties: User name and email address to contractors for account support
+GPT:  Item 2 provided to third parties: Email address for usage in Facebook ads and newsletters
+GPT:  Item 3 provided to third parties: Personal data for manuscript submission to editorial teams, societies, and partners
+CAGPT:  Item 1 provided to third parties: Identifiers
+CAGPT:  Item 2 provided to third parties: Any categories of personal information described in Section 1798.80(e)
+CAGPT:  Item 3 provided to third parties: Characteristics of protected classifications
+CAGPT:  Item 4 provided to third parties: Commercial Information
+CAGPT:  Item 5 provided to third parties: Internet or other electronic network activity information
+CAGPT:  Item 6 provided to third parties: Geolocation data
+CAGPT:  Item 8 provided to third parties: Professional or employment-related information
+CAGPT:  Item 9 provided to third parties: Non-public education information
+CAGPT:  Item 1 provided to third parties: Identifiers
+CAGPT:  Item 2 provided to third parties: Commercial Data
+CAGPT:  Item 3 provided to third parties: Internet Data
+CAGPT:  Item 4 provided to third parties: Geo-location Data
+CAGPT:  Item 1 provided to third parties: Identifiers, e.g., unique personal identifier, Internet Protocol address.
+CAGPT:  Item 2 provided to third parties: Commercial information, e.g., records of purchase order value.
+CAGPT:  Item 3 provided to third parties: Internet or other similar network activity, e.g., information about categories of consumer interests derived from online usage.
+CAGPT:  Personal Information Categories from Cal. Civ. Code § 1798.80(e) provided to third parties
+CAGPT:  Item 1 provided to third parties: Identifiers
+CAGPT:  Item 2 provided to third parties: Internet Data
+CAGPT:  Item 3 provided to third parties: Geo-location Data
+CAGPT:  Item 4 provided to third parties: Inference Data
+CAGPT:  Item 5 provided to third parties: Profile Data
+CAGPT:  Item 6 provided to third parties: Associated Data
+CAGPT:  Item 7 provided to third parties: Commercial Data
+CAGPT:  Item 1 provided to third parties: Identifiers/contact information
+CAGPT:  Item 2 provided to third parties: Internet or other electronic network activity information
+CAGPT:  Item 3 provided to third parties: Inferences drawn from the above
+CAGPT:  Categories of Personal Information in Cal. Civ. Code Section 1798.80(e)
+CAGPT:  Item 1 provided to third parties: Identifiers
+CAGPT:  Item 2 provided to third parties: Commercial Data
+CAGPT:  Item 3 provided to third parties: Internet Data
+CAGPT:  Item 4 provided to third parties: Geolocation Data
+CAGPT:  Categories of personal information described in Cal. Civ. Code Section 1798.80(e)
+CAGPT:  Internet or other similar network activity information to the same categories of third parties as 3.1
+CAGPT:  Category F: Internet or other similar network activity
+CAGPT:  Categories described in Cal. Civ. Code § 1798.80(e) provided to third parties
+CAGPT:  Category B: California Customer Records personal information categories.
+CAGPT:  Category F: Internet or other similar network activity.
+CAGPT:  Personal information categories described in the California Records statute § 1798.80(e)
+CAGPT:  Personal data potentially considered sold regarding cookies and online identifiers under the CCPA
+CAGPT:  Item 1 provided to third parties: Identifiers
+CAGPT:  Item 2 provided to third parties: Characteristics of Protected Classifications Under U.S. or California Law
+CAGPT:  Item 3 provided to third parties: Commercial Information
+CAGPT:  Item 4 provided to third parties: Device Information and Online Activity
+CAGPT:  Item 5 provided to third parties: Geolocation Data
+CAGPT:  Item 6 provided to third parties: Financial Information
+CAGPT:  Item 7 provided to third parties: Audio and Visual Recordings
+CAGPT:  Item 8 provided to third parties: Inferences
+CAGPT:  Category B: California Customer Records personal information categories.
+CAGPT:  Category D: Commercial Information.
+CAGPT:  Category F: Internet or other similar network activity.
+CAGPT:  Category G: Geolocation Data.
+CAGPT:  Identifiers; Personal Information listed in Cal. Civ Code 1798.80(e); and Internet or other electronic network activity sold to advertisers of consumer goods or services
+CAGPT:  Identifiers; Personal Information listed in Cal. Civ Code 1798.80(e); and Internet or other electronic network activity sold to financial advisory services
+CAGPT:  Identifiers; Personal Information listed in Cal. Civ Code 1798.80(e); and Internet or other electronic network activity sold to political campaigns
+CAGPT:  Identifiers; Personal Information listed in Cal. Civ Code 1798.80(e); and Internet or other electronic network activity sold to political action committees
+CAGPT:  Identifiers; Personal Information listed in Cal. Civ Code 1798.80(e); and Internet or other electronic network activity sold to political parties
+CAGPT:  Additional Data Subject to Cal. Civ. Code § 1798.80 provided to third parties
+CAGPT:  Identifiers and Categories in Cal. Civ. Code 1798.80(e)
+CAGPT:  Item 1 provided to third parties: Identifiers
+CAGPT:  Item 2 provided to third parties: Characteristics of protected classifications under California or federal law
+CAGPT:  Item 3 provided to third parties: Commercial information
+
+Cluster 5:
+GPT:  With third-party service providers
+GPT:  Payment processing service providers provided to third parties
+GPT:  Transactional Data
+GPT:  Anonymized email addresses (hashes) to Gravatar
+GPT:  Individual Preferences and Characteristics
+GPT:  Advertising networks
+GPT:  AI Tools Outputs
+CAGPT:  Marketing 
+CAGPT:  Website optimization 
+CAGPT:  Entities connected to corporate transactions 
+CAGPT:  Entities that serve as professional advisers 
+CAGPT:  Inferences drawn from other personal information
+CAGPT:  Inferences drawn from personal information
+CAGPT:  Inferences to Ad Networks, Social Networks, Business affiliates
+CAGPT:  Inferences derived from personal information to advertising networks
+CAGPT:  Data analytics providers
+CAGPT:  Security providers
+CAGPT:  Human resources and information technology vendors
+CAGPT:  Marketing service providers
+CAGPT:  Analytics and business intelligence vendors
+CAGPT:  Cyber-security vendors
+CAGPT:  Human resources information service providers
+CAGPT:  Government entities or regulators
+CAGPT:  Inferences drawn from the above information provided to advertising networks; social media networks
+CAGPT:  Inferences
+CAGPT:  Category K: Inferences drawn from other personal information
+CAGPT:  Geolocation
+CAGPT:  Inferences: Affiliates
+CAGPT:  Sensitive personal information: Affiliates and Fulfillment Providers
+CAGPT:  Inferences drawn from any of the information identified to create a profile provided to third parties
+CAGPT:  Inferences to Marketing and Advertising Providers
+CAGPT:  Inferences drawn from other Personal Information
+CAGPT:  Third party service providers
+CAGPT:  Inferences
+CAGPT:  Inferences
+CAGPT:  Inference Information
+CAGPT:  Geolocation
+CAGPT:  Inferences
+CAGPT:  Inferences drawn from other personal information
+CAGPT:  Inferences drawn from other personal information
+CAGPT:  Service providers
+CAGPT:  Advertising and ad tech networks
+CAGPT:  Data analytics providers
+CAGPT:  Payment processors
+CAGPT:  Social media networks
+CAGPT:  Inferences used to create a profile provided to third parties
+CAGPT:  Customer records law.
+CAGPT:  Inferences.
+CAGPT:  Inferences drawn from other personal information.
+CAGPT:  Inferences drawn from other personal information.
+CAGPT:  Inferences
+CAGPT:  Email marketers/email marketing partners
+CAGPT:  Email service providers
+CAGPT:  Payment processors
+CAGPT:  Data analytics providers
+CAGPT:  Social networks
+CAGPT:  Inferences drawn from other personal information
+CAGPT:  Inferences drawn from any of the information identified to create a profile  
+
+Cluster 6:
+GPT:  Personal information for customer service purposes
+GPT:  Contact information for marketing purposes
+GPT:  Information about your actions in connection with the Services provided to third parties
+GPT:  Information shared with affiliated companies for marketing, unless opted-out
+GPT:  For direct marketing by third parties
+GPT:  Information for legal and law enforcement purposes
+GPT:  User information to Marvin's parent, affiliates, subsidiaries.
+GPT:  User information to Marvin's network of distributors, dealers, and channel partners.
+GPT:  Personal Information shared with affiliates for business activities
+GPT:  Information disclosed for legal reasons
+GPT:  Not specified in provided text
+GPT:  Email address
+GPT:  Geographic location (country only)
+GPT:  Demographic Information
+GPT:  Financial Information
+GPT:  Purchase History Information
+GPT:  Employment Information
+GPT:  Information shared with third-party promotional and marketing partners
+GPT:  Your information may be disclosed for legal reasons or the protection of UI and others.
+GPT:  Information shared with affiliates
+GPT:  Contact information to third-party partners and advertising/marketing partners.
+CAGPT:  Commercial information
+CAGPT:  Professional or employment-related information
+CAGPT:  Commercial information
+CAGPT:  Biometric information
+CAGPT:  Other information linked to the personal information above provided to third parties
+CAGPT:  Personal information to the same as above
+CAGPT:  Audio, electronic, visual, and similar information to all mentioned parties
+CAGPT:  Email address
+CAGPT:  Commercial information
+CAGPT:  Commercial Information
+CAGPT:  Other information linked to the personal information above not provided to third parties.
+CAGPT:  Commercial Information
+CAGPT:  Personal information listed in the California Customer Records statute
+CAGPT:  Commercial information
+CAGPT:  Commercial Information
+CAGPT:  Professional or employment-related information
+CAGPT:  Commercial information
+CAGPT:  Not applicable
+CAGPT:  Not applicable
+CAGPT:  Commercial information
+CAGPT:  Professional or employment-related information
+CAGPT:  Non-public education information
+CAGPT:  Category I: Professional or employment-related information
+CAGPT:  Commercial Information shared with Business Partners
+CAGPT:  Commercial information
+CAGPT:  Commercial information
+CAGPT:  Professional or employment-related information
+CAGPT:  Non-public education information
+CAGPT:  Professional or employment-related information
+CAGPT:  Sensitive Personal Information
+CAGPT:  Commercial Information
+CAGPT:  Sensitive Personal Information.
+CAGPT:  Geolocation information.
+CAGPT:  Education information.
+CAGPT:  Other linked personal information.
+CAGPT:  Personal Records
+CAGPT:  Commercial Information
+CAGPT:  Professional or Employment-Related Information
+CAGPT:  Sensitive Personal Information
+CAGPT:  Education, employment history, professional information
+CAGPT:  Commercial information
+CAGPT:  Professional or employment-related information
+CAGPT:  Personal information listed in the California Customer Records statute
+CAGPT:  Commercial information
+CAGPT:  Personal Information
+CAGPT:  Sensitive Personal Information
+CAGPT:  Profession and Employment Related Information
+CAGPT:  Biometric Information
+CAGPT:  Other information about you that is linked to the personal information above provided to third parties
+CAGPT:  Commercial information
+CAGPT:  Professional or employment information
+CAGPT:  Demographic Information
+CAGPT:  Sensitive personal information
+CAGPT:  Commercial information
+CAGPT:  Commercial information
+CAGPT:  Professional and employment information
+CAGPT:  Sensitive California Personal Information
+CAGPT:  Protected class characteristics.
+CAGPT:  Commercial information.
+CAGPT:  Geolocation data.
+CAGPT:  Commercial information.
+CAGPT:  Sensory data.
+CAGPT:  Biometric information.
+CAGPT:  Geolocation data.
+CAGPT:  Sensory data.
+CAGPT:  Approximate location provided to third parties
+CAGPT:  Approximate location provided to third parties
+CAGPT:  Commercial information.
+CAGPT:  Geolocation data.
+CAGPT:  Sensory data.
+CAGPT:  Commercial information
+CAGPT:  Commercial information
+CAGPT:  Professional or employment-related information
+CAGPT:  Sensitive Personal Information
+
+Cluster 7:
+GPT:  Personal information is not sold but may be shared with trusted third parties for business operations under confidentiality agreements.
+GPT:  Information may be disclosed as required by law, such as for subpoena compliance or legal processes.
+GPT:  Data shared with 3Shape Group entities and FullContour.
+GPT:  Data shared with suppliers, providers, and IT system providers.
+GPT:  Data shared with resellers and Dental Service Organizations.
+GPT:  Data shared with business partners.
+GPT:  Data shared with public authorities.
+GPT:  Personal information is shared with select companies for expanded content and offers. 
+GPT:  Personal information is shared with third-party service providers for operational purposes.
+GPT:  Payment information shared for payment processing and fraud prevention
+GPT:  Information may be shared with contractors, service providers, and other third parties we use to support our business
+GPT:  All categories of personal information are provided to group companies, third-party service providers, and partners for processing.
+GPT:  Authorized distributors and/or shipping partners are given details to process and deliver orders.
+GPT:  Aggregate statistics about customers, sales, traffic patterns, and related site information may be provided to reputable third-party vendors.
+GPT:  Aggregate or anonymous information with trusted non-Arvig entities for research and providing products and services
+GPT:  Aggregate or anonymous data to various recipients.
+GPT:  Aggregate billing information shared for marketing efforts.
+GPT:  Name, address, phone number, customer number, and credit card information - Provided to third parties for fulfilling orders, delivering packages, sending marketing communications, conducting research, processing payments, and providing chat functions.
+GPT:  Data on user movements - Provided to third parties for conducting research and analysis.
+GPT:  Personal information about users and their orders (such as name, street address, and transactional information, etc.) - Shared with business partners for delivering more relevant advertising.
+GPT:  Location and interaction data retained for a period appropriate to provide services and for analysis to improve user experience.
+GPT:  Personal data shared with third parties for delivery, fulfillment, payment processing, email deployment, suppression list management, and data processing
+GPT:  Location or IP address might be shared with Affiliates or third-party service providers.
+GPT:  Login and account information may be shared with data storage and analysis service providers.
+GPT:  Personal data for delivering content and services from IDGC sites, affiliated companies, and third-party services
+GPT:  Personal data for business operations support such as delivery, fulfillment, payment processing, email deployment, suppression list management, and data processing
+GPT:  Email addresses and user interactions are provided to customer communication platforms.
+GPT:  User identifiers, IP addresses, and app usage data are shared with business analytics platforms.
+GPT:  Payment information is shared with payment processors.
+GPT:  Information shared with Google Analytics for reporting marketing program effectiveness.
+GPT:  Profile information and user materials are provided to third parties.
+GPT:  Device and usage information, including information from cookies, is shared with third parties for analytics and advertisement purposes.
+GPT:  Payment information is shared with third-party payment processors.
+GPT:  Anonymous Information may be used by third-party advertising companies for ad placement.
+GPT:  Personal Information may be among transferred assets if CNHI is involved in the sale of a substantial portion of its business assets.
+GPT:  Aggregated, anonymized information shared with third parties for analytical research, performance tracking, and benchmarking.
+GPT:  De-identified or aggregated information can be shared without limitation.
+GPT:  Customer information may be shared with third-party service providers for operational purposes.
+GPT:  Information shared with third-party insurance companies for application processing.
+GPT:  Personal information may be provided to contractors, service providers, and other third parties used to support the business.
+GPT:  Personal information may be shared with Jivetel worldwide affiliates for data processing.
+GPT:  Information is provided to business partners, contractors, vendors, and authorized third-party agents for operating, delivering, and improving services.
+GPT:  Information might be disclosed to law enforcement, regulatory bodies, or third parties for legal obligations or to protect Jivetel's rights.
+GPT:  SMS opt-in consent is not transferred
+GPT:  Mobile phone numbers may be provided to background check or payroll partners
+GPT:  Browsing behavior and preferences might be shared with Google Analytics
+GPT:  Geolocation data to service providers to provide the Internet platform, prevent fraud, provide marketing assistance, assist in displaying products, and provide customer service
+GPT:  Participation details in surveys or contests may be shared with business partners and third parties in aggregate form.
+GPT:  Demographic information, location data, advertising and device identifiers, and IP address are provided to third parties.
+GPT:  Usage statistics and analytics data are shared with or sold to marketing companies and data licensors.
+GPT:  Personal and Other Information to service providers and business partners for tasks on Navient’s behalf or joint marketing efforts
+GPT:  Customer's Personal and Other Information with affiliates and outside companies as described in Navient’s Privacy Notice
+GPT:  Information shared with unaffiliated third-party partners for customizing offers.
+GPT:  Information shared with service providers supporting internal and business operations.
+GPT:  De-identified and/or aggregate analytics provided to third-party partners.
+GPT:  Personal data may be provided to third parties for content and services that may interest the user or that the user requests.
+GPT:  Personal data is shared with third-party sponsors for business offers or events.
+GPT:  Personal data may be shared for business operations support, including delivery, fulfillment, payment processing, email deployment, suppression list management, and data processing.
+GPT:  Service interaction data shared with affiliates and partners for service improvement
+GPT:  Analytics Information shared with Google Analytics for website insights and ad relevance.
+GPT:  Site Visit Information shared with marketing partners for better content management and campaign tracking.
+GPT:  Personal information to service providers is provided to third parties.
+GPT:  Information, excluding text messaging originator opt-in data and consent, shared with business partners and other third parties for promotions, with consent.
+GPT:  Billing information and credit card details might be processed by payment processors
+GPT:  Geo-location information provided to service providers to enable service customization.
+GPT:  Personal and Usage Information may be shared with Real Geeks affiliates for the purpose of improving services and offering promotions.
+GPT:  Financial Information is provided to third parties as necessary for processing transactions initiated by the user.
+GPT:  Personal Information is provided to business partners for order fulfillment, customer service, and email messaging.
+GPT:  Anonymous Information may be used by third-party advertising companies for ads.
+GPT:  Information may be transferred as part of the sale of business assets.
+GPT:  Personal Identifiers provided to third parties include Business Operations Tool, Customer Support Tools, Governance, Risk & Compliance Software, Sales & Marketing Tools, and Website Operations Tool.
+GPT:  Internet Activity provided to third parties includes Sales & Marketing Tools.
+GPT:  Commercial Information provided to third parties includes Payment Processors.
+GPT:  Anonymous Information may be among the transferred assets in the sale of business assets.
+GPT:  Information provided in surveys or contests may be shared in the aggregate with business partners and third parties.
+GPT:  Aggregate demographic data not containing personally identifiable information is shared.
+GPT:  Certificate information and issuance details are shared with third-party verification sources and publicly through Certificate transparency logs.
+GPT:  Information necessary for Sectigo to provide products and services is shared with subsidiaries and business partners under privacy standards.
+GPT:  Service Information provided to Clients and Partners to provide the Smaato Ad Services.
+GPT:  Seekers' information is provided to third parties such as Employers and vendors at the Seeker's request or in accordance with profile settings.
+GPT:  Employers' information is provided to Seekers at the Employer's request.
+GPT:  Information is disclosed to service providers performing services on Snagajob’s behalf, such as billing, advertising, and customer support.
+GPT:  \n    3.1 User Data provided to third parties\n    3.2 Street Address Data provided to third parties\n    3.3 Usage Data provided to third parties\n    3.4 Payment and Purchase Data provided to third parties\n    3.5 Survey and Research Data provided to third parties
+GPT:  Personal information is shared with service providers and vendors for processing payments, fraud detection, marketing & sales efforts, and technical/billing support
+GPT:  Device & Technical Data shared for analytics and profiling purposes
+GPT:  Non-Personally Identifiable Information (non-PII) and PII that is not deemed Company-Collected PII may be provided to third parties or Company affiliates for any purpose.
+GPT:  Aggregated or hashed PII may be shared with third parties for matching data attributes to and from other sources.
+GPT:  Information related to Corporate Transactions may be shared with related third parties.
+GPT:  Personal information is provided to affiliated entities, subsidiaries, Marketers, and third-party service providers.
+GPT:  Personal information may be shared with service providers for customer service, analytics, and maintenance purposes.
+GPT:  Information shared with third-party service providers for business-related functions
+GPT:  Personal information is provided to service providers, affiliates, and commercial partners.
+GPT:  Personal information is provided to consumer reporting agencies, fraud detection companies, and collection agencies.
+GPT:  Personal information is provided to merchants, marketing or media companies, and analytics companies.
+GPT:  Accounts and profiles of travel advisors shared on our websites for consumer engagement.
+GPT:  Support Information provided to third parties: Name and email address shared with reputable third-party service providers for customer support purposes.
+GPT:  Analytics Information provided to third parties: Anonymous user behavior data shared with analytics service providers for improving the Applications.
+GPT:  Address - provided to third parties
+GPT:  Credit card number - might be shared with payment processors
+GPT:  Identifiable stay details (after your stay) - provided to Affiliates and marketing companies
+GPT:  Information shared with service providers, business partners, and vendors
+GPT:  De-identified or aggregated information for product and service improvement or other purposes.
+GPT:  Precise location information shared with service providers to facilitate services with geolocation features.
+GPT:  Financial Data Aggregation Services access your financial account information, with your consent, to link and maintain account balances and transactions.
+GPT:  Personal Information may be shared with third parties such as Paypal and/or Stripe to process Your payment(s) for the Services provided to third parties
+GPT:  Personal Information may be shared with third party agents engaged by ZeroBounce for processing on their behalf, provided to third parties
+GPT:  Anonymous or aggregate information shared with third parties for service improvement.
+GPT:  Contact Information provided to third parties: shared with SiriusXM, joint marketing partners, authorized dealers, advertising and digital analytics companies, social media platforms.
+GPT:  Contact and account registration information is provided to third parties
+GPT:  Demographic and statistical information is provided to third parties
+GPT:  User-generated content is provided to third parties
+GPT:  Device and advertising identifiers provided to third parties: Shared with vendors for operational purposes such as improving site performance.
+CAGPT:  Users PI shared with trusted Service Providers for hosting, payment processing, IT services, security, customer services, and marketing
+CAGPT:  Users PI may be disclosed to third parties for legal compliance or to protect service integrity
+CAGPT:  Support and customer services information provided to support and help desk services.
+CAGPT:  Technology partners receive cookies and online identifier data for functionality enhancements.
+CAGPT:  Legal proceedings may require data provision for compliance.
+CAGPT:  Cookie data might be considered sold under CCPA if tracking ID uniquely identifies a user
+CAGPT:  Personal information used for cross-context behavioral advertising is provided to third parties
+CAGPT:  Information is provided to service providers assisting in providing services and goods, including payroll processing, background checks, benefits administration, health insurance providers, travel providers, and credit card issuers.
+CAGPT:  Hashed email addresses are provided to online advertisers, ad networks, advertising partners, social media networks, and marketing partners.
+CAGPT:  Device information and identifiers are provided to the same categories of third parties as above.
+CAGPT:  Internet network and device activity data is shared with the same categories of third parties.
+CAGPT:  Demographic, statistical, and interest information is provided to the same categories of third parties.
+CAGPT:  Contact information is provided to marketing partners and identity matching providers/data brokers.
+CAGPT:  Information that can identify an individual's precise location provided to service providers for fraud prevention and marketing analytics
+CAGPT:  Customer records personal information categories to the same categories of third parties as 3.1
+CAGPT:  Geolocation: Affiliates and Fulfillment Providers
+CAGPT:  A: Identifiers to Advertising for IP addresses only.
+CAGPT:  B: California Customer Records personal information categories to Sweepstakes for information provided when signing up for Sweepstakes.
+CAGPT:  G: Geolocation data to Advertising for IP addresses to locate city location.
+CAGPT:  K: Inferences drawn from other personal information to third parties regarding IP addresses which cannot be used to personally identify.
+CAGPT:  Job application information may be shared with third-party service providers involved in the recruitment process
+CAGPT:  Personal identifiers are provided to service providers and contractors for various operational and legal reasons.
+CAGPT:  Categories of personal information protected under California law are provided for billing, processing, research, and fraud prevention.
+CAGPT:  Internet or network activity information is shared for network management, fraud detection, and security purposes.
+CAGPT:  Personal Information shared with analytics and service providers
+CAGPT:  Online identifier is provided to third parties.
+CAGPT:  IP address is provided to third parties.
+CAGPT:  Certain personal information and sensitive personal information are provided to digital marketing companies, analytics platform providers, and marketing brokers for determining interest in products and services and marketing those to you.
+CAGPT:  Personal information is shared with digital marketing companies, analytics platform providers, marketing brokers, and digital advertising publishers for targeted marketing.
+CAGPT:  User PI provided to Demand Partners for serving personalized ads.
+CAGPT:  User PI shared with trusted service providers for hosting, payment processing, IT, security, customer, and marketing services.
+CAGPT:  User PI may be disclosed to comply with laws or protect the integrity of the services.
+CAGPT:  Customer information shared with third-parties for creating interest segments.
+
+Cluster 8:
+GPT:  Commercial Information provided to third parties
+GPT:  Financial Information provided to third parties
+GPT:  Personal Information provided to third parties for providing the Services
+GPT:  Financial information provided to third parties
+GPT:  Commercial Information provided to third parties
+GPT:  Social Media Information provided to third parties
+GPT:  Personal information provided to authorized third-party service providers
+GPT:  Social Security or Tax Identification number not specified as provided to third parties
+GPT:  Employment history provided to third parties
+GPT:  Health and benefits information provided to third parties
+GPT:  Employment history and application information provided to third parties
+GPT:  Commercial Information provided to third parties
+GPT:  Financial Information provided to third parties
+GPT:  Commercial Information provided to third parties
+GPT:  Demographic Information provided to third parties
+GPT:  Demographic information provided to third parties
+GPT:  Commercial Information provided to third parties
+GPT:  Commercial Information provided to third parties
+GPT:  Demographic Information provided to third parties
+GPT:  Financial Information provided to third parties
+GPT:  Business Information provided to third parties
+CAGPT:  Demographic Information provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Personal information provided to third parties for business purposes
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  California Personal Information provided to third parties for business purposes
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Professional or Employment-Related Information provided to third parties
+CAGPT:  Health information provided to third parties
+CAGPT:  Personal Information and Identifiers provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Internet and Network Information provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Financial Information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Financial information provided to third parties
+CAGPT:  Financial information provided to third parties
+CAGPT:  User-generated content provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Identifiers and professional or employment-related information provided to third parties
+CAGPT:  Financial information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Internet or Other Electronic Network Activity Information provided to third parties
+CAGPT:  Professional Or Employment-Related Information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Internet or Other Electronic Network Activity Information provided to third parties
+CAGPT:  Professional or Employment-Related Information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Internet or Other Electronic Network Activity Information provided to third parties
+CAGPT:  Professional or Employment-Related Information provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Commercial information provided to third parties  
+CAGPT:  Internet or other electronic network activity information provided to third parties  
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Internet or other Electronic Network Activity Information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Personal characteristics or traits provided to third parties
+CAGPT:  Professional or employment information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Financial Information provided to third parties
+CAGPT:  Financial information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Identifiers and Other Personal Information provided to third parties
+CAGPT:  Commercial Information provided to third parties 
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Internet or Other Electronic Network Activity Information provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Personal Characteristics or Traits provided to third parties
+CAGPT:  Professional or Employment Information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Financial information provided to third parties
+CAGPT:  Financial information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Demographic and statistical information provided to third parties
+CAGPT:  Social media information provided to third parties
+CAGPT:  Business information provided to third parties
+CAGPT:  Browsing history provided to third parties
+CAGPT:  Commercial Information provided to third parties
+CAGPT:  Audio or visual information provided to third parties
+CAGPT:  Professional or employment-related data provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Commercial information provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+CAGPT:  Professional or employment-related information provided to third parties
+
+Cluster 9:
+GPT:  Personal Information provided to third parties
+GPT:  Non-Personal Information provided to third parties
+GPT:  Personal information provided to third parties
+GPT:  Personal Information provided to third parties
+CAGPT:  Non-public education information provided to third parties.
+CAGPT:  Non-public education information provided to third parties
+CAGPT:  Education information provided to third parties
+CAGPT:  Education information provided to third parties
+CAGPT:  Education Information provided to third parties
+CAGPT:  Non-Public Education Information provided to third parties
+CAGPT:  Background Screening Information provided to third parties
+CAGPT:  Non-public education information provided to third parties.
+CAGPT:  Personal Information provided to third parties
+CAGPT:  Employment Information provided to third parties 
+CAGPT:  Education information provided to third parties
+CAGPT:  Personal Information provided to third parties
+CAGPT:  Employment Information provided to third parties
+CAGPT:  Education information provided to third parties
+
+Cluster 10:
+GPT:  Personal data may be shared with Worldpay as a separate data controller
+GPT:  Personal data may be shared within the IDG Communications Publishing Network
+GPT:  To Recipients of your social sharing activity
+GPT:  Personal Information may be transferred in the sale of business assets
+GPT:  When the Company is merged or sold
+GPT:  Contact Data
+GPT:  Technical Data
+GPT:  Content Data
+GPT:  Profile Data
+GPT:  Information may be shared with companies affiliated with GDIT
+GPT:  Information to affiliates
+GPT:  Information in the event of a change of control
+GPT:  Feedback shared with UserVoice for idea forum
+GPT:  Marketing leads shared with business partners
+GPT:  Aggregated information about users without restriction
+GPT:  Information for advertising purposes is provided to third parties
+GPT:  Personal and Other Information to Navient affiliates for purposes described in the Privacy Policy
+GPT:  All types of Personal Data provided to N2P Group
+GPT:  Information accessed by service providers for operational functions
+GPT:  Device's IP address
+GPT:  Device screen size
+GPT:  Device type
+GPT:  Preferred language used to display the website
+GPT:  Location
+GPT:  Information about which page you were visiting 
+GPT:  Usage data with licensee
+GPT:  Author data shared with ResearchGate
+GPT:  Data necessary for suppliers engaged to process data on behalf of Theory
+GPT:  Anonymous Information
+GPT:  Information to affiliates
+GPT:  Sponsors and co-promotions
+GPT:  All data may be shared with Service Providers 
+GPT:  Information shared for other legitimate purposes
+GPT:  Inferences based on the above provided to third parties
+GPT:  To process your transactions - Provided to third parties
+GPT:  Communications with event vendors are provided to third parties
+GPT:  Geolocation is provided to third parties
+CAGPT:  Personal Information is provided to trusted third parties assisting in website operation
+CAGPT:  Personal Information is shared for servicing purposes as described in the Privacy Policy
+CAGPT:  User’s behaviour on the website provided to third parties
+CAGPT:  Personal information categories listed in the California Customer Records statute
+CAGPT:  Protected classification characteristics under California or federal law
+CAGPT:  Personal information categories listed in the California Customer Records statute
+CAGPT:  Users PI provided to Demand Partners
+CAGPT:  Affiliated companies receive various categories for service provision.
+CAGPT:  Technical support 
+CAGPT:  Payment processing 
+CAGPT:  Order fulfillment 
+CAGPT:  Affiliates 
+CAGPT:  Entities with whom data must be shared due to a legal obligation 
+CAGPT:  Entities within the boohoo group for the purposes of shared services 
+CAGPT:  California Customer Records personal information categories
+CAGPT:  Personal information categories listed in the California Customer Records statute provided to third parties
+CAGPT:  Characteristics of protected classifications to the same as above
+CAGPT:  Commercial information to the same as above
+CAGPT:  A real name
+CAGPT:  Postal address
+CAGPT:  Telephone number
+CAGPT:  Personal information categories listed in the California Consumer Records statute provided to third parties
+CAGPT:  Specific pieces of personal information collected about the user
+CAGPT:  Personal information categories listed in the California Customer Records statute
+CAGPT:  Inferences Drawn for Personal Information
+CAGPT:  Information collected through automated means provided to third parties
+CAGPT:  Background check vendors
+CAGPT:  State or federal governmental agencies
+CAGPT:  Professional service advisors
+CAGPT:  California Customer Records Statute Personal Information categories
+CAGPT:  Protected Classification Characteristics under California or Federal Law
+CAGPT:  Sensory Data
+CAGPT:  Personal information categories listed in the California Customer Records statute provided to third parties
+CAGPT:  Data potentially considered as a "sale" of personal information in the State of California is provided to third parties
+CAGPT:  Personal information categories listed in the California Customer Records statute provided to third parties
+CAGPT:  California Customer Records personal information categories
+CAGPT:  Protected classification characteristics under California or federal law
+CAGPT:  To due diligence providers
+CAGPT:  To business partners
+CAGPT:  Sensitive personal information is not shared
+CAGPT:  Distribution channel partner details provided to third parties for product distribution
+CAGPT:  Protected classifications under California or federal law
+CAGPT:  California Customer Records Personal Information categories
+CAGPT:  Protected classification characteristics under California or federal law
+CAGPT:  Government agencies
+CAGPT:  Application vendors
+CAGPT:  Inferences drawn from the above provided to third parties  
+CAGPT:  California Customer Records personal information categories
+CAGPT:  Characteristics of Protected Classifications
+CAGPT:  Personal Information categories listed in California Customer Records statute provided to third parties
+CAGPT:  Characteristics of protected classifications
+CAGPT:  California Customer Records personal information categories
+CAGPT:  Sensitive Information
+CAGPT:  Protected Personal Characteristics
+CAGPT:  Sensory Information
+CAGPT:  Personal information categories listed in the California Customer Records statute provided to third parties
+CAGPT:  Characteristics of protected classifications
+CAGPT:  Education Information
+CAGPT:  Personal Information categories listed in the California Customer Records statute provided to third parties
+CAGPT:  California Customer Records personal information categories
+CAGPT:  Sensory data
+CAGPT:  California Customer Records personal information categories
+CAGPT:  Protected classification characteristics under California or federal law
+CAGPT:  Sensory data
+CAGPT:  Affiliates not under the Sol de Janeiro brand
+CAGPT:  Inferences drawn from your activity
+CAGPT:  Other categories of personal information described in California law
+CAGPT:  Personal information categories listed in the California Customer Records statute provided to third parties
+CAGPT:  Other information submitted by users provided to third parties
+CAGPT:  No specific pieces of information are sold; sharing is limited to business and commercial purposes.
+CAGPT:  Sensitive Personal Information is not provided to third parties except as necessary to perform the Services
+CAGPT:  Government entities
+CAGPT:  Personal information categories listed in the California Customer Records statute
+CAGPT:  Protected classification characteristics under California or federal law
+CAGPT:  No specific itemized data provided to third parties explicitly mentioned
+
+Cluster 11:
+GPT:  Demographic and location information for marketing and analytics purposes
+GPT:  Personal and financial information shared with third parties like Plaid Technologies, Inc. for data processing
+GPT:  De-identified information along with selected Personal Information such as demographic information and past purchase history shared with Third-Party advertising partners for targeted advertisements 
+GPT:  Address and other identifiers to third parties as directed by the user
+GPT:  Internet or other electronic network activity, geolocation data, audio, electronic, visual, thermal, olfactory, or similar information to service providers and governmental entities
+GPT:  Biometric information and inferences to third parties as directed by the user or service providers
+GPT:  Aggregate or de-identified information provided to analytics companies for marketing, advertising, research, or similar purposes
+GPT:  Non-personally identifiable information to third-party analytics partners  
+GPT:  Personal data to affiliate companies for marketing and operational purposes  
+GPT:  Technical, Usage, and Contact Data provided to analytics and advertising networks
+GPT:  Identity, Contact, and Transaction Data provided to Klarna Bank AB for payment services
+GPT:  Demographic and preference information provided to audience measurement services and third-party marketing/advertising partners
+GPT:  Activity and usage information provided to advertising companies, analytics companies, and social networking sites
+GPT:  Personal data shared with third-party sponsors for business services or offers
+GPT:  Personal Information to business partners for order fulfillment, email messaging, data management, credit card processing, or customer service
+GPT:  Personal data shared for advertising and marketing communications
+GPT:  During major business transitions, like mergers or acquisitions
+GPT:  Information in the event of a business transition like merger, acquisition, or sale of assets
+GPT:  Information to service providers for operating business, and customizing services provided to third parties
+GPT:  Information collected for analytics provided to or collected directly by third-party service providers
+GPT:  Information to advertising and marketing companies
+GPT:  Payment information processed by third-party payment processors
+GPT:  Data associated with user profile (metrics, images, videos, content) provided to third parties for promotion or marketing
+GPT:  Contact, Financial, and Transaction Data provided to providers of technical, payment, and delivery services
+GPT:  Marketing and Communications Data provided to third-party vendors, consultants, and other third-party service providers
+GPT:  Personally Identifiable Information to Advertising and Marketing parties
+GPT:  Information disclosed to medical professionals or institutions for coverage verification or audits
+GPT:  Aggregate, demographic information provided to partners for marketing and business development efforts.
+GPT:  Identifiers/contact information to advertising networks, data analytics providers, and social networks
+GPT:  Internet or other electronic network activity information to service providers to provide the Internet platform, prevent fraud, provide marketing assistance, assist in displaying products, and provide customer service
+GPT:  Audio, electronic, visual, thermal, olfactory, or similar information to service providers that support customer service
+GPT:  Professional or employment-related information to service providers that support recruiting activities
+GPT:  Inferences drawn from information to service providers to provide marketing assistance, deliver products, and prevent fraud
+GPT:  Hashed IDs or device identifiers to third-party advertisers or ad networks
+GPT:  Data stored by premium service customers, such as resumes or contact information, subject to their policies
+GPT:  Payment and transactional data provided to financial services & payment processing third parties
+GPT:  Aggregated or anonymous data to advertising service providers
+GPT:  Information to affiliates, contractors, service providers, and third parties for business support
+GPT:  Contact information provided to third parties for purposes such as billing and collections, payment processing, analytics and research
+GPT:  Unique online identifiers, specifically IP addresses, shared under certain circumstances like compliance with legal obligations or for security detections
+GPT:  Credit or debt history regarding creditworthiness or credit history provided to third parties
+GPT:  IP address to third-party advertising companies
+GPT:  Device and Online Identifiers
+GPT:  Identification and fraud diligence data provided to Sum & Substance Ltd (UK).
+GPT:  Information provided to Partners that facilitate the functioning of the Smaato Ad Services (e.g., traffic and ad quality verification vendors and data centers).
+GPT:  Device identifiers and log data provided to analytics and marketing service providers
+GPT:  Payment Information shared with payment processors and food delivery companies
+GPT:  Geolocation Data provided to independent purchasing organizations for rewards and loyalty programs
+GPT:  Device ID Information to authorized Service Providers, agents, or representatives for hosting or operation of the website or to facilitate reporting of analytics
+GPT:  Personal Data to third-party Service Providers for the purpose of processing payments, fulfilling orders, and providing benefits of membership, among other purposes
+GPT:  Information to trusted third parties for customer support, operation, and administration of products.
+GPT:  Certain information to third-party advertising companies for analytics and to serve tailored YNAB ads on other platforms.
+GPT:  Some user information to service providers, such as hosting, technology, communication, and customer service vendors.
+GPT:  Respond to court orders and legal investigations - Provided to third parties
+GPT:  Report to credit bureaus - Provided to third parties
+GPT:  To insurers, banks, finance companies, and credit reference agencies
+GPT:  Personal information with select third-party service providers
+GPT:  Aggregated user data for research and analysis purposes provided to third parties
+GPT:  Online Identifiers and Usage Data
+GPT:  Advertising and Digital Analytics Companies receiving information
+GPT:  Law enforcement agencies, courts, regulatory agencies receiving information
+CAGPT:  California Customer Records personal information categories provided to third parties.
+CAGPT:  Transaction data provided to service providers (e.g., shipping, payment processing)
+CAGPT:  Online interaction data provided to third-party advertisers for cross-context behavioral advertising
+CAGPT:  Usage data disclosed to analytics and marketing service providers
+CAGPT:  Advertising and retargeting information provided to advertising and marketing platforms.
+CAGPT:  Identifiers to third parties for business purposes
+CAGPT:  Internet or similar network activity to third parties for business purposes
+CAGPT:  Identifiers (e.g. name, mailing address, email address, phone number, credit/debit card number)
+CAGPT:  Entities that assist in the prevention of fraud and theft 
+CAGPT:  California Customer Records personal information categories provided to third parties.
+CAGPT:  Inferences drawn from the above information about predicted characteristics and preferences provided to third parties
+CAGPT:  Identifiers such as real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, telephone number, or other similar online identifiers provided to third parties
+CAGPT:  Identifiers to governmental authorities, regulators, third parties in legal proceedings, business partners, affiliated group companies, service providers/vendors, and parties to a merger/acquisition
+CAGPT:  Internet Protocol (IP) address
+CAGPT:  Browsing history, search history, information regarding a consumer's interaction with a website, mobile application, or online advertisement
+CAGPT:  Inferences from Other Data provided to Cozy Earth Affiliates and Subsidiaries
+CAGPT:  Online information such as cookies, advertising identifiers, and IP address to third parties for advertising
+CAGPT:  Identifiers to Ad Networks, Social Networks, Business affiliates
+CAGPT:  Internet/Electronic Network Activity to Analytics providers, Ad Networks, Social Networks
+CAGPT:  Identifiers to advertising networks and financial service providers
+CAGPT:  Internet or other electronic network activity information to advertising networks
+CAGPT:  Identifiers with parent companies, subsidiaries, affiliates, organizers, social media services, and third parties
+CAGPT:  Commercial information with parent companies, subsidiaries, affiliates, organizers, social media services, and third parties
+CAGPT:  General location with parent companies, subsidiaries, affiliates, organizers, social media services, and third parties
+CAGPT:  Personal and online identifiers provided to advertising networks; data analytics providers; social media networks
+CAGPT:  Characteristics of protected classifications provided to advertising networks; data analytics providers; social media networks
+CAGPT:  Commercial or transactions information provided to advertising networks; social media networks
+CAGPT:  Internet or other electronic network activity information provided to advertising networks; data analytics providers; social media networks
+CAGPT:  California Customer Records personal information categories provided to Service Providers, Subsidiaries, and Affiliates.
+CAGPT:  Identifiers to affiliates, service providers, advertisers, advertising technology companies, Social Media Platforms, analytics companies, and other third parties
+CAGPT:  Commercial information to our service providers and third-party companies for providing personalized advertising
+CAGPT:  Identifiers to affiliates and service providers
+CAGPT:  Commercial information to affiliates, service providers, and advertising/marketing companies
+CAGPT:  Internet or similar network activity to affiliates, service providers, and advertising/marketing companies
+CAGPT:  Name, mailing address, email address, telephone number, IP address, and account information provided to service providers for customer contact tools
+CAGPT:  Name, address, telephone number, driver’s license or state identification card number, education, bank account number or any other financial information provided to service providers for customer contact tools
+CAGPT:  IP address, browser type and version, browsing history, information on a consumer’s interaction with a website, or advertisement provided to service providers for fraud prevention and marketing analytics
+CAGPT:  Identifiers to service providers, insurance carriers, and related industry service providers
+CAGPT:  Commercial Information shared with third-party ad networks for behavioral advertising.
+CAGPT:  Unique identifiers provided to IT providers, Payment processing providers, Hosting service providers, Email and communications providers, Accounting vendors, Social media, Analytics providers, Vendors, Business partners
+CAGPT:  Financial information provided to IT providers, Payment processing providers, Hosting service providers, Email and communications providers, Accounting vendors
+CAGPT:  Purchase history provided to IT providers, Payment processing providers, Hosting service providers, Email and communications providers, Accounting vendors, Social media, Analytics providers, Business partners
+CAGPT:  Identifiers: Affiliates, Payment Processors, Fulfillment Providers, and Government Entities
+CAGPT:  Customer records: Affiliates, Payment Processors, Fulfillment Providers, and Government Entities
+CAGPT:  Commercial information: Affiliates, Fulfillment Providers, and Government Entities
+CAGPT:  Internet activity: Affiliates, Fulfillment Providers, and Government Entities
+CAGPT:  Identifiers provided to business partners, subsidiaries, and/or affiliates
+CAGPT:  California Customer Records statute information provided to business partners, subsidiaries, and/or affiliates
+CAGPT:  Geolocation data provided to business partners, subsidiaries, and/or affiliates
+CAGPT:  Inferences drawn from collected information provided to business partners, subsidiaries, and/or affiliates
+CAGPT:  Identifiers provided to service providers, data analytic providers, internet cookie data recipients, affiliates, partners
+CAGPT:  Internet or other similar network activity provided to service providers, data analytic providers, internet cookie data recipients, affiliates, partners
+CAGPT:  Unique identifiers provided to IT providers, Payment processing providers, Hosting service providers, Email and communications providers, Accounting vendors, Social media, Analytics providers, Vendors, Business partners
+CAGPT:  Financial information provided to IT providers, Payment processing providers, Hosting service providers, Email and communications providers, Accounting vendors
+CAGPT:  Purchase history provided to IT providers, Payment processing providers, Hosting service providers, Email and communications providers, Accounting vendors, Social media, Analytics providers, Business partners
+CAGPT:  Internet activity provided to IT providers, Hosting service providers, Social media, Analytics providers, Vendors, Business partners
+CAGPT:  Geolocation data provided to IT providers, Hosting service providers, Social media, Analytics providers, Business partners
+CAGPT:  Identifiers such as name, postal address, Internet Protocol address, email address
+CAGPT:  Personal and online identifiers; provided to third parties
+CAGPT:  Identifiers to Marketing and Advertising Providers
+CAGPT:  Commercial Information to Marketing and Advertising Providers
+CAGPT:  Internet/Network Activity to Marketing and Advertising Providers
+CAGPT:  Geolocation Data to Marketing and Advertising Providers
+CAGPT:  Personal and online identifiers.
+CAGPT:  Internet or other similar network activity provided to service providers, Internet service providers, data analytic providers.
+CAGPT:  Internet and Other Electronic Identifiers
+CAGPT:  Identifiers provided to affiliated entities; service providers
+CAGPT:  Internet or other network activity information provided to affiliated entities; service providers; online advertising partners
+CAGPT:  Professional or employment-related information provided to affiliated entities; service providers
+CAGPT:  Personal Identifiers to Business Operations Tool, Customer Support Tools, Governance, Risk & Compliance Software, Sales & Marketing Tools, and Website Operations Tool; Ad Networks, Data Analytics Providers, Payment Processors, and Sales & Marketing Tools
+CAGPT:  Internet Activity to Sales & Marketing Tools; Ad Networks, Data Analytics Providers, and Sales & Marketing Tools
+CAGPT:  Commercial Information to Website Operations Tool; Payment Processors
+CAGPT:  California Customer Records personal information categories provided to third parties.
+CAGPT:  Sensitive Personal Information, Identifiers, Other Personal Information, and Biometric Information provided to identity verification services
+CAGPT:  Protected Characteristics, Commercial Information, Biometric Information, Geolocation, Sensory Data, Professional or Employment Related Information, and Inferences provided to advisors like lawyers, banks, and insurers
+CAGPT:  Characterizations of protected classes provided to third parties
+CAGPT:  Online identifiers, IP address, unique identifiers provided to third parties
+CAGPT:  Identifiers such as name, address, email address provided to third parties
+CAGPT:  Commercial information such as transaction data provided to third parties
+CAGPT:  Device identifiers such as IP address and unique device identifiers provided to third parties
+CAGPT:  Device Information and Online Activity provided to business partners for own independent use and to service providers
+CAGPT:  Demographic Information provided to business partners for own independent use and to service providers
+CAGPT:  Inferences provided to business partners for own independent use and to service providers
+CAGPT:  Identifiers to affiliates and third-party service providers
+CAGPT:  Commercial information to affiliates and third-party service providers
+CAGPT:  Internet or other similar network activity to affiliates and third-party service providers
+CAGPT:  Personal Identifiers to Business Operations Tool, Commerce Software Tools, Customer Support Tools, Cybersecurity Providers, Data Analytics Providers, Governance, Risk & Compliance Software, IT Infrastructure Services, Payment Processors, Sales & Marketing Tools, Ad Networks, Affiliates, Shipping Services
+CAGPT:  Internet Activity to Business Operations Tool, Commerce Software Tools, Customer Support Tools, Sales & Marketing Tools, Ad Networks, Data Analytics Providers
+CAGPT:  Commercial Information to Commerce Software Tools, Payment Processors
+CAGPT:  Financial Information to Commerce Software Tools, Cybersecurity Providers, Governance, Risk & Compliance Software, Payment Processors, Ad Networks
+CAGPT:  Physical and Audio Data to Business Operations Tool, IT Infrastructure Services, Sales & Marketing Tools
+CAGPT:  Identifiers to third party digital advertising networks
+CAGPT:  Internet activity to third party digital advertising networks
+CAGPT:  Identifiers to Yousician group companies, customer support platforms, hosting service providers, payment processors, analytics partners, third party account providers, social media services, and advertising partners
+CAGPT:  Personal information categories to customer support platforms, third-party account providers
+CAGPT:  Internet or other electronic network activity information to advertising partners, service providers
+CAGPT:  California Customer Records personal information categories provided to third parties.
+CAGPT:  Identifiers provided to third parties such as infrastructure, software platform providers, and cloud services
+CAGPT:  California Customer Records information provided to infrastructure, software platform providers, and cloud services
+CAGPT:  Commercial information provided to vendors and service providers including marketing and advertising services
+CAGPT:  Internet or other network activity information provided to service providers for analytics and advertisement
+
+Cluster 12:
+GPT:  Personal Identifiers provided to third parties
+GPT:  Preferences and shopping interests provided to third parties
+GPT:  Personal Identifiers provided to third parties
+GPT:  Non-Personal Information, such as aggregate data and Usage Information, provided to third parties
+GPT:  Identifiers provided to third parties
+GPT:  Personal Identifiers provided to third parties
+GPT:  Identifiers provided to third parties
+GPT:  Device Identifiers provided to third parties 
+GPT:  Identifiers provided to third parties
+GPT:  Device and Online Identifiers provided to third parties
+GPT:  Inferences provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences provided to third parties
+CAGPT:  Inferences drawn from other personal information to third parties for business purposes
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Personal and online identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences drawn provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences to all mentioned parties
+CAGPT:  Personal Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties for personalized ad purposes
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences drawn from other personal information provided to third parties
+CAGPT:  Unique identifiers provided to third parties
+CAGPT:  Unique identifiers provided to third parties
+CAGPT:  Technical Identifiers provided to third parties
+CAGPT:  Inferences provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences drawn from any of the information provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences drawn from other personal information provided to third parties
+CAGPT:  Identifiers provided to third parties for a business purpose
+CAGPT:  Unique identifiers provided to third parties 
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences provided to third parties
+CAGPT:  Identifiers provided to affiliates
+CAGPT:  Identifiers provided to third parties  
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to business affiliates
+CAGPT:  Inferences provided to business affiliates
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences provided to third parties
+CAGPT:  Personal and online identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties 
+CAGPT:  Inferences provided to third parties 
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Unique identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Personal Identifiers provided to third parties
+CAGPT:  Unique identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties 
+CAGPT:  Inferences provided to third parties 
+CAGPT:  Unique Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences Drawn from Personal Information provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences drawn from other personal information provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties for business purposes
+CAGPT:  Unique identifiers provided to third parties
+CAGPT:  Unique identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences drawn from other personal information provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Online identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Online identifiers provided to third parties
+CAGPT:  Unique personal identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences provided to third parties
+CAGPT:  Identifiers provided to service providers
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences drawn from other personal information provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Identifiers provided to third parties
+CAGPT:  Inferences provided to third parties
+
+Cluster 13:
+GPT:  Personal Information provided to analytics service providers.
+GPT:  Information to third parties to market their products or services if users have not opted out.
+GPT:  Spam protection scores provided to CAPTCHA services.
+GPT:  One-way hash of email addresses provided to ad companies.
+GPT:  Personal data provided to third-party service providers for IT, payments, delivery, marketing, and data analysis
+GPT:  Contact, Financial, and Transaction Data provided to third party payment processors
+GPT:  Publicly available Personal Data such as profile information, profile image, and live stream provided to affiliate partners.
+GPT:  Transaction data provided to payment services providers.
+GPT:  Payment information retained as long as necessary to complete transactions and for financial recordkeeping purposes.
+GPT:  Personal Information provided to third party global identity and fraud verification vendors, Ekata and Kount.
+GPT:  Personal Information provided to service providers for hosting and maintaining the Website and Apps, processing payment information, analyzing activity, and marketing.
+GPT:  Hashed personal information shared with Google for ad measurement services under certain conditions.
+GPT:  Preferences based on site activity provided to third-party services for tracking.
+GPT:  Transaction data provided to third parties for fraud prevention services.
+GPT:  Unique identifiers (cookie IDs, Mobile Advertising IDs, etc.) provided to third parties.
+GPT:  Audience and segments information including shopping habits, non-precise geolocation information provided to third parties.
+GPT:  Data related to web browsing interests for Google Privacy Sandbox testing provided to third parties.
+GPT:  Limited personal information, such as certain identifiers or hashed email addresses, shared for advertising on third-party sites and platforms.
+GPT:  Information provided to website hosting and usage analytics services.
+GPT:  Information provided for marketing assistance or data analytics.
+GPT:  Personal financial information provided to third-party service providers like Experian for credit report access.
+GPT:  Personal and financial information shared with partners for implementing automatic payments and fund transfers.
+GPT:  Name and email address provided to Organizers and third-party services for event registration and marketing purposes.
+GPT:  Professional contact information provided to marketing agencies and data service providers.
+GPT:  Online Identifiers provided to third parties for calculating advertising partner's payments and detecting fraud.
+GPT:  Email and IP address provided to third parties for interest-based or targeted advertising, including textual and/or audio-visual ads or content.
+GPT:  Online identification code associated with Personal Information provided to advertising companies for online and cross-channel advertising.
+GPT:  Video viewing activity data provided to service providers and business partners for content delivery and advertising purposes.
+GPT:  Payment processing information shared with third-party payment processors.
+GPT:  Personal Data provided to third-party service providers.
+GPT:  Usage Data provided to analytics and monitoring services.
+GPT:  Location Data provided to third-party advertisement partners.
+GPT:  Personal information shared with carefully selected companies for marketing purposes.
+GPT:  Limited personal information (identifiers or hashed email address) shared with third parties for advertising.
+GPT:  Website interaction data provided to third parties.
+GPT:  Payment information provided to affiliated companies for billing or substantial corporate transactions.
+GPT:  Internet connection and device information provided to analytics and marketing partners.
+GPT:  Financial information provided to payment processors for order completion.
+GPT:  Profile snippets to search engines and other services depending on user settings
+GPT:  Hashed IDs or device identifiers provided to third parties.
+GPT:  Data used for advertising, subject to user settings and opt-outs.
+GPT:  Anonymous Information provided to third-party advertising companies for ad placement.
+GPT:  Personal information for processing payments to third parties, like Chase Paymentech.
+GPT:  Navigation data provided to third parties like analytics and marketing services.
+GPT:  Personal data transferred to Moleskine Partners for marketing activities or product customization requests.
+GPT:  Server address provided to third parties.
+GPT:  Browser type provided to third parties.
+GPT:  Usage Data provided to third parties for analytics and improvement purposes.
+GPT:  Video Data provided to Participating Studios with consent.
+GPT:  Identifiers provided to third parties for services on our behalf or for legal reasons.
+GPT:  Non-personally identifiable information, such as IP addresses or device identifiers, provided to third-party advertising partners
+GPT:  Preferences and shopping interests provided to third parties.
+GPT:  Viewing behavior provided to third parties.
+GPT:  Geo-location provided to third parties.
+GPT:  Browsing activities and device information shared with advertisers and analytics partners.
+GPT:  Analytics Information provided to third parties.
+GPT:  Personal data provided to contractors, service providers, and third parties used to support business.
+GPT:  Information provided to marketing and service providers, so they may provide targeted advertising to End Users on mobile websites and/or apps.
+GPT:  Unique IDs provided to similar entities as mentioned above for specific and lawful purposes.
+GPT:  Financial information shared with service providers such as those involved in payment processing or financial services as necessary for transactions.
+GPT:  Data required by background checking services and data analytics providers.
+GPT:  Demographic information like age, gender, and location provided to third parties for targeted advertising.
+GPT:  Purchase history and behavior data provided to third parties for analytics and marketing strategies.
+GPT:  Name and transaction details provided to third-party service providers for fraud prevention.
+GPT:  Email addresses shared with marketing and advertising partners for targeted advertising.
+GPT:  Information provided to Researchers for project participation.
+GPT:  Booking information shared with Member Agencies and Preferred Suppliers.
+GPT:  Personal data to Content Owners for desk copies, sales data, course, and enrollment metrics.
+GPT:  Usage Information provided to third parties: Hashed email addresses and pseudonymous identifiers shared with social networks and online advertising platforms for advertising purposes.
+GPT:  Personal identifiers provided to third parties.
+GPT:  Physical and audio data provided to third parties.
+GPT:  Identifiers and contact information to service providers and contractors.
+GPT:  Personal Information to service providers and vendors for system monitoring and fraud prevention.
+GPT:  Aggregate, anonymized non-financial data to advertisers and promotional partners.
+GPT:  Email address provided to third-party analytics services for analyzing usage and effectiveness of marketing campaigns.
+GPT:  Demographics provided to third parties: shared for marketing campaigns and product personalization.
+GPT:  Vehicle Data provided to third parties: shared with auction companies, insurance companies, guidebook providers, vehicle websites for verification and valuation purposes.
+CAGPT:  Identifiers provided to third parties.
+CAGPT:  Geolocation data provided to third parties.
+CAGPT:  Sensory data provided to third parties.
+CAGPT:  Inferences drawn from other personal information provided to third parties.
+CAGPT:  Communications data provided to third-party advertisers
+CAGPT:  Identifiers provided to advertising business partners for the purposes of supporting advertising efforts.
+CAGPT:  Geolocation data provided to advertising business partners for the purposes of supporting advertising efforts.
+CAGPT:  Internet and network data provided to service providers, web platforms, analytics services, and online marketing platforms.
+CAGPT:  Business relations information provided to CRM and mailing list platforms.
+CAGPT:  Billing information provided to payment processing services.
+CAGPT:  Customer service interaction information provided to affiliated entities, service providers, and entities for legal purposes.
+CAGPT:  Product interaction information provided to affiliated entities, service providers, and entities for legal purposes.
+CAGPT:  Identifiers provided to third parties.
+CAGPT:  Geolocation data provided to third parties.
+CAGPT:  Inferences drawn from other personal information provided to third parties.
+CAGPT:  Sensory information not provided to third parties.
+CAGPT:  Identifiers provided to Service Providers, Subsidiaries, and Affiliates.
+CAGPT:  Internet or other similar network activity provided to Data analytic providers and Internet cookie data recipients, like Google Analytics.
+CAGPT:  Identifiers provided to third parties.
+CAGPT:  Geolocation data provided to third parties.
+CAGPT:  Sensory data provided to third parties.
+CAGPT:  Inferences drawn from other personal information provided to third parties.
+CAGPT:  Identifiers provided to third parties for a business purpose and "sell" and "share".
+CAGPT:  Geolocation information provided to third parties for a business purpose and "sell" and "share".
+CAGPT:  Identifiers provided to third parties.
+CAGPT:  Identifiers provided to third parties.
+CAGPT:  Geolocation Data provided to third parties.
+CAGPT:  Personal Identifiers provided to third parties for business and commercial purposes.
+CAGPT:  Internet Activity provided to third parties for business and commercial purposes.
+CAGPT:  Identifiers provided to third parties.
+CAGPT:  Geolocation data provided to third parties.
+CAGPT:  Inferences drawn from personal information provided to third parties.
+CAGPT:  Sensitive Personal Information collected and analyzed concerning health provided to third parties.
+CAGPT:  Inferences about preferences and characteristics.
+CAGPT:  Identifiers provided to third parties.
+CAGPT:  Geolocation Data provided to third parties.
+CAGPT:  Identifiers provided to third parties for business purposes.
+CAGPT:  Identifiers provided to service providers.
+CAGPT:  Commercial information provided to service providers, data analytic providers.
+CAGPT:  Sensory data provided to service providers, advertising networks.
+CAGPT:  Inferences drawn from other Personal Information provided to service providers, data analytic providers, advertising networks.
+CAGPT:  Specific pieces of personal information collected and sold.
+CAGPT:  Personal data provided to various departments within Servers and its affiliates, partners, service providers, or agents.
+CAGPT:  Personal data provided to external legal consultants, financial and business advisors, auditors, accountants, marketing companies, market research companies, card payment processing companies, and identification and fraud diligence service providers.
+CAGPT:  Identifiers provided to third parties.
+CAGPT:  Identifiers like name, profile name, email address, device identifier or IP address provided to third parties for targeted advertising.
+CAGPT:  Commercial information like purchase history provided to third parties for targeted advertising.
+CAGPT:  Internet and electronic network activity information provided to third parties for targeted advertising.
+CAGPT:  Geolocation data (non-precise location) provided to third parties for targeted advertising.
+CAGPT:  Unique identifiers or unique personal identifiers provided to third parties.
+CAGPT:  Identifiers shared with social media platforms, advertising partners, analytics partners, and promotional partners.
+CAGPT:  Identifiers, Profile Data, and Login Information provided to third parties for Service provision, marketing, and legal purposes.
+CAGPT:  Payment and Order Data provided to service providers, payment processors, fraud prevention, and legal entities.
+CAGPT:  Commercial Data provided to service providers, bank aggregators, payment processors, and legal purposes.
+CAGPT:  Information Collected by Cookies and Similar Tracking Technologies provided to third parties.
+CAGPT:  Identifiers provided to third parties.
+CAGPT:  Geolocation data provided to third parties.
+CAGPT:  Sensory data provided to third parties.
+CAGPT:  Inferences drawn from other personal information provided to third parties.
+CAGPT:  Contact information provided to service providers for marketing campaigns.
+CAGPT:  Customer information shared with third-party advertising and social media companies.
+
+Cluster 14:
+GPT:  Name, phone number, email address, mailing or street address, and other contact information provided to third parties
+GPT:  Information provided to third-party service providers
+GPT:  Information provided to advertising partners and third parties for marketing
+GPT:  Personal information shared with business partners and vendors
+GPT:  Personal information shared to comply with legal processes or law enforcement requests
+GPT:  Device information provided to third parties
+GPT:  Contact information provided to third parties
+GPT:  Economic information provided to third parties for statistical purposes
+GPT:  Login information provided to third parties
+GPT:  Contact information provided to third parties
+GPT:  Location information provided to third parties
+GPT:  Personal Information shared with third parties under certain circumstances including compliance with legal requirements or in connection with business transactions
+GPT:  Statistical information provided to third parties
+GPT:  Contact information provided to third parties
+GPT:  Geo-location information provided to third parties
+GPT:  Contact information provided to third parties
+GPT:  Contact information provided to third parties
+GPT:  Personal information provided to third parties in the event of a sale or similar corporate transaction
+GPT:  Location Information provided to third parties
+GPT:  Navigational Information provided to third parties
+GPT:  Device Information provided to third parties
+GPT:  Identifying Information provided to third parties
+GPT:  Event Information provided to third parties
+GPT:  Marketing Preferences provided to third parties
+GPT:  Device and Technical Information provided to third parties
+GPT:  Activities and Usage information provided to third parties
+GPT:  Location Information provided to third parties
+GPT:  Personal Information provided to service providers for operational purposes
+GPT:  Personal information provided to commonly owned entities
+GPT:  Contact information provided to marketing and advertising providers
+GPT:  Banking information not specified as provided to third parties
+GPT:  Personal information shared with third parties as part of advertising network participation
+GPT:  Device Information provided to third parties
+GPT:  Personally identifiable information disclosed to government entities in compliance with valid legal process
+GPT:  Contact information provided to third parties
+GPT:  Contact information provided to third parties
+GPT:  Other personal information as needed to provide specific Services provided to third parties
+GPT:  Personal Information provided to third parties for services on our behalf
+GPT:  Device Information provided to third parties
+GPT:  Business contact information provided to third parties
+GPT:  Payment Information provided to third parties
+GPT:  Profile Information provided to third parties
+GPT:  Device Information provided to third parties
+GPT:  Order Information provided to third parties
+GPT:  Purchase history and preferences provided to third-party advertisers
+GPT:  Usage Information provided to third parties 
+GPT:  Personal information for targeted advertising provided to third parties 
+GPT:  Contact Information provided to third parties
+GPT:  User Information provided to third parties with express consent
+GPT:  Contact Information provided to third parties
+GPT:  Biometric Information provided to third parties
+GPT:  De-identified demographic and location information provided to third parties
+GPT:  Transaction Information provided to third parties
+GPT:  Device ID/Information provided to third parties
+GPT:  Contact Information provided to third parties
+GPT:  Dealer Information provided to third parties
+CAGPT:  Contact information provided to third parties
+CAGPT:  Employment-related information provided to suppliers or government agencies
+CAGPT:  Location Information provided to third parties
+CAGPT:  Profile Information provided to third parties
+CAGPT:  Internet activity information provided to third parties
+CAGPT:  Commercial or transactions information provided to third parties
+CAGPT:  Biometric information provided to third parties
+CAGPT:  Personal data shared with third parties during registration for third-party content
+CAGPT:  Biometric Information provided to third parties
+CAGPT:  Categories of personal information shared with third parties
+CAGPT:  Purchase history provided to third parties
+CAGPT:  Internet or Other Electronic Network Activity Information
+CAGPT:  Purchase history provided to third parties
+CAGPT:  Contact and account information provided to third parties
+CAGPT:  Internet or other electronic network activity information
+CAGPT:  Biometric information provided to third parties
+CAGPT:  Internet activity information provided to third parties for a business purpose
+CAGPT:  Purchase history provided to third parties
+CAGPT:  Biometric Information provided to third parties
+CAGPT:  Profile Information provided to third parties
+CAGPT:  Personal data not provided to third parties
+CAGPT:  Internet or other electronic network activity information
+CAGPT:  Reader information obtained from third-party sources and shared with sponsors or business partners
+CAGPT:  User personal information provided to third parties for marketing unless opted out
+CAGPT:  Commercial Information provided to business affiliates
+CAGPT:  Professional/Employment-related Information provided to business affiliates
+CAGPT:  Internet Use Data provided to third parties
+CAGPT:  Internet Usage or Other Electronic Network Activity Information
+CAGPT:  Internet Use Data provided to third parties
+CAGPT:  Personal data shared with third parties when registering for sponsored content
+CAGPT:  Personal information shared with Google and others for ad delivery
+CAGPT:  Internet activity information provided to third parties
+CAGPT:  Internet or other electronic network activity information
+CAGPT:  Personal records provided to third parties
+CAGPT:  Internet usage information provided to third parties
+CAGPT:  Protected Class Information provided to third parties 
+CAGPT:  Transaction Information provided to third parties 
+CAGPT:  Online Use Information provided to third parties 
+CAGPT:  Personal information provided to third parties who need to access the information to provide Sweepstakes services
+CAGPT:  Internet or other electronic network activity information
+CAGPT:  Purchase history provided to third parties
+CAGPT:  Purchase history provided to third parties
+CAGPT:  Transactional information provided to third parties
+CAGPT:  Categories of personal information provided to third parties
+CAGPT:  Personal information processed for targeted advertising purposes
+CAGPT:  Internet and other electronic activity information
+CAGPT:  Personal Records provided to third parties
+CAGPT:  Personal Records provided to third parties
+CAGPT:  Internet Usage Information provided to third parties
+CAGPT:  Purchase history provided to third parties
+CAGPT:  Purchase history provided to third parties
+CAGPT:  Search history provided to third parties
+CAGPT:  Information on a consumer's interaction with a website, application, or advertisement provided to third parties
+CAGPT:  Internet or other electronic network activity information
+CAGPT:  Specific pieces of personal information disclosed to third parties for business purposes
+CAGPT:  Personal Records provided to third parties
+
+Cluster 15:
+GPT:  Anonymized browsing data provided to third parties
+GPT:  Social media engagement metrics provided to third parties
+GPT:  Telephone numbers provided to third parties
+GPT:  Academic institution identification provided to third parties
+GPT:  Internet Activity provided to third parties
+GPT:  Personal data shared with third party service providers
+GPT:  Device and usage information provided to third-party advertising technologies
+GPT:  Identity Data provided to third parties
+GPT:  Contact Data provided to third parties
+GPT:  Financial Data provided to third parties
+GPT:  Transaction Data provided to third parties
+GPT:  Technical Data provided to third parties
+GPT:  Content Data provided to third parties
+GPT:  Profile Data provided to third parties
+GPT:  Usage Data provided to third parties
+GPT:  Marketing and Communications Data provided to third parties
+GPT:  Contact Data provided to third parties
+GPT:  Technical Data provided to third parties
+GPT:  Transaction Data provided to third parties
+GPT:  Profile Data provided to third parties
+GPT:  Marketing design and development services provided to third parties
+GPT:  Data analytics services provided to third parties
+GPT:  Identity Data provided to third parties
+GPT:  Contact Data provided to third parties
+GPT:  Technical Data provided to third parties
+GPT:  Job application information provided to third-party service providers
+GPT:  Purchase and customer service history provided to third parties
+GPT:  Internet Activity provided to third parties
+GPT:  Technical Data provided to third parties
+GPT:  Purchase and Customer Service Information provided to third parties
+GPT:  Communications and Interactions provided to third parties
+GPT:  Resume data provided to third parties
+GPT:  Online Activity and Browsing Information provided to third parties
+GPT:  Personal data provided to service providers working on behalf of NetDocuments
+GPT:  Behavioral data provided to third parties
+GPT:  Geolocation data provided to third parties
+GPT:  Content and files provided to third parties
+GPT:  Commercial and payment information provided to third parties
+GPT:  IP addresses provided to third parties
+GPT:  Internet browser type provided to third parties
+GPT:  Job title and company information provided to third parties
+GPT:  Internet Activity provided to third parties
+GPT:  Sensory Information provided to third parties
+GPT:  Geolocation Information provided to third parties
+GPT:  Internet or Similar Network Activity provided to third parties
+GPT:  Messaging and Phone Call Information provided to third parties
+GPT:  Information provided to Clients and their third-party vendors for interest-based advertising
+GPT:  Internet or other electronic network activity provided to third parties
+GPT:  Information about browser and operating system provided to third parties
+GPT:  End User Data provided to third parties
+GPT:  Account information provided to service providers
+GPT:  Internet and Other Network Activity Information provided to third parties
+GPT:  Geolocation provided to third parties
+GPT:  Sensory Information provided to third parties
+GPT:  Device information and identifiers provided to third parties
+GPT:  Connection and Usage Information provided to third parties
+GPT:  Geolocation Information provided to third parties
+GPT:  Identity Data provided to third parties
+GPT:  Contact Data provided to third parties
+GPT:  Transaction Data provided to third parties
+GPT:  Technical Data provided to third parties
+GPT:  Profile Data provided to third parties
+GPT:  Usage Data provided to third parties
+GPT:  Marketing and Communications Data provided to third parties
+GPT:  User Account Information provided to third parties
+GPT:  Payment Data provided to third parties
+GPT:  IP addresses provided to third parties
+GPT:  Audio data (anonymized voice recordings) provided to third parties
+CAGPT:  Internet or similar network activity
+CAGPT:  Internet or other similar network activity
+CAGPT:  Device/Browser Information provided to third parties
+CAGPT:  Internet Activity provided to third parties
+CAGPT:  User Content provided to third parties
+CAGPT:  Internet activity provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Sensitive Personal Information provided to third parties
+CAGPT:  Commercial Data provided to third parties
+CAGPT:  Internet/Electronic Activity provided to third parties
+CAGPT:  Internet or other similar network activity
+CAGPT:  Geolocation information provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet or other similar network activity provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Payment-related information, including credit card number or debit card number, provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet or other similar network activity provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet or Other Similar Network Activity provided to third parties
+CAGPT:  Geolocation Data provided to third parties
+CAGPT:  Sensory or Surveillance Data provided to third parties
+CAGPT:  Biometric information for the purpose of unique identification provided to third parties
+CAGPT:  Internet Activity provided to third parties
+CAGPT:  Internet or other electronic network activity information provided to third parties for ad targeting
+CAGPT:  Internet or similar network activity provided to third parties
+CAGPT:  Internet activity provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet or similar network activity
+CAGPT:  Internet activity provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet or other similar network activity provided to third parties
+CAGPT:  Internet or other similar activity
+CAGPT:  Geolocation Information provided to third parties
+CAGPT:  Sensitive Personal Information provided to third parties
+CAGPT:  Sensory or Surveillance Data provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Sensitive personal information provided to third parties
+CAGPT:  Internet or other similar network activity
+CAGPT:  Internet or other similar network activity provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Sensory data provided to third parties
+CAGPT:  Internet or Other Similar Network Activity provided to third parties
+CAGPT:  Geolocation data provided to third parties for a business purpose
+CAGPT:  Internet activity provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Characteristics of protected classifications and demographic information provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet or other similar network activity
+CAGPT:  Geolocation Information provided to third parties
+CAGPT:  Sensory Information provided to third parties
+CAGPT:  Internet or other electronic network activity
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Sensitive personal information provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Geolocation data provided to service providers
+CAGPT:  Geolocation Data provided to third parties
+CAGPT:  Geolocation Data provided to third parties
+CAGPT:  Online Activities provided to third parties
+CAGPT:  Internet or other similar network activity
+CAGPT:  Internet or other similar network activity
+CAGPT:  Geolocation information provided to third parties
+CAGPT:  Internet/Electronic Network Activity provided to Analytics providers
+CAGPT:  Geolocation data provided to business affiliates
+CAGPT:  Sensitive Personal Information provided to business affiliates
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Sensory data provided to third parties
+CAGPT:  Identity Data provided to third parties
+CAGPT:  Commercial Data provided to third parties
+CAGPT:  Identity Data provided to third parties
+CAGPT:  Commercial Data provided to third parties
+CAGPT:  Internet Data provided to third parties
+CAGPT:  Geo-location Data provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet or other similar network activity provided to third parties
+CAGPT:  Internet or other similar network activity
+CAGPT:  Commercial Data provided to third parties
+CAGPT:  Financial Data provided to third parties
+CAGPT:  Internet Data provided to third parties
+CAGPT:  Geo-location Data provided to third parties
+CAGPT:  Inference Data provided to third parties
+CAGPT:  Profile Data provided to third parties
+CAGPT:  Associated Data provided to third parties
+CAGPT:  Internet Data provided to third parties
+CAGPT:  Geo-location Data provided to third parties
+CAGPT:  Internet or other similar network activity information provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Sensory data provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Sensitive Personal Information provided to third parties
+CAGPT:  Internet provided to third parties
+CAGPT:  Geolocation Data provided to third parties
+CAGPT:  Geolocation Data provided to third parties 
+CAGPT:  Audio/Video Data provided to third parties 
+CAGPT:  IP addresses provided to third parties for showing advertisements
+CAGPT:  Internet activity provided to third parties
+CAGPT:  Internet or other similar network activity information provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Sensory data provided to third parties
+CAGPT:  Internet Activity provided to third parties
+CAGPT:  Internet activity provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet or other similar network activity
+CAGPT:  Internet or other similar network activity
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet network and device activity data provided to third parties
+CAGPT:  Internet or other similar network activity provided to third parties 
+CAGPT:  Geolocation data provided to third parties 
+CAGPT:  Online Activity provided to third parties
+CAGPT:  Specific pieces of personal information provided to third parties for targeted advertising purposes
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Sensitive personal information provided to third parties
+CAGPT:  Geolocation Data provided to third parties
+CAGPT:  Sensory Data provided to third parties
+CAGPT:  Internet or other similar network activity provided to third parties
+CAGPT:  Internet or Other Similar Network Activity provided to third parties
+CAGPT:  Geolocation Data provided to third parties
+CAGPT:  Inferences Drawn of the Consumer provided to third parties
+CAGPT:  Device/Network/Location Information (such as IP addresses, geolocation, Advertising ID) provided to third parties
+CAGPT:  Internet activity provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet activity provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet or other similar network activity provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Internet or other similar network activity provided to third parties
+CAGPT:  Browsing activity provided to third parties
+CAGPT:  Application information and communications with others provided to third parties
+CAGPT:  Internet network and device activity data provided to third parties
+CAGPT:  Geolocation information provided to third parties
+CAGPT:  IP addresses provided to third parties
+CAGPT:  Online Activity provided to third parties
+CAGPT:  Geolocation Data provided to third parties
+CAGPT:  Sensory Information provided to third parties
+CAGPT:  General and precise geolocation data provided to third parties
+CAGPT:  Educational data provided to third parties
+CAGPT:  Internet or other similar network activity provided to third parties
+CAGPT:  Payment and Order Data provided to third parties
+CAGPT:  Commercial Data provided to third parties
+CAGPT:  Internet network and device information provided to third parties
+CAGPT:  Customer service interaction information provided to third parties
+CAGPT:  Geolocation Information provided to third parties
+CAGPT:  Internet or other similar network activity
+CAGPT:  Customer Account Details/Commercial Information provided to third parties
+CAGPT:  Geolocation data provided to third parties
+CAGPT:  Sensory data provided to third parties
+CAGPT:  Internet or other similar network activity provided to third parties
+CAGPT:  Sensory data provided to third parties
+CAGPT:  Customer Account Details / Commercial Information provided to third parties
+CAGPT:  Geolocation Data provided to third parties
+CAGPT:  Online Activity provided to third parties
+
+Cluster 16:
+GPT:  Aggregate usage statistics provided to third parties
+GPT:  Demographic information for complying with legal processes
+GPT:  Aggregated information about users of our Website and Services provided to third parties
+GPT:  Non-personal information about SDK usage through Mobile Properties shared with advertisers and demand partners
+GPT:  IP addresses shared with law enforcement in case of unauthorized activities detection
+GPT:  Personal information shared with service providers in the US and other jurisdictions
+GPT:  Information necessary for the operation of the Sites to third-party service providers  
+GPT:  Personal data shared with Ravelin and/or Risk Guardian for fraud prevention
+GPT:  Location Information provided to Cozy Earth affiliates and subsidiaries
+GPT:  Personal Information with contractors, service providers, vendors, and other third parties performing services for CSI
+GPT:  Personal data required for compliance with valid legal processes
+GPT:  Anonymous Information for advertising on the Site and other websites
+GPT:  Personal data shared among eBay Affiliates
+GPT:  User interaction details with content providers or social media platforms provided to third parties
+GPT:  Location information provided to third parties for customized services
+GPT:  Personal Information transferred to service providers to assist with providing the Services
+GPT:  Certain Identity Data provided to third parties
+GPT:  Identity Data
+GPT:  Financial Data
+GPT:  Information to service providers performing functions on Freedom Mortgage's behalf
+GPT:  Information in response to legal process or as required by law
+GPT:  Information to Practitioners for fulfilling transactions provided to third parties
+GPT:  Information amongst Fullscript affiliated entities for business purposes provided to third parties
+GPT:  Information to service providers
+GPT:  Basic Personal Data provided to third parties for service functionality
+GPT:  Anonymous statistical data shared with Google Analytics for Firebase
+GPT:  Diagnostic and usage data shared with Datadog
+GPT:  Personal Data for customer support shared with Zendesk
+GPT:  Email addresses used for newsletters shared with Mailchimp
+GPT:  Infrastructure data shared with Amazon Web Services
+GPT:  App usage data shared with Mixpanel and Amplitude
+GPT:  Generic aggregated demographic information not linked to any personal identification information
+GPT:  Email address provided to third parties for external processing
+GPT:  Phone number provided to third parties for external processing
+GPT:  Personal information shared with service providers for operational support
+GPT:  Personal information provided to professional advisors for operational or legal support
+GPT:  Personal information shared with business associates like rail providers and third-party motor carriers
+GPT:  Information shared based on users' activities and consent
+GPT:  Information shared with companies that maintain databases used by the insurance industry
+GPT:  Purchase history provided to advertising partners
+GPT:  IP address to advertising companies
+GPT:  Mailing address or other contact information is provided to third parties
+GPT:  Demographic information might be shared with sponsors and business partners
+GPT:  Information shared with Google APIs adhering to Google's Limited Use Requirements
+GPT:  Payment information provided to payment processors
+GPT:  Customer information shared with IT operations and cloud service providers
+GPT:  Information shared with Digital Retailers connected to the Services.
+GPT:  Information transferred to NetJets affiliates
+GPT:  Information to a buyer or successor in the event of a business transfer
+GPT:  Aggregated data reports showing anonymized information provided to third parties
+GPT:  Information from Academic Institutions provided to third parties
+GPT:  Browser information
+GPT:  Audio, Visual and Other Sensory Information
+GPT:  E-mail and mailing addresses provided to third parties designated by you or a Subscribing Customer
+GPT:  Phone number provided to third-party service providers for technical support
+GPT:  Information provided to service providers for business-related services
+GPT:  Information shared with affiliated companies
+GPT:  Aggregated information shared with affiliates, agents, and business partners
+GPT:  Personal data shared with third parties for online advertising
+GPT:  Account Information shared with vendors providing service support
+GPT:  Usage Data provided for marketing and advertisement purposes
+GPT:  Marketing and Communication preferences shared with advertising partners
+GPT:  Information on transactions and user experiences shared with affiliates
+GPT:  Preferences for marketing shared depending on user settings
+GPT:  No specific third-party sharing details provided outside of affiliates
+GPT:  Information shared with government bodies and law enforcement agencies
+GPT:  Personal Information for specific functions by business partners
+GPT:  Information to service providers
+GPT:  End User Data provided to Advertisers
+GPT:  Reporting data provided to Publishers
+GPT:  Certain information shared with Social Media platforms for advertising purposes
+GPT:  Contact information shared within VIZ Media company for maintenance and marketing purposes
+GPT:  Information shared when a user requests any of Norton's products or services
+GPT:  Information shared in connection with a business transaction
+GPT:  Profile data provided to third parties for social features
+GPT:  Data provided to Yousician group companies for Service development
+GPT:  Data provided to partners processing data on Yousician’s behalf
+GPT:  Data used by advertising and social media partners
+GPT:  Personal information among Mutual of Omaha and its affiliated companies
+GPT:  Registration Data and Account Data
+GPT:  Vehicle Service History provided to third parties
+GPT:  Viewership data anonymized by household provided to third parties
+CAGPT:  Communication records shared with customer service solution providers
+CAGPT:  Geolocation data to third parties for business purposes
+CAGPT:  Government ID Data provided to Processors for fraud mitigation
+CAGPT:  Geolocation data
+CAGPT:  Personal data shared with third parties when you opt-in to third-party offers
+CAGPT:  Cookie data shared as applicable under the CCPA
+CAGPT:  California Customer Records personal information categories provided to third parties
+CAGPT:  Precise geolocation provided to third parties
+CAGPT:  Contents of a consumer’s mail, email, and text messages provided to third parties
+CAGPT:  Unique personal or online identifier
+CAGPT:  Location Information provided to Cozy Earth Affiliates and Subsidiaries
+CAGPT:  Commercial information shared with third parties for marketing analysis
+CAGPT:  Personal data shared with third parties upon consumer interaction
+CAGPT:  Geolocation data
+CAGPT:  Customer information to affiliates
+CAGPT:  Geolocation Data
+CAGPT:  Geolocation information not provided to third parties.
+CAGPT:  California Customer Records personal information categories provided to third parties
+CAGPT:  Geolocation Data
+CAGPT:  Geolocation data
+CAGPT:  Geolocation data
+CAGPT:  Personal data to Service Providers for processing
+CAGPT:  Contact information and transaction/order history provided to service providers for customer contact tools
+CAGPT:  Geolocation information
+CAGPT:  Audio and visual information
+CAGPT:  Geolocation data
+CAGPT:  Aggregate geographic information provided to third parties
+CAGPT:  California Customer Records personal information categories provided to third parties
+CAGPT:  Personal Information Categories provided to business affiliates
+CAGPT:  Internet/Other Electronic Network Activity Information
+CAGPT:  Geolocation Data
+CAGPT:  Customer Records Data provided to third parties
+CAGPT:  Geolocation Data
+CAGPT:  Customer Records Data provided to third parties
+CAGPT:  Personal data shared upon user consent for third party offers
+CAGPT:  California Customer Records personal information categories provided to third parties
+CAGPT:  Geolocation data
+CAGPT:  California Customer Records personal information categories provided to third parties
+CAGPT:  Inferences from PI collected provided to third parties
+CAGPT:  Geolocation Data
+CAGPT:  Personal Information shared with benefits providers
+CAGPT:  Personal Information shared with transaction processors
+CAGPT:  Entry information from sweepstakes and contests shared with prize providers and marketing partners
+CAGPT:  Inferences drawn from the above information about your predicted characteristics and preferences provided to third parties
+CAGPT:  Customer Records Information provided to third parties 
+CAGPT:  Geolocation data
+CAGPT:  Device Information and Online Activity
+CAGPT:  Geolocation data
+CAGPT:  Geolocation data
+CAGPT:  Account log-in, financial account, debit card number, plus an access code provided to third parties
+CAGPT:  Geolocation data
+CAGPT:  Inferences from PI Collected provided to third parties
+CAGPT:  Third Party Applications data provided to third parties
+CAGPT:  All categories of Personal Information collected shared with advertisers & social media companies
+CAGPT:  California Customer Records personal information categories provided to third parties
+CAGPT:  Information submitted through forms provided to third parties
+CAGPT:  Customer service information provided to third parties
+CAGPT:  Geolocation provided to business partners for own independent use
+CAGPT:  California Customer Records personal information categories provided to third parties
+CAGPT:  Geolocation data
+CAGPT:  Other Identifying Information that You Voluntarily Choose to Provide provided to third parties
+CAGPT:  Commercial information to payment processors
+CAGPT:  Geolocation data to service providers
+CAGPT:  Financial Information to payment processors
+CAGPT:  Geolocation data
+CAGPT:  Professional or employment-related information shared with service providers for business operations support
+CAGPT:  Identifiers and contact information  
+CAGPT:  Internet & other electronic network activity information  
+
+Cluster 17:
+GPT:  Information transferred in the event of a business transfer, bankruptcy, or merge
+GPT:  Personal information shared with subsidiaries and affiliates
+GPT:  Personal information shared with third-party clients or business partners for marketing purposes
+GPT:  Personal information disclosed to affiliates and subsidiaries.
+GPT:  Personal information to subsidiaries and affiliates
+GPT:  Personal information to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Budget Blinds, LLC's assets
+GPT:  Personal Information during business transactions like mergers or acquisitions
+GPT:  Personal Information to outside parties for legal process, fraud, security, or technical concerns, or to protect against harm
+GPT:  Personal information shared with third-party partners for travel packages, including airlines, ground transportation providers, hotels, and travel insurance providers.
+GPT:  Personal information shared with financial institutions for co-branded products or services.
+GPT:  Demographic Information: Provided to third parties
+GPT:  Personal information shared with affiliates or joint venture partners.
+GPT:  Personal information disclosed pursuant to court or government order
+GPT:  Information at your direction or with your consent
+GPT:  Personal information disclosed to third parties when required by law or to investigate suspected or actual unlawful or prohibited activities
+GPT:  Personal Information disclosed to perform services on your behalf and provide insurance products and services.
+GPT:  Personal Information disclosed for legal reasons, marketing purposes, and to affiliates for everyday business purposes.
+GPT:  Personal information provided to corporate subsidiaries, affiliates, and their personnel
+GPT:  Personal information shared with third-party service providers under contract
+GPT:  Personal information disclosed for legal compliance or protection
+GPT:  Personal information disclosed for legal purposes and corporate transactions
+GPT:  Information disclosed as required by law, in response to law enforcement requests, or to protect rights and safety.
+GPT:  Personal Information provided to affiliates and/or subsidiaries
+GPT:  Personal Information disclosed to comply with laws or legal processes
+GPT:  Personal Information disclosed to third parties for legal reasons or corporate changes
+GPT:  Date and time of website visit provided to third parties.
+GPT:  Personal information provided to third parties performing services on behalf of the company
+GPT:  Personal information disclosed when believed necessary or desirable to comply with law, cooperate with law enforcement, or protect interests or safety
+GPT:  User information disclosed for legal reasons.
+GPT:  Personal information shared to comply with the law or protect the company's or users' rights.
+GPT:  Contact information provided to third parties.
+GPT:  Social security number, date of birth, name, address, email address, phone number, including mobile phone number provided to third parties
+GPT:  Contact Information provided to third parties.
+GPT:  Personal Information disclosed due to user's agreement to share with third parties
+GPT:  Personal information disclosed in the event of a business transfer
+GPT:  Certain information shared with third parties to conduct contests, sweepstakes, and forms
+GPT:  Personal Information to law enforcement or courts as necessary.
+CAGPT:  Personal information sold or shared with authorized independent retailers, dealers, and certified contractors
+CAGPT:  Professional or employment-related information to third parties for business purposes
+CAGPT:  Commercial information (e.g. products or services purchased, purchase history)
+CAGPT:  Internet or other electronic network activity (e.g. browse or search history)
+CAGPT:  Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies
+CAGPT:  Commercial information provided to Subsidiaries and Affiliates.
+CAGPT:  Audio, electronic, or visual information is not disclosed as "sell" and "share" to third parties.
+CAGPT:  Commercial information provided to business partners, subsidiaries, and/or affiliates
+CAGPT:  Internet or other electronic network activity information provided to business partners, subsidiaries, and/or affiliates
+CAGPT:  Audio, electronic, visual, thermal, olfactory, or similar information provided to business partners, subsidiaries, and/or affiliates
+CAGPT:  Professional or employment-related information provided to business partners, subsidiaries, and/or affiliates
+CAGPT:  Education information provided to business partners, subsidiaries, and/or affiliates
+CAGPT:  Contact information shared with sponsors or third parties for promotional purposes
+CAGPT:  Internet or other electronic network activity information; provided to third parties
+CAGPT:  Non-Public Education Information provided to business affiliates
+CAGPT:  Professional or employment-related information.
+CAGPT:  Personal Information provided to law enforcement (if necessary)
+CAGPT:  Professional or employment-related information.
+CAGPT:  Events and programs information provided to third parties
+CAGPT:  Categories of personal information sold or shared with third parties
+CAGPT:  We have not sold or shared any categories of personal information to third parties in the preceding 12 months.
+CAGPT:  Contact Information provided to third parties.
+
+Cluster 18:
+GPT:  Government Identifiers
+GPT:  Personal Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Category A: Identifiers
+CAGPT:  Category A: Identifiers.
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers
+CAGPT:  Identifiers 
+CAGPT:  Category A: Identifiers.
+CAGPT:  Identifiers
+CAGPT:  Identifiers, including unique and online identifiers
+CAGPT:  Identifiers.
+CAGPT:  Identifiers.
+CAGPT:  Identifiers
+CAGPT:  Identifiers.
+CAGPT:  Identifiers
+
+Cluster 19:
+GPT:  Non-Personal Information to third parties.
+GPT:  Personal information to affiliates, subsidiaries, or as part of a merger, sale of a business, sale of assets, or dissolution.
+GPT:  Personal information disclosed during acquisitions, sales, mergers, or similar transactions
+GPT:  Demographic information provided to third parties.
+GPT:  Personal Information provided during corporate sales, mergers, reorganizations, dissolutions, or similar events
+GPT:  Personal information provided in the event of a company merger or sale.
+GPT:  Personal Information provided to third parties for marketing or other relationships.
+GPT:  Demographic Information disclosed for analytical or marketing purposes.
+GPT:  Personal data disclosed for business transfers or legal purposes.
+GPT:  Commercial information provided to third parties.
+GPT:  Financial information provided to third parties.
+CAGPT:  Commercial information provided to third parties.
+CAGPT:  Biometric information provided to third parties.
+CAGPT:  Professional or employment-related information provided to third parties.
+CAGPT:  Audio, electronic, visual, thermal, olfactory, or similar information provided to third parties
+CAGPT:  Commercial information provided to third parties.
+CAGPT:  Audio, electronic, visual, thermal, olfactory, or similar information provided to third parties
+CAGPT:  Audio, electronic, or similar information provided to third parties
+CAGPT:  Commercial information provided to third parties.
+CAGPT:  Professional or employment-related information provided to third parties.
+CAGPT:  Demographic information provided to third parties for a business purpose.
+CAGPT:  Commercial information provided to third parties.
+CAGPT:  Internet or other electronic network activity information provided to third parties.
+CAGPT:  Audio, electronic, visual, or similar information provided to third parties
+CAGPT:  Commercial Information provided to third parties.
+CAGPT:  Internet or Other Electronic Network Activity Information provided to third parties.
+CAGPT:  Audio, Electronic, Visual, or Similar Information provided to third parties.
+CAGPT:  Professional or Employment-related Information provided to third parties.
+CAGPT:  Commercial information provided to third parties.
+CAGPT:  Biometric information provided to third parties.
+CAGPT:  Internet or other electronic network activity information provided to third parties.
+CAGPT:  Audio, electronic, visual, thermal, olfactory, or similar information provided to third parties
+CAGPT:  Audio, electronic, visual or similar information provided to third parties
+CAGPT:  Commercial information disclosed to third parties for business purposes.
+CAGPT:  Audio, electronic, visual, thermal, olfactory, or similar information provided to third parties
+CAGPT:  Surveys, sweepstakes, and event information provided to third parties
+CAGPT:  Personal Information from Other Sources provided to third parties.
+
